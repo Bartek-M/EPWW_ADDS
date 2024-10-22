@@ -1,0 +1,219 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241008094624-241001-0001.sct
+SECTORTITLE:EPWW-Sector_20241008094624-241001-0001.sct
+ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:Tower CTR EPWW ALL:
+Free Text:EPKK / EPKT VFR Points\B:freetext
+Free Text:EPKK / EPKT VFR Points\C:freetext
+Free Text:EPKK / EPKT VFR Points\D:freetext
+Free Text:EPKK / EPKT VFR Points\E:freetext
+Free Text:EPKK / EPKT VFR Points\G:freetext
+Free Text:EPKK / EPKT VFR Points\H:freetext
+Free Text:EPKK / EPKT VFR Points\I:freetext
+Free Text:EPKK / EPKT VFR Points\J:freetext
+Free Text:EPKK / EPKT VFR Points\K:freetext
+Free Text:EPKK / EPKT VFR Points\L:freetext
+Free Text:EPKK / EPKT VFR Points\M:freetext
+Free Text:EPKK / EPKT VFR Points\N:freetext
+Free Text:EPKK / EPKT VFR Points\O:freetext
+Free Text:EPKK / EPKT VFR Points\R:freetext
+Free Text:EPKK / EPKT VFR Points\S:freetext
+Free Text:EPKK / EPKT VFR Points\T:freetext
+Free Text:EPKK / EPKT VFR Points\U:freetext
+Free Text:EPKK / EPKT VFR Points\W:freetext
+Free Text:EPKK / EPKT VFR Points\X:freetext
+Free Text:EPKK / EPKT VFR Points\Z:freetext
+Free Text:EPKT Ladowiska\?ywiec H311:freetext
+Free Text:EPKT Ladowiska\Bielsko Bia?a H251:freetext
+Free Text:EPKT Ladowiska\Chorz�w - szpital H332:freetext
+Free Text:EPKT Ladowiska\Cieszyn H338:freetext
+Free Text:EPKT Ladowiska\Cz?stochowa H298:freetext
+Free Text:EPKT Ladowiska\D?browa G�rnicza H319:freetext
+Free Text:EPKT Ladowiska\Jastrz?bie Zdr�j H255:freetext
+Free Text:EPKT Ladowiska\Jaworzno H327:freetext
+Free Text:EPKT Ladowiska\Katowice Ligota H257:freetext
+Free Text:EPKT Ladowiska\Katowice Ochojec H258:freetext
+Free Text:EPKT Ladowiska\Piekary ?l?skie H277:freetext
+Free Text:EPKT Ladowiska\Pszczyna H322:freetext
+Free Text:EPKT Ladowiska\Racib�rz H306:freetext
+Free Text:EPKT Ladowiska\Rybnik H307:freetext
+Free Text:EPKT Ladowiska\Siemianowice ?l?skie H284:freetext
+Free Text:EPKT Ladowiska\Sosnowiec H286:freetext
+Free Text:EPKT Ladowiska\Tarnowskie G�ry H337:freetext
+Free Text:EPKT Ladowiska\Wis?a (KPRP) H339:freetext
+Free Text:EPKT Ladowiska\Zabrze H310:freetext
+Free Text:EPKT Ladowiska\Zawiercie H294:freetext
+Free Text:EPKT STAND + TWY [2021]\1:freetext
+Free Text:EPKT STAND + TWY [2021]\10:freetext
+Free Text:EPKT STAND + TWY [2021]\11:freetext
+Free Text:EPKT STAND + TWY [2021]\11L:freetext
+Free Text:EPKT STAND + TWY [2021]\11R:freetext
+Free Text:EPKT STAND + TWY [2021]\12:freetext
+Free Text:EPKT STAND + TWY [2021]\13:freetext
+Free Text:EPKT STAND + TWY [2021]\14:freetext
+Free Text:EPKT STAND + TWY [2021]\15:freetext
+Free Text:EPKT STAND + TWY [2021]\16:freetext
+Free Text:EPKT STAND + TWY [2021]\17:freetext
+Free Text:EPKT STAND + TWY [2021]\18:freetext
+Free Text:EPKT STAND + TWY [2021]\19:freetext
+Free Text:EPKT STAND + TWY [2021]\2:freetext
+Free Text:EPKT STAND + TWY [2021]\20:freetext
+Free Text:EPKT STAND + TWY [2021]\21:freetext
+Free Text:EPKT STAND + TWY [2021]\22:freetext
+Free Text:EPKT STAND + TWY [2021]\23:freetext
+Free Text:EPKT STAND + TWY [2021]\24:freetext
+Free Text:EPKT STAND + TWY [2021]\25:freetext
+Free Text:EPKT STAND + TWY [2021]\26:freetext
+Free Text:EPKT STAND + TWY [2021]\27:freetext
+Free Text:EPKT STAND + TWY [2021]\28:freetext
+Free Text:EPKT STAND + TWY [2021]\29:freetext
+Free Text:EPKT STAND + TWY [2021]\3:freetext
+Free Text:EPKT STAND + TWY [2021]\31:freetext
+Free Text:EPKT STAND + TWY [2021]\32:freetext
+Free Text:EPKT STAND + TWY [2021]\33:freetext
+Free Text:EPKT STAND + TWY [2021]\34:freetext
+Free Text:EPKT STAND + TWY [2021]\35:freetext
+Free Text:EPKT STAND + TWY [2021]\36:freetext
+Free Text:EPKT STAND + TWY [2021]\37:freetext
+Free Text:EPKT STAND + TWY [2021]\38:freetext
+Free Text:EPKT STAND + TWY [2021]\39:freetext
+Free Text:EPKT STAND + TWY [2021]\4:freetext
+Free Text:EPKT STAND + TWY [2021]\5:freetext
+Free Text:EPKT STAND + TWY [2021]\6:freetext
+Free Text:EPKT STAND + TWY [2021]\7:freetext
+Free Text:EPKT STAND + TWY [2021]\70:freetext
+Free Text:EPKT STAND + TWY [2021]\71:freetext
+Free Text:EPKT STAND + TWY [2021]\72:freetext
+Free Text:EPKT STAND + TWY [2021]\8:freetext
+Free Text:EPKT STAND + TWY [2021]\80:freetext
+Free Text:EPKT STAND + TWY [2021]\81:freetext
+Free Text:EPKT STAND + TWY [2021]\82:freetext
+Free Text:EPKT STAND + TWY [2021]\83:freetext
+Free Text:EPKT STAND + TWY [2021]\84:freetext
+Free Text:EPKT STAND + TWY [2021]\86:freetext
+Free Text:EPKT STAND + TWY [2021]\87:freetext
+Free Text:EPKT STAND + TWY [2021]\88:freetext
+Free Text:EPKT STAND + TWY [2021]\89:freetext
+Free Text:EPKT STAND + TWY [2021]\9:freetext
+Free Text:EPKT STAND + TWY [2021]\90:freetext
+Free Text:EPKT STAND + TWY [2021]\91:freetext
+Free Text:EPKT STAND + TWY [2021]\92:freetext
+Free Text:EPKT STAND + TWY [2021]\93:freetext
+Free Text:EPKT STAND + TWY [2021]\94:freetext
+Free Text:EPKT STAND + TWY [2021]\A:freetext
+Free Text:EPKT STAND + TWY [2021]\B:freetext
+Free Text:EPKT STAND + TWY [2021]\D:freetext
+Free Text:EPKT STAND + TWY [2021]\DE-ICING:freetext
+Free Text:EPKT STAND + TWY [2021]\E0:freetext
+Free Text:EPKT STAND + TWY [2021]\E1:freetext
+Free Text:EPKT STAND + TWY [2021]\E2:freetext
+Free Text:EPKT STAND + TWY [2021]\E3:freetext
+Free Text:EPKT STAND + TWY [2021]\F:freetext
+Free Text:EPKT STAND + TWY [2021]\H1:freetext
+Free Text:EPKT STAND + TWY [2021]\H2:freetext
+Free Text:EPKT STAND + TWY [2021]\H3:freetext
+Free Text:EPKT STAND + TWY [2021]\H4:freetext
+Free Text:EPKT STAND + TWY [2021]\H5:freetext
+Free Text:EPKT STAND + TWY [2021]\L:freetext
+Free Text:EPKT STAND + TWY [2021]\N:freetext
+Free Text:EPKT STAND + TWY [2021]\S:freetext
+Free Text:EPKT STAND + TWY [2021]\T:freetext
+Free Text:EPKT STAND + TWY [2021]\U:freetext
+Free Text:SCT2\A007/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A013/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A037/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A045/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A053/GND:freetext
+Free Text:SCT2\A061/GND:freetext
+Free Text:SCT2\A064/GND:freetext
+Free Text:SCT2\A065/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\F085/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F095/GND:freetext
+Free Text:SCT2\F115/GND:freetext
+Free Text:SCT2\F165/GND:freetext
+Free Text:SCT2\F410/F165:freetext
+Free Text:SCT2\F660/F410:freetext
+Geo:EPKT Groundlayout SMR TWY:
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Geo:GEO:
+Regions:EPKT SMR:polygon
+Runways:EPKT 08-26:extended centerline 1
+Runways:EPKT 08-26:extended centerline 1 left base
+Runways:EPKT 08-26:extended centerline 1 left ticks
+Runways:EPKT 08-26:extended centerline 1 left vectoring
+Runways:EPKT 08-26:extended centerline 1 right base
+Runways:EPKT 08-26:extended centerline 1 right ticks
+Runways:EPKT 08-26:extended centerline 1 right vectoring
+Runways:EPKT 08-26:extended centerline 2
+Runways:EPKT 08-26:extended centerline 2 left base
+Runways:EPKT 08-26:extended centerline 2 left ticks
+Runways:EPKT 08-26:extended centerline 2 left vectoring
+Runways:EPKT 08-26:extended centerline 2 right base
+Runways:EPKT 08-26:extended centerline 2 right ticks
+Runways:EPKT 08-26:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:P21-TWR
+WINDOWAREA:50.458816:19.046972:50.487111:19.124286
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:EPKT
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:2288
+PLUGIN:vSMR:SRW1BottomRightY:1303
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:7500
+PLUGIN:vSMR:SRW1OffsetX:6
+PLUGIN:vSMR:SRW1OffsetY:-1
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1809
+PLUGIN:vSMR:SRW1TopLeftY:860
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

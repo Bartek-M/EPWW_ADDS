@@ -1,0 +1,180 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20240614162825-240601-0002.sct
+SECTORTITLE:EPWW-Sector_20240614162825-240601-0002.sct
+ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:Tower CTR EPWW ALL:
+Free Text:EPWR Ladowiska\?widnica H795:freetext
+Free Text:EPWR Ladowiska\Boles?awiec H777:freetext
+Free Text:EPWR Ladowiska\G?og�w H779:freetext
+Free Text:EPWR Ladowiska\Jelenia G�ra H754:freetext
+Free Text:EPWR Ladowiska\K?odzko H756:freetext
+Free Text:EPWR Ladowiska\Legnica H784:freetext
+Free Text:EPWR Ladowiska\Lubin H330:freetext
+Free Text:EPWR Ladowiska\Milicz H789:freetext
+Free Text:EPWR Ladowiska\O?awa H803:freetext
+Free Text:EPWR Ladowiska\Polanica-Zdr�j H790:freetext
+Free Text:EPWR Ladowiska\Trzebnica H769:freetext
+Free Text:EPWR Ladowiska\Wa?brzych H770:freetext
+Free Text:EPWR Ladowiska\Wo?�w H797:freetext
+Free Text:EPWR Ladowiska\Wroc?aw Nowy Wojew�dzki H821:freetext
+Free Text:EPWR Ladowiska\Wroc?aw USK H806:freetext
+Free Text:EPWR Ladowiska\Wroc?aw Wojew�dzki H772:freetext
+Free Text:EPWR Ladowiska\Wroc?aw Wojskowy H773:freetext
+Free Text:EPWR Ladowiska\Z?bkowice ?l?skie H799:freetext
+Free Text:EPWR Ladowiska\Zgorzelec H800:freetext
+Free Text:EPWR STAND + TWY [2022]\1:freetext
+Free Text:EPWR STAND + TWY [2022]\10:freetext
+Free Text:EPWR STAND + TWY [2022]\11:freetext
+Free Text:EPWR STAND + TWY [2022]\12:freetext
+Free Text:EPWR STAND + TWY [2022]\13:freetext
+Free Text:EPWR STAND + TWY [2022]\14:freetext
+Free Text:EPWR STAND + TWY [2022]\15:freetext
+Free Text:EPWR STAND + TWY [2022]\16:freetext
+Free Text:EPWR STAND + TWY [2022]\17:freetext
+Free Text:EPWR STAND + TWY [2022]\18:freetext
+Free Text:EPWR STAND + TWY [2022]\2:freetext
+Free Text:EPWR STAND + TWY [2022]\21:freetext
+Free Text:EPWR STAND + TWY [2022]\22:freetext
+Free Text:EPWR STAND + TWY [2022]\23:freetext
+Free Text:EPWR STAND + TWY [2022]\24:freetext
+Free Text:EPWR STAND + TWY [2022]\25:freetext
+Free Text:EPWR STAND + TWY [2022]\26:freetext
+Free Text:EPWR STAND + TWY [2022]\27H:freetext
+Free Text:EPWR STAND + TWY [2022]\28H:freetext
+Free Text:EPWR STAND + TWY [2022]\3:freetext
+Free Text:EPWR STAND + TWY [2022]\4:freetext
+Free Text:EPWR STAND + TWY [2022]\44:freetext
+Free Text:EPWR STAND + TWY [2022]\45:freetext
+Free Text:EPWR STAND + TWY [2022]\46:freetext
+Free Text:EPWR STAND + TWY [2022]\47:freetext
+Free Text:EPWR STAND + TWY [2022]\5:freetext
+Free Text:EPWR STAND + TWY [2022]\51:freetext
+Free Text:EPWR STAND + TWY [2022]\52:freetext
+Free Text:EPWR STAND + TWY [2022]\6:freetext
+Free Text:EPWR STAND + TWY [2022]\8:freetext
+Free Text:EPWR STAND + TWY [2022]\9:freetext
+Free Text:EPWR STAND + TWY [2022]\A1:freetext
+Free Text:EPWR STAND + TWY [2022]\A2:freetext
+Free Text:EPWR STAND + TWY [2022]\APRON 4 (GA):freetext
+Free Text:EPWR STAND + TWY [2022]\B1:freetext
+Free Text:EPWR STAND + TWY [2022]\B2:freetext
+Free Text:EPWR STAND + TWY [2022]\B3:freetext
+Free Text:EPWR STAND + TWY [2022]\B4:freetext
+Free Text:EPWR STAND + TWY [2022]\CARGO:freetext
+Free Text:EPWR STAND + TWY [2022]\D1:freetext
+Free Text:EPWR STAND + TWY [2022]\D4:freetext
+Free Text:EPWR STAND + TWY [2022]\DE-ICING:freetext
+Free Text:EPWR STAND + TWY [2022]\E1:freetext
+Free Text:EPWR STAND + TWY [2022]\E2:freetext
+Free Text:EPWR STAND + TWY [2022]\E3:freetext
+Free Text:EPWR STAND + TWY [2022]\E4:freetext
+Free Text:EPWR STAND + TWY [2022]\FIRE:freetext
+Free Text:EPWR STAND + TWY [2022]\HANGARS:freetext
+Free Text:EPWR STAND + TWY [2022]\HEMS:freetext
+Free Text:EPWR STAND + TWY [2022]\RYR HANGAR:freetext
+Free Text:EPWR STAND + TWY [2022]\TERMINAL GA:freetext
+Free Text:EPWR STAND + TWY [2022]\TWR:freetext
+Free Text:EPWR VFR Points\G:freetext
+Free Text:EPWR VFR Points\K:freetext
+Free Text:EPWR VFR Points\N:freetext
+Free Text:EPWR VFR Points\R:freetext
+Free Text:EPWR VFR Points\S:freetext
+Free Text:EPWR VFR Points\Z:freetext
+Free Text:SCT2\A007/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A013/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A037/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A045/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A053/GND:freetext
+Free Text:SCT2\A061/GND:freetext
+Free Text:SCT2\A064/GND:freetext
+Free Text:SCT2\A065/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\F085/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F095/GND:freetext
+Free Text:SCT2\F115/GND:freetext
+Free Text:SCT2\F165/GND:freetext
+Free Text:SCT2\F410/F165:freetext
+Free Text:SCT2\F660/F410:freetext
+Geo:EPWR Groundlayout SMR TWY:
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Geo:GEO:
+Regions:EPWR SMR:polygon
+Runways:EPWR 11-29:extended centerline 1
+Runways:EPWR 11-29:extended centerline 1 left base
+Runways:EPWR 11-29:extended centerline 1 left ticks
+Runways:EPWR 11-29:extended centerline 1 left vectoring
+Runways:EPWR 11-29:extended centerline 1 right base
+Runways:EPWR 11-29:extended centerline 1 right ticks
+Runways:EPWR 11-29:extended centerline 1 right vectoring
+Runways:EPWR 11-29:extended centerline 2
+Runways:EPWR 11-29:extended centerline 2 left base
+Runways:EPWR 11-29:extended centerline 2 left ticks
+Runways:EPWR 11-29:extended centerline 2 left vectoring
+Runways:EPWR 11-29:extended centerline 2 right base
+Runways:EPWR 11-29:extended centerline 2 right ticks
+Runways:EPWR 11-29:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:333.00000
+TAGFAMILY:P21-TWR
+WINDOWAREA:51.088441:16.858547:51.117034:16.917125
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:EPWR
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:2288
+PLUGIN:vSMR:SRW1BottomRightY:1303
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:7500
+PLUGIN:vSMR:SRW1OffsetX:6
+PLUGIN:vSMR:SRW1OffsetY:-1
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1809
+PLUGIN:vSMR:SRW1TopLeftY:860
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

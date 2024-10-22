@@ -1,0 +1,177 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Planes\ATC\Euroscope\EPWW_ADDS\EPWW-Sector_20230810140632-230801-0002.sct
+SECTORTITLE:EPWW-Sector_20230810140632-230801-0002.sct
+Airports:EPRA:name
+Airports:EPRA:symbol
+Airports:EPRP:name
+Airports:EPRP:symbol
+ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:Radom TMA In:
+Free Text:EPRA Stands + TWY\1:freetext
+Free Text:EPRA Stands + TWY\10:freetext
+Free Text:EPRA Stands + TWY\11:freetext
+Free Text:EPRA Stands + TWY\12:freetext
+Free Text:EPRA Stands + TWY\13:freetext
+Free Text:EPRA Stands + TWY\14:freetext
+Free Text:EPRA Stands + TWY\2:freetext
+Free Text:EPRA Stands + TWY\3:freetext
+Free Text:EPRA Stands + TWY\4:freetext
+Free Text:EPRA Stands + TWY\5:freetext
+Free Text:EPRA Stands + TWY\6:freetext
+Free Text:EPRA Stands + TWY\7:freetext
+Free Text:EPRA Stands + TWY\8:freetext
+Free Text:EPRA Stands + TWY\9:freetext
+Free Text:EPRA Stands + TWY\A:freetext
+Free Text:EPRA Stands + TWY\A1:freetext
+Free Text:EPRA Stands + TWY\A1:freetext
+Free Text:EPRA Stands + TWY\A5:freetext
+Free Text:EPRA Stands + TWY\A6:freetext
+Free Text:EPRA Stands + TWY\Apron 1:freetext
+Free Text:EPRA Stands + TWY\Apron 2 (DEICE):freetext
+Free Text:EPRA Stands + TWY\Apron 3 (MIL):freetext
+Free Text:EPRA Stands + TWY\Apron 4 (MIL):freetext
+Free Text:EPRA Stands + TWY\Apron 5 (MIL):freetext
+Free Text:EPRA Stands + TWY\B:freetext
+Free Text:EPRA Stands + TWY\D:freetext
+Free Text:EPRA Stands + TWY\E:freetext
+Free Text:EPRA Stands + TWY\FIRE STATION:freetext
+Free Text:EPRA Stands + TWY\G:freetext
+Free Text:EPRA Stands + TWY\G:freetext
+Free Text:EPRA Stands + TWY\H:freetext
+Free Text:EPRA Stands + TWY\H:freetext
+Free Text:EPRA Stands + TWY\HANGAR:freetext
+Free Text:EPRA Stands + TWY\HANGAR:freetext
+Free Text:EPRA Stands + TWY\HANGAR:freetext
+Free Text:EPRA Stands + TWY\K1:freetext
+Free Text:EPRA Stands + TWY\K2:freetext
+Free Text:EPRA Stands + TWY\K3:freetext
+Free Text:EPRA Stands + TWY\K4:freetext
+Free Text:EPRA Stands + TWY\K5:freetext
+Free Text:EPRA Stands + TWY\M:freetext
+Free Text:EPRA Stands + TWY\M:freetext
+Free Text:EPRA Stands + TWY\M:freetext
+Free Text:EPRA Stands + TWY\M:freetext
+Free Text:EPRA Stands + TWY\M1:freetext
+Free Text:EPRA Stands + TWY\M2:freetext
+Free Text:EPRA Stands + TWY\M3:freetext
+Free Text:EPRA Stands + TWY\S:freetext
+Free Text:EPRA Stands + TWY\TWR:freetext
+Free Text:EPRA Stands + TWY\TWR (MIL):freetext
+Free Text:EPRA VFR Points\B:freetext
+Free Text:EPRA VFR Points\C:freetext
+Free Text:EPRA VFR Points\F:freetext
+Free Text:EPRA VFR Points\H:freetext
+Free Text:EPRA VFR Points\I:freetext
+Free Text:EPRA VFR Points\J:freetext
+Free Text:EPRA VFR Points\N:freetext
+Free Text:EPRA VFR Points\R:freetext
+Free Text:EPRA VFR Points\S:freetext
+Free Text:EPRA VFR Points\Z:freetext
+Free Text:SCT2\A007/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A013/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A037/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A045/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A053/GND:freetext
+Free Text:SCT2\A061/GND:freetext
+Free Text:SCT2\A064/GND:freetext
+Free Text:SCT2\A065/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\F085/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F095/GND:freetext
+Free Text:SCT2\F115/GND:freetext
+Free Text:SCT2\F165/GND:freetext
+Free Text:SCT2\F410/F165:freetext
+Free Text:SCT2\F660/F410:freetext
+Geo:EPRA Groundlayout SMR TWY:
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Geo:GEO:
+NDBs:NR:name
+NDBs:NR:symbol
+Regions:EPRA SMR:polygon
+Runways:EPRA 07-25:centerline
+Runways:EPRA 07-25:extended centerline 1
+Runways:EPRA 07-25:extended centerline 1 left base
+Runways:EPRA 07-25:extended centerline 1 left ticks
+Runways:EPRA 07-25:extended centerline 1 left vectoring
+Runways:EPRA 07-25:extended centerline 1 right base
+Runways:EPRA 07-25:extended centerline 1 right ticks
+Runways:EPRA 07-25:extended centerline 1 right vectoring
+Runways:EPRA 07-25:extended centerline 2
+Runways:EPRA 07-25:extended centerline 2 left base
+Runways:EPRA 07-25:extended centerline 2 left ticks
+Runways:EPRA 07-25:extended centerline 2 left vectoring
+Runways:EPRA 07-25:extended centerline 2 right base
+Runways:EPRA 07-25:extended centerline 2 right ticks
+Runways:EPRA 07-25:extended centerline 2 right vectoring
+Runways:EPRA 07-25:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:15.00000
+TAGFAMILY:P21-TWR
+WINDOWAREA:51.383841:21.187774:51.399213:21.250789
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0

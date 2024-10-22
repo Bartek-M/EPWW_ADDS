@@ -1,0 +1,169 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241008094624-241001-0001.sct
+SECTORTITLE:EPWW-Sector_20241008094624-241001-0001.sct
+ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:Tower CTR EPWW ALL:
+Free Text:EPGD LADOWISKA\Chojnice H005:freetext
+Free Text:EPGD LADOWISKA\Gda?sk Kopernika H110:freetext
+Free Text:EPGD LADOWISKA\Gda?sk MW H011:freetext
+Free Text:EPGD LADOWISKA\Gda?sk UCK H010:freetext
+Free Text:EPGD LADOWISKA\Gda?sk Zaspa H012:freetext
+Free Text:EPGD LADOWISKA\Gdynia H116:freetext
+Free Text:EPGD LADOWISKA\Hel H015:freetext
+Free Text:EPGD LADOWISKA\Jurata-Mewa (KPRP) H114:freetext
+Free Text:EPGD LADOWISKA\Kartuzy H017:freetext
+Free Text:EPGD LADOWISKA\Ko?cierzyna H018:freetext
+Free Text:EPGD LADOWISKA\Kwidzyn H019:freetext
+Free Text:EPGD LADOWISKA\L?bork H060:freetext
+Free Text:EPGD LADOWISKA\Malbork - Ko?cieleczki H109:freetext
+Free Text:EPGD LADOWISKA\Miastko H111:freetext
+Free Text:EPGD LADOWISKA\S?upsk H107:freetext
+Free Text:EPGD LADOWISKA\Starogard Gda?ski H023:freetext
+Free Text:EPGD LADOWISKA\Sztum H095:freetext
+Free Text:EPGD LADOWISKA\Wejherowo H028:freetext
+Free Text:EPGD STAND + TWY [2021]\1:freetext
+Free Text:EPGD STAND + TWY [2021]\10:freetext
+Free Text:EPGD STAND + TWY [2021]\11:freetext
+Free Text:EPGD STAND + TWY [2021]\12:freetext
+Free Text:EPGD STAND + TWY [2021]\13:freetext
+Free Text:EPGD STAND + TWY [2021]\2:freetext
+Free Text:EPGD STAND + TWY [2021]\20:freetext
+Free Text:EPGD STAND + TWY [2021]\20A:freetext
+Free Text:EPGD STAND + TWY [2021]\21:freetext
+Free Text:EPGD STAND + TWY [2021]\22:freetext
+Free Text:EPGD STAND + TWY [2021]\23:freetext
+Free Text:EPGD STAND + TWY [2021]\24:freetext
+Free Text:EPGD STAND + TWY [2021]\25:freetext
+Free Text:EPGD STAND + TWY [2021]\26:freetext
+Free Text:EPGD STAND + TWY [2021]\27:freetext
+Free Text:EPGD STAND + TWY [2021]\28:freetext
+Free Text:EPGD STAND + TWY [2021]\3:freetext
+Free Text:EPGD STAND + TWY [2021]\31:freetext
+Free Text:EPGD STAND + TWY [2021]\32:freetext
+Free Text:EPGD STAND + TWY [2021]\33:freetext
+Free Text:EPGD STAND + TWY [2021]\34:freetext
+Free Text:EPGD STAND + TWY [2021]\35:freetext
+Free Text:EPGD STAND + TWY [2021]\36:freetext
+Free Text:EPGD STAND + TWY [2021]\37:freetext
+Free Text:EPGD STAND + TWY [2021]\4:freetext
+Free Text:EPGD STAND + TWY [2021]\40:freetext
+Free Text:EPGD STAND + TWY [2021]\41:freetext
+Free Text:EPGD STAND + TWY [2021]\42:freetext
+Free Text:EPGD STAND + TWY [2021]\43:freetext
+Free Text:EPGD STAND + TWY [2021]\44:freetext
+Free Text:EPGD STAND + TWY [2021]\45:freetext
+Free Text:EPGD STAND + TWY [2021]\5:freetext
+Free Text:EPGD STAND + TWY [2021]\50:freetext
+Free Text:EPGD STAND + TWY [2021]\50A:freetext
+Free Text:EPGD STAND + TWY [2021]\51:freetext
+Free Text:EPGD STAND + TWY [2021]\6:freetext
+Free Text:EPGD STAND + TWY [2021]\60:freetext
+Free Text:EPGD STAND + TWY [2021]\61:freetext
+Free Text:EPGD STAND + TWY [2021]\62:freetext
+Free Text:EPGD STAND + TWY [2021]\7:freetext
+Free Text:EPGD STAND + TWY [2021]\8:freetext
+Free Text:EPGD STAND + TWY [2021]\80:freetext
+Free Text:EPGD STAND + TWY [2021]\81:freetext
+Free Text:EPGD STAND + TWY [2021]\9:freetext
+Free Text:EPGD STAND + TWY [2021]\A1:freetext
+Free Text:EPGD STAND + TWY [2021]\A2:freetext
+Free Text:EPGD STAND + TWY [2021]\A3:freetext
+Free Text:EPGD STAND + TWY [2021]\A4:freetext
+Free Text:EPGD STAND + TWY [2021]\A5:freetext
+Free Text:EPGD STAND + TWY [2021]\A6:freetext
+Free Text:EPGD STAND + TWY [2021]\A7:freetext
+Free Text:EPGD STAND + TWY [2021]\B:freetext
+Free Text:EPGD STAND + TWY [2021]\C:freetext
+Free Text:EPGD STAND + TWY [2021]\D:freetext
+Free Text:EPGD STAND + TWY [2021]\E:freetext
+Free Text:EPGD STAND + TWY [2021]\F:freetext
+Free Text:EPGD STAND + TWY [2021]\G:freetext
+Free Text:EPGD STAND + TWY [2021]\H:freetext
+Free Text:EPGD STAND + TWY [2021]\HEMS:freetext
+Free Text:EPGD STAND + TWY [2021]\J:freetext
+Free Text:EPGD STAND + TWY [2021]\K:freetext
+Free Text:EPGD STAND + TWY [2021]\L:freetext
+Free Text:EPGD STAND + TWY [2021]\M:freetext
+Free Text:EPGD STAND + TWY [2021]\N:freetext
+Free Text:EPGD STAND + TWY [2021]\R:freetext
+Free Text:EPGD STAND + TWY [2021]\W:freetext
+Free Text:EPGD VFR Points\G:freetext
+Free Text:EPGD VFR Points\I:freetext
+Free Text:EPGD VFR Points\M:freetext
+Free Text:EPGD VFR Points\N:freetext
+Free Text:EPGD VFR Points\S:freetext
+Free Text:EPGD VFR Points\X:freetext
+Free Text:EPGD VFR Points\Z:freetext
+Geo:EPGD Groundlayout SMR TWY:
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Geo:GEO:
+Regions:EPGD SMR:polygon
+Runways:EPGD 11-29:extended centerline 1
+Runways:EPGD 11-29:extended centerline 1 left base
+Runways:EPGD 11-29:extended centerline 1 left ticks
+Runways:EPGD 11-29:extended centerline 1 left vectoring
+Runways:EPGD 11-29:extended centerline 1 right base
+Runways:EPGD 11-29:extended centerline 1 right ticks
+Runways:EPGD 11-29:extended centerline 1 right vectoring
+Runways:EPGD 11-29:extended centerline 2
+Runways:EPGD 11-29:extended centerline 2 left base
+Runways:EPGD 11-29:extended centerline 2 left ticks
+Runways:EPGD 11-29:extended centerline 2 left vectoring
+Runways:EPGD 11-29:extended centerline 2 right base
+Runways:EPGD 11-29:extended centerline 2 right ticks
+Runways:EPGD 11-29:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:1
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:338.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:54.361055:18.436157:54.392789:18.522867
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Radar
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:EPGD
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:2288
+PLUGIN:vSMR:SRW1BottomRightY:1303
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:7500
+PLUGIN:vSMR:SRW1OffsetX:6
+PLUGIN:vSMR:SRW1OffsetY:-1
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1809
+PLUGIN:vSMR:SRW1TopLeftY:860
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

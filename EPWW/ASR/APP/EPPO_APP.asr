@@ -1,0 +1,223 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:EPJG:name
+Airports:EPJG:symbol
+Airports:EPJS:name
+Airports:EPJS:symbol
+Airports:EPKN:name
+Airports:EPKN:symbol
+Airports:EPLS:name
+Airports:EPLS:symbol
+Airports:EPLU:name
+Airports:EPLU:symbol
+Airports:EPOP:name
+Airports:EPOP:symbol
+Airports:EPPG:name
+Airports:EPPG:symbol
+Airports:EPPI:name
+Airports:EPPI:symbol
+Airports:EPPK:name
+Airports:EPPK:symbol
+Airports:EPWS:name
+Airports:EPWS:symbol
+Airports:EPZP:name
+Airports:EPZP:symbol
+ARTCC high boundary:AoR CTR EPWW ESAA:
+ARTCC high boundary:FIR border EDGG:
+ARTCC high boundary:FIR border EDMM:
+ARTCC high boundary:FIR border EDWW FIR EDWW:
+ARTCC high boundary:FIR border EPWW:
+ARTCC high boundary:FIR border EPWW EYVL FIR Border:
+ARTCC high boundary:FIR border EPWW UMMV FIR Sector West:
+ARTCC high boundary:FIR border LKAA:
+ARTCC high boundary:FIR border LZBB Boarder:
+ARTCC high boundary:FIR border UKLV UKLV West:
+ARTCC low boundary:MRVA EPPO NORTH:
+ARTCC low boundary:MRVA EPPO SOUTH:
+Fixes:AKAPI:name
+Fixes:AKAPI:symbol
+Fixes:DEKUT:name
+Fixes:DEKUT:symbol
+Fixes:DENKO:name
+Fixes:DENKO:symbol
+Fixes:DINOV:name
+Fixes:DINOV:symbol
+Fixes:ELSUP:name
+Fixes:ELSUP:symbol
+Fixes:EPOPA:name
+Fixes:EPOPA:symbol
+Fixes:ERNOX:name
+Fixes:ERNOX:symbol
+Fixes:KELOD:name
+Fixes:KELOD:symbol
+Fixes:LUNUK:name
+Fixes:LUNUK:symbol
+Fixes:MAPIK:name
+Fixes:MAPIK:symbol
+Fixes:MASIV:name
+Fixes:MASIV:symbol
+Fixes:NILPU:name
+Fixes:NILPU:symbol
+Fixes:OBOKU:name
+Fixes:OBOKU:symbol
+Fixes:PEKOT:name
+Fixes:PEKOT:symbol
+Fixes:SUDOL:name
+Fixes:SUDOL:symbol
+Fixes:ULGIL:name
+Fixes:ULGIL:symbol
+Fixes:UVIVI:name
+Fixes:UVIVI:symbol
+Fixes:VAGNI:name
+Fixes:VAGNI:symbol
+Fixes:WR604:name
+Fixes:WR604:symbol
+Fixes:XERBI:name
+Fixes:XERBI:symbol
+Fixes:XIDNA:name
+Fixes:XIDNA:symbol
+Free Text:EPPO MRVA N\2000:freetext
+Free Text:EPPO MRVA N\2100:freetext
+Free Text:EPPO MRVA N\2100:freetext
+Free Text:EPPO MRVA N\2100:freetext
+Free Text:EPPO MRVA N\2400:freetext
+Free Text:EPPO MRVA N\4000:freetext
+Free Text:EPPO MRVA N\7000:freetext
+Free Text:EPPO MRVA N\F100:freetext
+Free Text:EPPO MRVA S\2100:freetext
+Free Text:EPPO MRVA S\2500:freetext
+Free Text:EPPO MRVA S\2700:freetext
+Free Text:EPPO MRVA S\6000:freetext
+Free Text:EPPO MRVA S\7000:freetext
+Free Text:EPPO MRVA S\7000:freetext
+Free Text:EPPO MRVA S\F100:freetext
+Free Text:SCT2\A007/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A013/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A037/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A045/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A053/GND:freetext
+Free Text:SCT2\A061/GND:freetext
+Free Text:SCT2\A064/GND:freetext
+Free Text:SCT2\A065/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\F085/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F095/GND:freetext
+Free Text:SCT2\F115/GND:freetext
+Free Text:SCT2\F165/GND:freetext
+Free Text:SCT2\F410/F165:freetext
+Free Text:SCT2\F660/F410:freetext
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Geo:GEO:
+Runways:EPPO 10-28:centerline
+Runways:EPPO 10-28:extended centerline 1
+Runways:EPPO 10-28:extended centerline 1 left base
+Runways:EPPO 10-28:extended centerline 1 left ticks
+Runways:EPPO 10-28:extended centerline 1 left vectoring
+Runways:EPPO 10-28:extended centerline 1 right base
+Runways:EPPO 10-28:extended centerline 1 right ticks
+Runways:EPPO 10-28:extended centerline 1 right vectoring
+Runways:EPPO 10-28:extended centerline 2
+Runways:EPPO 10-28:extended centerline 2 left base
+Runways:EPPO 10-28:extended centerline 2 left ticks
+Runways:EPPO 10-28:extended centerline 2 left vectoring
+Runways:EPPO 10-28:extended centerline 2 right base
+Runways:EPPO 10-28:extended centerline 2 right ticks
+Runways:EPPO 10-28:extended centerline 2 right vectoring
+Runways:EPPO 10-28:name
+Runways:EPWR 11-29:centerline
+Runways:EPWR 11-29:extended centerline 1
+Runways:EPWR 11-29:extended centerline 1 left base
+Runways:EPWR 11-29:extended centerline 1 left ticks
+Runways:EPWR 11-29:extended centerline 1 left vectoring
+Runways:EPWR 11-29:extended centerline 1 right base
+Runways:EPWR 11-29:extended centerline 1 right ticks
+Runways:EPWR 11-29:extended centerline 1 right vectoring
+Runways:EPWR 11-29:extended centerline 2
+Runways:EPWR 11-29:extended centerline 2 left base
+Runways:EPWR 11-29:extended centerline 2 left ticks
+Runways:EPWR 11-29:extended centerline 2 left vectoring
+Runways:EPWR 11-29:extended centerline 2 right base
+Runways:EPWR 11-29:extended centerline 2 right ticks
+Runways:EPWR 11-29:extended centerline 2 right vectoring
+Runways:EPWR 11-29:name
+Runways:EPZG 06-24:centerline
+Runways:EPZG 06-24:extended centerline 1
+Runways:EPZG 06-24:extended centerline 1 left base
+Runways:EPZG 06-24:extended centerline 1 left ticks
+Runways:EPZG 06-24:extended centerline 1 left vectoring
+Runways:EPZG 06-24:extended centerline 1 right base
+Runways:EPZG 06-24:extended centerline 1 right ticks
+Runways:EPZG 06-24:extended centerline 1 right vectoring
+Runways:EPZG 06-24:extended centerline 2
+Runways:EPZG 06-24:extended centerline 2 left base
+Runways:EPZG 06-24:extended centerline 2 left ticks
+Runways:EPZG 06-24:extended centerline 2 left vectoring
+Runways:EPZG 06-24:extended centerline 2 right base
+Runways:EPZG 06-24:extended centerline 2 right ticks
+Runways:EPZG 06-24:extended centerline 2 right vectoring
+Runways:EPZG 06-24:name
+VORs:CMP:frequency
+VORs:CMP:name
+VORs:CMP:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:1600
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:356.00000
+TAGFAMILY:P21-APP
+WINDOWAREA:50.082353:12.348742:53.607610:23.095148

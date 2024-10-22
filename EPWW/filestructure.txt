@@ -1,0 +1,32 @@
+\--
+--\Poland.prf		<- Prepared PRF
+--\EPWW-Sector_<airac>.sct	<- Sectorfile
+--\EPWW-Sector_<airac>.ese	<- Sectorfile extension
+
+\EPWW\--
+--\Plugins\.dll			<- Preloaded plugins
+--\NavData\AIRWAY.txt		<- NavData Files (FSNav)
+--\ICAO\ICAO_Aircraft.txt	<- ICAO Files
+--\ICAO\ICAO_Airlines.txt	<- ICAO Files
+--\ICAO\ICAO_Airports.txt	<- ICAO Files
+--\ASR\<ICAO>_<POS>.asr		<- Prepared ASR per Function
+--\SETTINGS\P21.txt		<- Tags & Symbology
+--\SETTINGS\TWR.txt		<- Other settings
+--\SETTINGS\EPWW_freq.txt	<- Frequency list
+--\SETTINGS\PLUGINS.txt		<- Plugins list
+--\SETTINGS\Positions.txt <- Connectivity Positions lists
+
+
+Plugin lists:
+0) Aman.dll (not loaded)
+1) AudioForVATSIMBridge.dll
+2) CCAMS.dll
+3) CDM.dll
+4) GRPlugin.dll
+5) MAESTRO.dll
+6) P21Euroscope.dll
+7) RDFPlugin.dll (not loaded)
+8) TopSky.dll
+9) VCH.dll
+10) vSMR.dll
+11) vStripsESP (not loaded)

@@ -1,0 +1,89 @@
+VOICE
+AG:Arlamow Radio:136.505
+AG:Babice Information:119.180
+AG:Bagicz Radio:118.830
+AG:Bygdoszcz Tower:131.005
+AG:Dajtki Radio:124.480
+AG:Deblin Approach:128.250
+AG:Deblin Tower:122.750
+AG:EPBY_ATIS:129.330
+AG:EPGD_ATIS:129.630
+AG:EPKK_ATIS:126.130
+AG:EPKT_ATIS:120.230
+AG:EPLL_ATIS:135.680
+AG:EPMO_ATIS:136.555
+AG:EPPO_ATIS:124.705
+AG:EPRZ_ATIS:124.955
+AG:EPSC_ATIS:132.130
+AG:EPWA_ATIS:120.455
+AG:EPWR_ATIS:124.330
+AG:Gdansk Approach:127.280
+AG:Gdansk Director:133.660
+AG:Gdansk Ground:131.330
+AG:Gdansk Information:127.150
+AG:Gdansk Tower:118.105
+AG:Grady Radio:126.855
+AG:Jastarnia Radio:122.830
+AG:Katowice Delivery:121.805
+AG:Katowice Tower:129.255
+AG:Kikity Radio:119.405
+AG:Krakow Approach (E):126.975
+AG:Krakow Approach (KK):126.530
+AG:Krakow Approach (KT):135.405
+AG:Krakow Approach:121.075
+AG:Krakow Delivery:121.980
+AG:Krakow Ground:118.105
+AG:Krakow Information:119.275
+AG:Krakow Tower:123.255
+AG:Krosno Radio:119.555
+AG:Krzesiny Precision:120.750
+AG:Krzesiny Tower:121.025
+AG:Lodz Delivery:120.005
+AG:Lodz Tower:124.230
+AG:Lublin Tower:136.430
+AG:Maslow Radio:118.080
+AG:Mazury Tower:118.030
+AG:Mielec Information:119.105
+AG:Modlin Delivery:119.680
+AG:Modlin Tower:123.930
+AG:Nowy Targ Radio:122.305
+AG:Okecie Delivery:121.605
+AG:Okecie Ground:121.905
+AG:Okecie Tower:118.305
+AG:Poznan Approach (N):128.925
+AG:Poznan Approach (S):123.040
+AG:Poznan Delivery:121.805
+AG:Poznan Ground:124.140
+AG:Poznan Information:126.300
+AG:Poznan Tower:119.980
+AG:Przasnysz Radio:122.600
+AG:Radom MIL Ground:121.750
+AG:Radom Tower:118.430
+AG:Rzeszow Ground:121.805
+AG:Rzeszow Tower:126.805
+AG:Szczecin Tower:121.255
+AG:Warszawa (Olsztyn) Information:118.775
+AG:Warszawa Approach North:125.055
+AG:Warszawa Approach South:135.930
+AG:Warszawa Approach:128.805
+AG:Warszawa Director:129.380
+AG:Warszawa Information Bandbox:134.875
+AG:Warszawa Information:119.450
+AG:Warszawa Radar ALLFIR:125.450
+AG:Warszawa Radar B:127.025
+AG:Warszawa Radar C:133.475
+AG:Warszawa Radar D:134.225
+AG:Warszawa Radar E:120.950
+AG:Warszawa Radar F:129.075
+AG:Warszawa Radar G:124.925
+AG:Warszawa Radar J:124.625
+AG:Warszawa Radar K:134.175
+AG:Warszawa Radar N:132.700
+AG:Warszawa Radar R:123.625
+AG:Warszawa Radar UPPER:130.625
+AG:Warszawa Radar Z:130.875
+AG:Wroclaw Delivery:121.805
+AG:Wroclaw Tower:120.255
+AG:Zar Radio:122.805
+AG:Zielona Gora Tower:118.755
+END

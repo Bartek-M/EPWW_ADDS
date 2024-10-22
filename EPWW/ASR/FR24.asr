@@ -1,0 +1,379 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241008094624-241001-0001.sct
+SECTORTITLE:EPWW-Sector_20241008094624-241001-0001.sct
+ARTCC boundary:Poznan TMA OUT:
+ARTCC boundary:Radom TMA OUT:
+ARTCC boundary:TMA EPBY OUT:
+ARTCC boundary:TMA EPDE OUT:
+ARTCC boundary:TMA EPGD OUT:
+ARTCC boundary:TMA EPKK OUT:
+ARTCC boundary:TMA EPLB OUT:
+ARTCC boundary:TMA EPLL OUT:
+ARTCC boundary:TMA EPRZ OUT:
+ARTCC boundary:TMA EPSC OUT:
+ARTCC boundary:TMA EPSY OUT:
+ARTCC boundary:TMA EPWA OUT:
+ARTCC boundary:TMA EPZG OUT:
+ARTCC high boundary:FIR border 0 - EDMM:
+ARTCC high boundary:FIR border 0 - EDWW:
+ARTCC high boundary:FIR border 0 - ESAA:
+ARTCC high boundary:FIR border 0 - EYVL:
+ARTCC high boundary:FIR border 0 - LKAA:
+ARTCC high boundary:FIR border 0 - LOVV:
+ARTCC high boundary:FIR border 0 - LZBB:
+ARTCC high boundary:FIR border 0 - UKLV-E:
+ARTCC high boundary:FIR border 0 - UKLV-W:
+ARTCC high boundary:FIR border 0 - UMMV:
+ARTCC high boundary:FIR border EPWW:
+Airports:EDDB:name
+Airports:EPAR:name
+Airports:EPBA:name
+Airports:EPBC:name
+Airports:EPBK:name
+Airports:EPBO:name
+Airports:EPBY:name
+Airports:EPCD:name
+Airports:EPCE:name
+Airports:EPDA:name
+Airports:EPDE:name
+Airports:EPEL:name
+Airports:EPGD:name
+Airports:EPGE:name
+Airports:EPGI:name
+Airports:EPGL:name
+Airports:EPGY:name
+Airports:EPIN:name
+Airports:EPIR:name
+Airports:EPIW:name
+Airports:EPJA:name
+Airports:EPJG:name
+Airports:EPJS:name
+Airports:EPKA:name
+Airports:EPKC:name
+Airports:EPKE:name
+Airports:EPKG:name
+Airports:EPKI:name
+Airports:EPKK:name
+Airports:EPKM:name
+Airports:EPKN:name
+Airports:EPKO:name
+Airports:EPKP:name
+Airports:EPKR:name
+Airports:EPKS:name
+Airports:EPKT:name
+Airports:EPKW:name
+Airports:EPKX:name
+Airports:EPLB:name
+Airports:EPLI:name
+Airports:EPLK:name
+Airports:EPLL:name
+Airports:EPLR:name
+Airports:EPLS:name
+Airports:EPLU:name
+Airports:EPLY:name
+Airports:EPMB:name
+Airports:EPMI:name
+Airports:EPML:name
+Airports:EPMM:name
+Airports:EPMO:name
+Airports:EPMR:name
+Airports:EPMX:name
+Airports:EPNC:name
+Airports:EPNL:name
+Airports:EPNM:name
+Airports:EPNT:name
+Airports:EPOD:name
+Airports:EPOK:name
+Airports:EPOM:name
+Airports:EPOP:name
+Airports:EPPB:name
+Airports:EPPG:name
+Airports:EPPI:name
+Airports:EPPK:name
+Airports:EPPL:name
+Airports:EPPO:name
+Airports:EPPR:name
+Airports:EPPT:name
+Airports:EPPW:name
+Airports:EPPZ:name
+Airports:EPRA:name
+Airports:EPRD:name
+Airports:EPRG:name
+Airports:EPRJ:name
+Airports:EPRP:name
+Airports:EPRU:name
+Airports:EPRZ:name
+Airports:EPSC:name
+Airports:EPSD:name
+Airports:EPSI:name
+Airports:EPSJ:name
+Airports:EPSK:name
+Airports:EPSL:name
+Airports:EPSN:name
+Airports:EPSO:name
+Airports:EPSS:name
+Airports:EPST:name
+Airports:EPSU:name
+Airports:EPSW:name
+Airports:EPSY:name
+Airports:EPTM:name
+Airports:EPTO:name
+Airports:EPWA:name
+Airports:EPWK:name
+Airports:EPWR:name
+Airports:EPWS:name
+Airports:EPWT:name
+Airports:EPZA:name
+Airports:EPZE:name
+Airports:EPZG:name
+Airports:EPZP:name
+Airports:EPZR:name
+Free Text:EPWW MIEJSCOWOSCI\Aleksandrow Lodzki:freetext
+Free Text:EPWW MIEJSCOWOSCI\Andrychow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Barlinek:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bartoszyce:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bielawa:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bielsk Podlaski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bilgoraj:freetext
+Free Text:EPWW MIEJSCOWOSCI\Blachownia:freetext
+Free Text:EPWW MIEJSCOWOSCI\Blonie:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bochnia:freetext
+Free Text:EPWW MIEJSCOWOSCI\Boguszow-Gorce:freetext
+Free Text:EPWW MIEJSCOWOSCI\Boleslawiec:freetext
+Free Text:EPWW MIEJSCOWOSCI\Brodnica:freetext
+Free Text:EPWW MIEJSCOWOSCI\Brwinow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Brzeg:freetext
+Free Text:EPWW MIEJSCOWOSCI\Brzeg Dolny:freetext
+Free Text:EPWW MIEJSCOWOSCI\Brzeziny:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bukowno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bystrzyca Klodzka:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bytom:freetext
+Free Text:EPWW MIEJSCOWOSCI\Bytow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Chelmza:freetext
+Free Text:EPWW MIEJSCOWOSCI\Chodziez:freetext
+Free Text:EPWW MIEJSCOWOSCI\Chojnow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Ciechanow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Ciechocinek:freetext
+Free Text:EPWW MIEJSCOWOSCI\Czarna Bialostocka:freetext
+Free Text:EPWW MIEJSCOWOSCI\Czarnkow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Czerwionka-Leszczyny:freetext
+Free Text:EPWW MIEJSCOWOSCI\Dabrowa Gornicza:freetext
+Free Text:EPWW MIEJSCOWOSCI\Debno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Dobre Miasto:freetext
+Free Text:EPWW MIEJSCOWOSCI\Drezdenko:freetext
+Free Text:EPWW MIEJSCOWOSCI\Dzialdowo:freetext
+Free Text:EPWW MIEJSCOWOSCI\Elblag:freetext
+Free Text:EPWW MIEJSCOWOSCI\Elk:freetext
+Free Text:EPWW MIEJSCOWOSCI\Garwolin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Gdansk:freetext
+Free Text:EPWW MIEJSCOWOSCI\Gdynia:freetext
+Free Text:EPWW MIEJSCOWOSCI\Glubczyce:freetext
+Free Text:EPWW MIEJSCOWOSCI\Glucholazy:freetext
+Free Text:EPWW MIEJSCOWOSCI\Gniezno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Goldap:freetext
+Free Text:EPWW MIEJSCOWOSCI\Gora Kalwaria:freetext
+Free Text:EPWW MIEJSCOWOSCI\Gorzow Wielkopolski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Gostynin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Grodzisk Wielkopolski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Grojec:freetext
+Free Text:EPWW MIEJSCOWOSCI\Grudziadz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Gryfino:freetext
+Free Text:EPWW MIEJSCOWOSCI\Hajnowka:freetext
+Free Text:EPWW MIEJSCOWOSCI\Hrubieszow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Ilawa:freetext
+Free Text:EPWW MIEJSCOWOSCI\Inowroclaw:freetext
+Free Text:EPWW MIEJSCOWOSCI\Janow Lubelski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Jarocin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Jastrzebie-Zdroj:freetext
+Free Text:EPWW MIEJSCOWOSCI\Jaworzno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Jelenia Gora:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kalety:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kamien Pomorski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kedzierzyn-Kozle:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kielce:freetext
+Free Text:EPWW MIEJSCOWOSCI\Klobuck:freetext
+Free Text:EPWW MIEJSCOWOSCI\Klodzko:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kluczbork:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kolo:freetext
+Free Text:EPWW MIEJSCOWOSCI\Konin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Koronowo:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kostrzyn:freetext
+Free Text:EPWW MIEJSCOWOSCI\Koszalin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kowary:freetext
+Free Text:EPWW MIEJSCOWOSCI\Krapkowice:freetext
+Free Text:EPWW MIEJSCOWOSCI\Krasnystaw:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kruszwica:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kudowa-Zdroj:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kutno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Kwidzyn:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lapy:freetext
+Free Text:EPWW MIEJSCOWOSCI\Laziska Gorne:freetext
+Free Text:EPWW MIEJSCOWOSCI\Leczna:freetext
+Free Text:EPWW MIEJSCOWOSCI\Legionowo:freetext
+Free Text:EPWW MIEJSCOWOSCI\Leszno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lezajsk:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lobez:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lodz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lomianki:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lubartow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lublin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lubon:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lubsko:freetext
+Free Text:EPWW MIEJSCOWOSCI\Lukow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Miedzychod:freetext
+Free Text:EPWW MIEJSCOWOSCI\Miedzyrzec Podlaski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Mielec:freetext
+Free Text:EPWW MIEJSCOWOSCI\Milicz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Minsk Mazowiecki:freetext
+Free Text:EPWW MIEJSCOWOSCI\Mosina:freetext
+Free Text:EPWW MIEJSCOWOSCI\Myslenice:freetext
+Free Text:EPWW MIEJSCOWOSCI\Nowa Deba:freetext
+Free Text:EPWW MIEJSCOWOSCI\Nowa Sol:freetext
+Free Text:EPWW MIEJSCOWOSCI\Nowe Miasto Lubawskie:freetext
+Free Text:EPWW MIEJSCOWOSCI\Nowy Dwor Mazowiecki:freetext
+Free Text:EPWW MIEJSCOWOSCI\Nowy Sacz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Nysa:freetext
+Free Text:EPWW MIEJSCOWOSCI\Olawa:freetext
+Free Text:EPWW MIEJSCOWOSCI\Olesnica:freetext
+Free Text:EPWW MIEJSCOWOSCI\Olesno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Olkusz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Olsztyn:freetext
+Free Text:EPWW MIEJSCOWOSCI\Opalenica:freetext
+Free Text:EPWW MIEJSCOWOSCI\Opoczno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Opole:freetext
+Free Text:EPWW MIEJSCOWOSCI\Ostroda:freetext
+Free Text:EPWW MIEJSCOWOSCI\Ostrow Wielkopolski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Piastow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Pieszyce:freetext
+Free Text:EPWW MIEJSCOWOSCI\Pinczow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Pionki:freetext
+Free Text:EPWW MIEJSCOWOSCI\Pisz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Pleszew:freetext
+Free Text:EPWW MIEJSCOWOSCI\Plonsk:freetext
+Free Text:EPWW MIEJSCOWOSCI\Polaniec:freetext
+Free Text:EPWW MIEJSCOWOSCI\Police:freetext
+Free Text:EPWW MIEJSCOWOSCI\Poreba:freetext
+Free Text:EPWW MIEJSCOWOSCI\Pruszkow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Przemysl:freetext
+Free Text:EPWW MIEJSCOWOSCI\Pulawy:freetext
+Free Text:EPWW MIEJSCOWOSCI\Pyskowice:freetext
+Free Text:EPWW MIEJSCOWOSCI\Radzionkow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Radzyn Podlaski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Rawa Mazowiecka:freetext
+Free Text:EPWW MIEJSCOWOSCI\Rawicz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Reda:freetext
+Free Text:EPWW MIEJSCOWOSCI\Ruda Slaska:freetext
+Free Text:EPWW MIEJSCOWOSCI\Rumia:freetext
+Free Text:EPWW MIEJSCOWOSCI\Ryki:freetext
+Free Text:EPWW MIEJSCOWOSCI\Sandomierz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Sanok:freetext
+Free Text:EPWW MIEJSCOWOSCI\Sepolno Krajenskie:freetext
+Free Text:EPWW MIEJSCOWOSCI\Skawina:freetext
+Free Text:EPWW MIEJSCOWOSCI\Skwierzyna:freetext
+Free Text:EPWW MIEJSCOWOSCI\Slawno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Slupca:freetext
+Free Text:EPWW MIEJSCOWOSCI\Sochaczew:freetext
+Free Text:EPWW MIEJSCOWOSCI\Sokolow Podlaski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Sopot:freetext
+Free Text:EPWW MIEJSCOWOSCI\Sroda Wielkopolska:freetext
+Free Text:EPWW MIEJSCOWOSCI\Starogard Gdanski:freetext
+Free Text:EPWW MIEJSCOWOSCI\Stary Sacz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Staszow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Strzelce Opolskie:freetext
+Free Text:EPWW MIEJSCOWOSCI\Swidnica:freetext
+Free Text:EPWW MIEJSCOWOSCI\Swidwin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Swiebodzice:freetext
+Free Text:EPWW MIEJSCOWOSCI\Swiebodzin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Swietochlowice:freetext
+Free Text:EPWW MIEJSCOWOSCI\Swinoujscie:freetext
+Free Text:EPWW MIEJSCOWOSCI\Szamotuly:freetext
+Free Text:EPWW MIEJSCOWOSCI\Szczecin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Szczecinek:freetext
+Free Text:EPWW MIEJSCOWOSCI\Szczytno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Sztum:freetext
+Free Text:EPWW MIEJSCOWOSCI\Szydlowiec:freetext
+Free Text:EPWW MIEJSCOWOSCI\Tarnobrzeg:freetext
+Free Text:EPWW MIEJSCOWOSCI\Tarnowskie Gory:freetext
+Free Text:EPWW MIEJSCOWOSCI\Ustrzyki Dolne:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wabrzezno:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wadowice:freetext
+Free Text:EPWW MIEJSCOWOSCI\Walbrzych:freetext
+Free Text:EPWW MIEJSCOWOSCI\Walcz:freetext
+Free Text:EPWW MIEJSCOWOSCI\Warka:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wegorzewo:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wejherowo:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wisla:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wlodawa:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wolbrom:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wolomin:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wolow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wrzesnia:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wysokie Mazowieckie:freetext
+Free Text:EPWW MIEJSCOWOSCI\Wyszkow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Zabrze:freetext
+Free Text:EPWW MIEJSCOWOSCI\Zakopane:freetext
+Free Text:EPWW MIEJSCOWOSCI\Zambrow:freetext
+Free Text:EPWW MIEJSCOWOSCI\Zamosc:freetext
+Free Text:EPWW MIEJSCOWOSCI\Zawiercie:freetext
+Free Text:EPWW MIEJSCOWOSCI\Zdunska Wola:freetext
+Free Text:EPWW MIEJSCOWOSCI\Zielona Gora:freetext
+Free Text:EPWW MIEJSCOWOSCI\Zywiec:freetext
+Geo:EPWW Coastlines:
+Regions:EPAR SMR:polygon
+Regions:EPBC SMR:polygon
+Regions:EPBK SMR:polygon
+Regions:EPBY SMR:polygon
+Regions:EPDE SMR:polygon
+Regions:EPGD SMR:polygon
+Regions:EPGL SMR:polygon
+Regions:EPGY SMR:polygon
+Regions:EPKA SMR:polygon
+Regions:EPKI SMR:polygon
+Regions:EPKK SMR:polygon
+Regions:EPKR SMR:polygon
+Regions:EPKT SMR:polygon
+Regions:EPLB SMR:polygon
+Regions:EPLL SMR:polygon
+Regions:EPLR SMR:polygon
+Regions:EPML SMR:polygon
+Regions:EPMO SMR:polygon
+Regions:EPNC SMR:polygon
+Regions:EPNT SMR:polygon
+Regions:EPOD SMR:polygon
+Regions:EPPO SMR:polygon
+Regions:EPPZ SMR:polygon
+Regions:EPRA SMR:polygon
+Regions:EPRZ SMR:polygon
+Regions:EPSC SMR:polygon
+Regions:EPSY SMR:polygon
+Regions:EPWA SMR JK:polygon
+Regions:EPWR SMR:polygon
+Regions:EPZG SMR:polygon
+Regions:EPZR SMR:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:P21-APP
+WINDOWAREA:50.621316:17.157114:53.619252:25.348718
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:0
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:TopSky plugin:NoDraw:1

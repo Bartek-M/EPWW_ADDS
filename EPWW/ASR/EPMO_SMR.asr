@@ -1,0 +1,172 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20240614162825-240601-0002.sct
+SECTORTITLE:EPWW-Sector_20240614162825-240601-0002.sct
+ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:Tower CTR EPWW ALL:
+Free Text:EPMO STAND + TWY [2021]\1:freetext
+Free Text:EPMO STAND + TWY [2021]\10:freetext
+Free Text:EPMO STAND + TWY [2021]\11:freetext
+Free Text:EPMO STAND + TWY [2021]\12:freetext
+Free Text:EPMO STAND + TWY [2021]\13:freetext
+Free Text:EPMO STAND + TWY [2021]\2:freetext
+Free Text:EPMO STAND + TWY [2021]\3:freetext
+Free Text:EPMO STAND + TWY [2021]\4:freetext
+Free Text:EPMO STAND + TWY [2021]\5:freetext
+Free Text:EPMO STAND + TWY [2021]\51:freetext
+Free Text:EPMO STAND + TWY [2021]\52:freetext
+Free Text:EPMO STAND + TWY [2021]\6:freetext
+Free Text:EPMO STAND + TWY [2021]\7:freetext
+Free Text:EPMO STAND + TWY [2021]\8:freetext
+Free Text:EPMO STAND + TWY [2021]\9:freetext
+Free Text:EPMO STAND + TWY [2021]\A1:freetext
+Free Text:EPMO STAND + TWY [2021]\A2:freetext
+Free Text:EPMO STAND + TWY [2021]\A3:freetext
+Free Text:EPMO STAND + TWY [2021]\B:freetext
+Free Text:EPMO STAND + TWY [2021]\C:freetext
+Free Text:EPMO STAND + TWY [2021]\D:freetext
+Free Text:EPMO STAND + TWY [2021]\E:freetext
+Free Text:EPMO STAND + TWY [2021]\FATO:freetext
+Free Text:EPMO STAND + TWY [2021]\HANGARS:freetext
+Free Text:EPMO STAND + TWY [2021]\S:freetext
+Free Text:EPMO STAND + TWY [2021]\W:freetext
+Free Text:EPMO VFR Points\H:freetext
+Free Text:EPMO VFR Points\I:freetext
+Free Text:EPMO VFR Points\J:freetext
+Free Text:EPMO VFR Points\Q:freetext
+Free Text:EPMO VFR Points\S:freetext
+Free Text:EPMO VFR Points\U:freetext
+Free Text:EPMO VFR Points\V:freetext
+Free Text:EPMO VFR Points\Y:freetext
+Free Text:EPWA LADOWISKA\?uromin H553:freetext
+Free Text:EPWA LADOWISKA\?yrard�w H554:freetext
+Free Text:EPWA LADOWISKA\Ciechan�w H507:freetext
+Free Text:EPWA LADOWISKA\Garwolin H557:freetext
+Free Text:EPWA LADOWISKA\Grodzisk Mazowiecki H509:freetext
+Free Text:EPWA LADOWISKA\Gr�jec H559:freetext
+Free Text:EPWA LADOWISKA\Konstancin H561:freetext
+Free Text:EPWA LADOWISKA\Kozienice H512:freetext
+Free Text:EPWA LADOWISKA\M?awa H525:freetext
+Free Text:EPWA LADOWISKA\Mak�w Mazowiecki H523:freetext
+Free Text:EPWA LADOWISKA\Mi?sk Mazowiecki H585:freetext
+Free Text:EPWA LADOWISKA\Ostro??ka H527:freetext
+Free Text:EPWA LADOWISKA\Ostr�w Mazowiecka H528:freetext
+Free Text:EPWA LADOWISKA\P?o?sk H532:freetext
+Free Text:EPWA LADOWISKA\P?ock H531:freetext
+Free Text:EPWA LADOWISKA\Przasnysz H608:freetext
+Free Text:EPWA LADOWISKA\Pu?tusk - szpital H628:freetext
+Free Text:EPWA LADOWISKA\Radom H535:freetext
+Free Text:EPWA LADOWISKA\Ruda Tarnowska-Promnik (KPRP) H631:freetext
+Free Text:EPWA LADOWISKA\Siedlce H539:freetext
+Free Text:EPWA LADOWISKA\Sierpc H540:freetext
+Free Text:EPWA LADOWISKA\Sochaczew H541:freetext
+Free Text:EPWA LADOWISKA\Warszawa BBN Karowa H610:freetext
+Free Text:EPWA LADOWISKA\Warszawa Banacha - Pediatryczny H621:freetext
+Free Text:EPWA LADOWISKA\Warszawa Banacha H545:freetext
+Free Text:EPWA LADOWISKA\Warszawa Br�dnowski H619:freetext
+Free Text:EPWA LADOWISKA\Warszawa CZD - B?awatki H622:freetext
+Free Text:EPWA LADOWISKA\Warszawa Lindleya H626:freetext
+Free Text:EPWA LADOWISKA\Warszawa MSW Wo?oska H616:freetext
+Free Text:EPWA LADOWISKA\Warszawa Po?udniowy H633:freetext
+Free Text:EPWA LADOWISKA\Warszawa Stadion (COVID) HT500:freetext
+Free Text:EPWA LADOWISKA\Warszawa Szaser�w H548:freetext
+Free Text:EPWA LADOWISKA\Wo?omin H579:freetext
+Free Text:EPWA LADOWISKA\Wyszk�w H580:freetext
+Free Text:EPWA LADOWISKA\Zegrze Po?udniowe H617:freetext
+Free Text:SCT2\A007/GND:freetext
+Free Text:SCT2\A010/GND:freetext
+Free Text:SCT2\A013/GND:freetext
+Free Text:SCT2\A015/GND:freetext
+Free Text:SCT2\A020/GND:freetext
+Free Text:SCT2\A027/GND:freetext
+Free Text:SCT2\A030/GND:freetext
+Free Text:SCT2\A035/GND:freetext
+Free Text:SCT2\A037/GND:freetext
+Free Text:SCT2\A038/GND:freetext
+Free Text:SCT2\A040/GND:freetext
+Free Text:SCT2\A045/GND:freetext
+Free Text:SCT2\A050/GND:freetext
+Free Text:SCT2\A053/GND:freetext
+Free Text:SCT2\A061/GND:freetext
+Free Text:SCT2\A064/GND:freetext
+Free Text:SCT2\A065/GND:freetext
+Free Text:SCT2\A075/GND:freetext
+Free Text:SCT2\F085/GND:freetext
+Free Text:SCT2\F090/GND:freetext
+Free Text:SCT2\F095/GND:freetext
+Free Text:SCT2\F115/GND:freetext
+Free Text:SCT2\F165/GND:freetext
+Free Text:SCT2\F410/F165:freetext
+Free Text:SCT2\F660/F410:freetext
+Geo:EPMO Groundlayout SMR TWY:
+Geo:EPWW Prohibited area:
+Geo:EPWW Restricted area:
+Geo:GEO:
+Regions:EPMO SMR:polygon
+Runways:EPMO 08-26:extended centerline 1
+Runways:EPMO 08-26:extended centerline 1 left base
+Runways:EPMO 08-26:extended centerline 1 left ticks
+Runways:EPMO 08-26:extended centerline 1 left vectoring
+Runways:EPMO 08-26:extended centerline 1 right base
+Runways:EPMO 08-26:extended centerline 1 right ticks
+Runways:EPMO 08-26:extended centerline 1 right vectoring
+Runways:EPMO 08-26:extended centerline 2
+Runways:EPMO 08-26:extended centerline 2 left base
+Runways:EPMO 08-26:extended centerline 2 left ticks
+Runways:EPMO 08-26:extended centerline 2 left vectoring
+Runways:EPMO 08-26:extended centerline 2 right base
+Runways:EPMO 08-26:extended centerline 2 right ticks
+Runways:EPMO 08-26:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:9.00000
+TAGFAMILY:P21-TWR
+WINDOWAREA:52.431854:20.620020:52.467593:20.693240
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:4
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:EPMO
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:2288
+PLUGIN:vSMR:SRW1BottomRightY:1303
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:7500
+PLUGIN:vSMR:SRW1OffsetX:6
+PLUGIN:vSMR:SRW1OffsetY:-1
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1809
+PLUGIN:vSMR:SRW1TopLeftY:860
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

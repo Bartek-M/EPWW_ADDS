@@ -1,0 +1,258 @@
+PROFILE
+PROFILE:BM_OBS:200:0
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:EPWW_CTR:300:6
+ATIS2:Warszawa Radar (ALLFIR sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_B_CTR:300:6
+ATIS2:Warszawa Radar (B sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_C_CTR:300:6
+ATIS2:Warszawa Radar (C sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_D_CTR:300:6
+ATIS2:Warszawa Radar (D sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_E_CTR:300:6
+ATIS2:Warszawa Radar (E sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_F_CTR:300:6
+ATIS2:Warszawa Radar (F sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_G_CTR:300:6
+ATIS2:Warszawa Radar (North-west sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_J_CTR:300:6
+ATIS2:Warszawa Radar (South sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_N_CTR:300:6
+ATIS2:Warszawa Radar (North sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_R_CTR:300:6
+ATIS2:Warszawa Radar (South-east sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_T_CTR:300:6
+ATIS2:Warszawa Radar (ALLFIR sector) | Training in progress - Trainee
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_U_CTR:300:6
+ATIS2:Warszawa Radar (Upper sector)
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWW_X_CTR:300:6
+ATIS2:Warszawa Radar (ALLFIR sector) | Training in progress - Mentor
+ATIS3:Transition Altitude 6500ft | Transition Level 80
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWA_APP:150:5
+ATIS2:Warszawa Approach.   
+ATIS3:Covering EPWA, EPMO, EPLL| For EPWA ATIS check frequency 120.455.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWA_N_APP:150:5
+ATIS2:Warszawa Approach North.   
+ATIS3:Covering EPWA, EPMO| For EPWA ATIS check frequency 120.455.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWA_S_APP:150:5
+ATIS2:Warszawa Approach South.   
+ATIS3:Covering EPWA, EPLL | For EPWA ATIS check frequency 120.455.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWA_F_APP:150:5
+ATIS2:Warszawa Director.   
+ATIS3:For EPWA ATIS check frequency 120.455.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPGD_APP:150:5
+ATIS2:Gdansk Approach.   
+ATIS3:Covering EPGD, EPBY | For EPGD ATIS check frequency 129.630.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPGD_F_APP:150:5
+ATIS2:Gdansk Director.
+ATIS3:For EPGD ATIS check frequency 129.625.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKK_APP:150:5
+ATIS2:Krakow Approach.
+ATIS3:Covering EPKK, EPKT | For EPKK ATIS check frequency 126.130.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKK_E_APP:150:5
+ATIS2:Krakow Approach.
+ATIS3:Covering EPKK | For EPKK ATIS check frequency 126.130.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKK_KT_APP:150:5
+ATIS2:Krakow Approach.
+ATIS3:Covering EPKT | For EPKT ATIS check frequency 120.230.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKK_KK_APP:150:5
+ATIS2:Krakow Approach.
+ATIS3:Covering EPKK | For EPKK ATIS check frequency 126.130.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPPO_N_APP:150:5
+ATIS2:Poznan Approach North.
+ATIS3:Covering EPPO, EPWR, EPZG | For EPPO ATIS check frequency 124.705.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPPO_S_APP:150:5
+ATIS2:Poznan Approach South.
+ATIS3:Covering EPWR | For EPWR ATIS check frequency 124.330.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWA_TWR:30:4
+ATIS2:Okecie Tower.
+ATIS3:For EPWA ATIS check frequency 120.455
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKT_TWR:30:4
+ATIS2:Katowice Tower.
+ATIS3:For EPKT ATIS check frequency 120.230
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKK_TWR:30:4
+ATIS2:Krakow Tower.
+ATIS3:For EPKK ATIS check frequency 126.130
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPGD_TWR:30:4
+ATIS2:Gdansk Tower.
+ATIS3:For EPGD ATIS check frequency 129.630
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPPO_TWR:30:4
+ATIS2:Poznan Tower.
+ATIS3:For EPPO ATIS check frequency 124.705
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWR_TWR:30:4
+ATIS2:Wroclaw Tower.
+ATIS3:For EPWR ATIS check frequency 124.330
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPMO_TWR:30:4
+ATIS2:Modlin Tower.
+ATIS3:For EPMO ATIS check frequency 136.555
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPBY_TWR:30:4
+ATIS2:Bydgoszcz Tower.
+ATIS3:Procedural control
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPLB_TWR:30:4
+ATIS2:Lublin Tower.
+ATIS3:Procedural control
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPLL_TWR:30:4
+ATIS2:Lodz Tower.
+ATIS3:Procedural control  | For EPLL ATIS check frequency 135.680
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPSY_TWR:30:4
+ATIS2:Mazury Tower.
+ATIS3:Procedural control
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPSC_TWR:30:4
+ATIS2:Szczecin Tower.
+ATIS3:Procedural control| For EPSC ATIS check frequency 132.130
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPRA_TWR:30:4
+ATIS2:Radom Tower.
+ATIS3:Procedural control
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPRZ_TWR:30:4
+ATIS2:Rzeszow Tower.
+ATIS3:Procedural control | For EPRZ ATIS check frequency 124.955
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPZG_TWR:30:4
+ATIS2:Zielona Gora Tower.
+ATIS3:Procedural control
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPBC_TWR:30:4
+ATIS2:Babice Information.
+ATIS3:Aerodrome Flight Information Service
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPML_TWR:30:4
+ATIS2:Mielec Information.
+ATIS3:Aerodrome Flight Information Service
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPAR_R_TWR:30:4
+ATIS2:Arlamow Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPJA_R_TWR:30:4
+ATIS2:Jastarnia Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKA_R_TWR:30:4
+ATIS2:Maslow Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKR_R_TWR:30:4
+ATIS2:Krosno Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPNT_R_TWR:30:4
+ATIS2:Nowy Targ Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPZR_R_TWR:30:4
+ATIS2:Zar Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPGY_R_TWR:30:4
+ATIS2:Grady Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKI_R_TWR:30:4
+ATIS2:Kikity Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPPZ_R_TWR:30:4
+ATIS2:Przasnysz Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPOD_R_TWR:30:4
+ATIS2:Dajtki Radio.
+ATIS3:Class G Airspace
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWA_GND:25:3
+ATIS2:Okecie Ground.
+ATIS3:For EPWA ATIS check frequency 120.455
+ATIS4:CDM is in use. Check out your slot at acdm.plvacc.pl
+PROFILE:EPKK_GND:25:3
+ATIS2:Krakow Ground.
+ATIS3:For EPKK ATIS check frequency 126.130
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPGD_GND:25:3
+ATIS2:Gdansk Ground.
+ATIS3:For EPGD_ATIS check frequency 129.630
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPRA_M_GND:25:3
+ATIS2:Radom Ground.
+ATIS3:Covering only the MIL aprons, CIV tfc contact TWR.
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPWA_DEL:20:2
+ATIS2:Okecie Delivery.
+ATIS3:For EPWA ATIS check frequency 120.455
+ATIS4:CDM is in use. Check out your slot at acdm.plvacc.pl
+PROFILE:EPKT_DEL:20:2
+ATIS2:Katowice Delivery.
+ATIS3:For EPKT ATIS check frequency 120.230
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKK_DEL:20:2
+ATIS2:Krakow Delivery.
+ATIS3:For EPKK ATIS check frequency 126.130
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPPO_DEL:20:2
+ATIS2:Poznan Delivery.
+ATIS3:For EPPO ATIS check frequency 124.705
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPMO_DEL:20:2
+ATIS2:Modlin Delivery.
+ATIS3:
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPLL_DEL:20:2
+ATIS2:Lodz Delivery.
+ATIS3:Procedural control | For EPLL ATIS check frequency 135.680
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPRZ_GND:20:2
+ATIS2:Rzeszow Ground.
+ATIS3:Procedural control | For EPRZ ATIS check frequency 124.955
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+END
