@@ -155,7 +155,7 @@ m_ShowTWRControllers:1
 m_ShowGNDControllers:1
 m_ShowATISControllers:0
 m_ShowOBSControllers:1
-m_ShowUnidentifiedControllers:0
+m_ShowUnidentifiedControllers:1
 m_ShowFreqUsers:1
 m_ShowAtisUsers:1
 m_ShowArrivalPlanes:1
@@ -249,7 +249,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:103
+m_Y:79
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
