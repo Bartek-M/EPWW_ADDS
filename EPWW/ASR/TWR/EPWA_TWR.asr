@@ -14,18 +14,18 @@ Free Text:EPMO VFR Points\U:freetext
 Free Text:EPMO VFR Points\V:freetext
 Free Text:EPMO VFR Points\Y:freetext
 Free Text:EPWA LADOWISKA\?uromin H553:freetext
-Free Text:EPWA LADOWISKA\?yrardów H554:freetext
-Free Text:EPWA LADOWISKA\Ciechanów H507:freetext
+Free Text:EPWA LADOWISKA\?yrardï¿½w H554:freetext
+Free Text:EPWA LADOWISKA\Ciechanï¿½w H507:freetext
 Free Text:EPWA LADOWISKA\Garwolin H557:freetext
 Free Text:EPWA LADOWISKA\Grodzisk Mazowiecki H509:freetext
-Free Text:EPWA LADOWISKA\Grójec H559:freetext
+Free Text:EPWA LADOWISKA\Grï¿½jec H559:freetext
 Free Text:EPWA LADOWISKA\Konstancin H561:freetext
 Free Text:EPWA LADOWISKA\Kozienice H512:freetext
 Free Text:EPWA LADOWISKA\M?awa H525:freetext
-Free Text:EPWA LADOWISKA\Maków Mazowiecki H523:freetext
+Free Text:EPWA LADOWISKA\Makï¿½w Mazowiecki H523:freetext
 Free Text:EPWA LADOWISKA\Mi?sk Mazowiecki H585:freetext
 Free Text:EPWA LADOWISKA\Ostro??ka H527:freetext
-Free Text:EPWA LADOWISKA\Ostrów Mazowiecka H528:freetext
+Free Text:EPWA LADOWISKA\Ostrï¿½w Mazowiecka H528:freetext
 Free Text:EPWA LADOWISKA\P?o?sk H532:freetext
 Free Text:EPWA LADOWISKA\P?ock H531:freetext
 Free Text:EPWA LADOWISKA\Przasnysz H608:freetext
@@ -37,15 +37,15 @@ Free Text:EPWA LADOWISKA\Sierpc H540:freetext
 Free Text:EPWA LADOWISKA\Sochaczew H541:freetext
 Free Text:EPWA LADOWISKA\Warszawa Banacha H545:freetext
 Free Text:EPWA LADOWISKA\Warszawa BBN Karowa H610:freetext
-Free Text:EPWA LADOWISKA\Warszawa Bródnowski H619:freetext
+Free Text:EPWA LADOWISKA\Warszawa Brï¿½dnowski H619:freetext
 Free Text:EPWA LADOWISKA\Warszawa CZD - B?awatki H622:freetext
 Free Text:EPWA LADOWISKA\Warszawa Lindleya H626:freetext
 Free Text:EPWA LADOWISKA\Warszawa MSW Wo?oska H616:freetext
 Free Text:EPWA LADOWISKA\Warszawa Po?udniowy H633:freetext
 Free Text:EPWA LADOWISKA\Warszawa Stadion (COVID) HT500:freetext
-Free Text:EPWA LADOWISKA\Warszawa Szaserów H548:freetext
+Free Text:EPWA LADOWISKA\Warszawa Szaserï¿½w H548:freetext
 Free Text:EPWA LADOWISKA\Wo?omin H579:freetext
-Free Text:EPWA LADOWISKA\Wyszków H580:freetext
+Free Text:EPWA LADOWISKA\Wyszkï¿½w H580:freetext
 Free Text:EPWA LADOWISKA\Zegrze Po?udniowe H617:freetext
 Free Text:EPWA STAND + TWY [2021]\1:freetext
 Free Text:EPWA STAND + TWY [2021]\10:freetext
@@ -999,7 +999,7 @@ PLUGIN:vSMR:GndTrailsDots:4
 PLUGIN:vSMR:PredictedLine:0
 PLUGIN:vSMR:SRW1BottomRightX:1892
 PLUGIN:vSMR:SRW1BottomRightY:956
-PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Display:0
 PLUGIN:vSMR:SRW1Filter:4500
 PLUGIN:vSMR:SRW1OffsetX:10
 PLUGIN:vSMR:SRW1OffsetY:-151

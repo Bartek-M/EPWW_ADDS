@@ -4,8 +4,8 @@ System_GUI_Scale_GlobalMenu=1.0
 System_GUI_Scale_Menus=1.0
 System_GUI_Scale_Screen=1.0
 
-Window_CARD=1,1940,826,355,260
-Window_VAW=1,1940,1083,355,226
-
-// Window_VAW=1,3085,814,350,300
+Window_CARD=1,1870,1080,355,230
 // Window_CARD=1,3085,1114,350,201
+
+// Window_VAW=1,1940,814,355,226
+// Window_VAW=1,3085,814,350,300

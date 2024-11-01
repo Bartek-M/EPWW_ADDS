@@ -11,7 +11,7 @@
 --\ICAO\ICAO_Airports.txt	<- ICAO Files
 --\ASR\<ICAO>_<POS>.asr		<- Prepared ASR per Function
 --\SETTINGS\P21.txt		<- Tags & Symbology
---\SETTINGS\TWR.txt		<- Other settings
+--\SETTINGS\Settings.txt		<- Other settings
 --\SETTINGS\EPWW_freq.txt	<- Frequency list
 --\SETTINGS\PLUGINS.txt		<- Plugins list
 --\SETTINGS\Positions.txt <- Connectivity Positions lists

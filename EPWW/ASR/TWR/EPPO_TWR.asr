@@ -16,9 +16,9 @@ Free Text:EPPO Ladowiska\Kalisz H755:freetext
 Free Text:EPPO Ladowiska\Konin H758:freetext
 Free Text:EPPO Ladowiska\Krotoszyn H815:freetext
 Free Text:EPPO Ladowiska\Leszno H759:freetext
-Free Text:EPPO Ladowiska\Mi?dzychód H788:freetext
+Free Text:EPPO Ladowiska\Mi?dzychï¿½d H788:freetext
 Free Text:EPPO Ladowiska\Nowy Tomy?l H761:freetext
-Free Text:EPPO Ladowiska\Ostrów Wielkopolski H809:freetext
+Free Text:EPPO Ladowiska\Ostrï¿½w Wielkopolski H809:freetext
 Free Text:EPPO Ladowiska\Pi?a H762:freetext
 Free Text:EPPO Ladowiska\Pleszew H818:freetext
 Free Text:EPPO Ladowiska\Pozna? - CM HCP H827:freetext
@@ -27,7 +27,7 @@ Free Text:EPPO Ladowiska\Pozna? Szwajcarska H811:freetext
 Free Text:EPPO Ladowiska\Puszczykowo H764:freetext
 Free Text:EPPO Ladowiska\Szamotu?y H820:freetext
 Free Text:EPPO Ladowiska\Trzcianka H768:freetext
-Free Text:EPPO Ladowiska\Z?otów H808:freetext
+Free Text:EPPO Ladowiska\Z?otï¿½w H808:freetext
 Free Text:EPPO STAND + TWY [2021]\1:freetext
 Free Text:EPPO STAND + TWY [2021]\1:freetext
 Free Text:EPPO STAND + TWY [2021]\10:freetext
@@ -211,7 +211,7 @@ PLUGIN:vSMR:GndTrailsDots:4
 PLUGIN:vSMR:PredictedLine:0
 PLUGIN:vSMR:SRW1BottomRightX:1892
 PLUGIN:vSMR:SRW1BottomRightY:956
-PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Display:0
 PLUGIN:vSMR:SRW1Filter:4500
 PLUGIN:vSMR:SRW1OffsetX:10
 PLUGIN:vSMR:SRW1OffsetY:-151

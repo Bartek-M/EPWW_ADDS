@@ -27,21 +27,21 @@ Free Text:EPKK / EPKT VFR Points\X:freetext
 Free Text:EPKK / EPKT VFR Points\Z:freetext
 Free Text:EPKT Ladowiska\?ywiec H311:freetext
 Free Text:EPKT Ladowiska\Bielsko Bia?a H251:freetext
-Free Text:EPKT Ladowiska\Chorzów - szpital H332:freetext
+Free Text:EPKT Ladowiska\Chorzï¿½w - szpital H332:freetext
 Free Text:EPKT Ladowiska\Cieszyn H338:freetext
 Free Text:EPKT Ladowiska\Cz?stochowa H298:freetext
-Free Text:EPKT Ladowiska\D?browa Górnicza H319:freetext
-Free Text:EPKT Ladowiska\Jastrz?bie Zdrój H255:freetext
+Free Text:EPKT Ladowiska\D?browa Gï¿½rnicza H319:freetext
+Free Text:EPKT Ladowiska\Jastrz?bie Zdrï¿½j H255:freetext
 Free Text:EPKT Ladowiska\Jaworzno H327:freetext
 Free Text:EPKT Ladowiska\Katowice Ligota H257:freetext
 Free Text:EPKT Ladowiska\Katowice Ochojec H258:freetext
 Free Text:EPKT Ladowiska\Piekary ?l?skie H277:freetext
 Free Text:EPKT Ladowiska\Pszczyna H322:freetext
-Free Text:EPKT Ladowiska\Racibórz H306:freetext
+Free Text:EPKT Ladowiska\Racibï¿½rz H306:freetext
 Free Text:EPKT Ladowiska\Rybnik H307:freetext
 Free Text:EPKT Ladowiska\Siemianowice ?l?skie H284:freetext
 Free Text:EPKT Ladowiska\Sosnowiec H286:freetext
-Free Text:EPKT Ladowiska\Tarnowskie Góry H337:freetext
+Free Text:EPKT Ladowiska\Tarnowskie Gï¿½ry H337:freetext
 Free Text:EPKT Ladowiska\Wis?a (KPRP) H339:freetext
 Free Text:EPKT Ladowiska\Zabrze H310:freetext
 Free Text:EPKT Ladowiska\Zawiercie H294:freetext
@@ -235,7 +235,7 @@ PLUGIN:vSMR:GndTrailsDots:4
 PLUGIN:vSMR:PredictedLine:0
 PLUGIN:vSMR:SRW1BottomRightX:1892
 PLUGIN:vSMR:SRW1BottomRightY:956
-PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Display:0
 PLUGIN:vSMR:SRW1Filter:4500
 PLUGIN:vSMR:SRW1OffsetX:10
 PLUGIN:vSMR:SRW1OffsetY:-151

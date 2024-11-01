@@ -2,9 +2,9 @@ SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:16776960:1.0:0:0:7
 Airports:name:12632256:3.2:0:0:2
-Low airways:line:4605510:3.0:2:0:7
+Low airways:line:3289650:3.0:2:0:7
 Low airways:name:4605510:3.2:0:0:8
-High airways:line:4605510:3.0:1:0:7
+High airways:line:3289650:3.0:1:0:7
 High airways:name:4605510:3.2:1:0:8
 Fixes:symbol:6579300:1.0:0:1:7
 Fixes:name:6579300:3.2:0:0:2
@@ -42,13 +42,13 @@ Datablock:user 6:509664:3.2:0:0:7
 Datablock:emergency:255:3.2:0:0:7
 Datablock:ongoing requested by me:13158400:3.2:0:0:7
 Datablock:ongoing requested by other:33023:3.2:0:0:7
-Datablock:ongoing accepted:65280:3.2:0:0:7
+Datablock:ongoing accepted:8454016:3.2:0:0:7
 Datablock:ongoing refused:8421631:3.2:0:0:7
 Datablock:detailed background:2105376:3.5:0:0:7
 Datablock:active item background:6317636:3.5:0:0:7
 Datablock:arrival background:3555595:3.5:0:0:7
 Datablock:departure background:3477261:3.5:0:0:7
-Datablock:AC list background:1513239:3.5:0:0:7
+Datablock:AC list background:0:3.5:0:0:7
 Datablock:AC list selected background:5723991:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
@@ -85,7 +85,7 @@ Other:manual taxi line ends at predefined point:65535:3.0:0:3:2
 Other:predefined taxi line:65280:3.0:0:3:2
 Other:terminal taxi line:255:3.0:0:3:2
 Other:list title bar:16777215:0.1:0:0:7
-Other:list header:10790052:3.5:0:0:7
+Other:list header:12632256:3.5:0:0:7
 Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:12632256:3.5:0:0:7
 Transitions:transition grid:0:3.0:0:0:7
@@ -429,7 +429,7 @@ TAGITEM:22::1:0:6:1:TopSky plugin:1:1:TopSky plugin::0
 TAGITEM:80::0:0:0:0::0:1:::1
 TAGITEM:9::0:1:0:0:CPegasusES:11:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::1:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:18::0:0:0:0:CPegasusES:5:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
@@ -451,7 +451,7 @@ TAGITEM:22::0:0:0:0:TopSky plugin:1:1:::0
 TAGITEM:80::0:0:0:0::0:1:::1
 TAGITEM:9::1:1:0:0:CPegasusES:11:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::1:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:18::0:0:0:0:CPegasusES:5:1:::1
 TAGITEM:19::0:1:0:0:CPegasusES:9:1:::1
@@ -474,7 +474,7 @@ TAGITEM:22::0:0:6:1:TopSky plugin:1:1:TopSky plugin::0
 TAGITEM:11::0:0:0:32::0:1:::0
 TAGITEM:9::1:0:16:11:CPegasusES:11:1::CPegasusES:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:12:12::1:1:TopSky plugin:TopSky plugin:1
+TAGITEM:21::0:0:12:12:CPegasusES:0:1:TopSky plugin:TopSky plugin:1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:22::0:0:12:12:CPegasusES:5:1:TopSky plugin:TopSky plugin:1
 TAGITEM:29::0:0:26:26::9:1:::1
@@ -507,7 +507,7 @@ TAGITEM:22::1:0:6:1:TopSky plugin:1:1:TopSky plugin::0
 TAGITEM:80::0:0:0:0::0:1:::1
 TAGITEM:9::0:1:0:0:CPegasusES:11:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::1:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:18::0:0:0:0:CPegasusES:5:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
@@ -530,42 +530,42 @@ TAGITEM:40::0:0:0:0::4:1:::1
 TAGTYPE:8:0:0
 TAGITEM:1:--:1:0:0:0::0:1:::1
 TAGTYPE:9:1:0
-TAGITEM:39::0:0:0:0::0:1:::1
+TAGITEM:39::0:0:0:0::1:1:::1
 TAGITEM:40::1:0:0:0::8:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGTYPE:10:0:0
 TAGITEM:2::1:0:33:0::0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:40::0:0:0:0::0:1:::1
 TAGTYPE:11:0:0
-TAGITEM:2::1:0:33:0::0:1:::0
+TAGITEM:2::1:0:33:0::1:1:::0
 TAGITEM:40::0:0:0:0::8:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGTYPE:12:0:0
-TAGITEM:2::1:0:33:0::0:1:::0
+TAGITEM:2::1:0:33:0::1:1:::0
 TAGITEM:40::0:0:0:0::8:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGTYPE:13:0:0
 TAGITEM:2::1:0:33:0::0:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:40::0:0:0:0::0:1:::1
 TAGTYPE:14:0:0
-TAGITEM:2::1:0:33:0::0:1:::0
+TAGITEM:2::1:0:33:0::1:1:::0
 TAGITEM:40::0:0:0:0::8:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGTYPE:15:0:0
-TAGITEM:2::1:0:33:0::0:1:::0
+TAGITEM:2::1:0:33:0::1:1:::0
 TAGITEM:40::0:0:0:0::8:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGTYPE:16:14:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
@@ -584,7 +584,7 @@ TAGITEM:22::0:0:0:0:TopSky plugin:1:1:::0
 TAGITEM:80::0:0:0:0::0:1:::1
 TAGITEM:9::1:1:0:0:CPegasusES:11:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::1:1:::1
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:18::0:0:0:0:CPegasusES:5:1:::1
 TAGITEM:19::0:1:0:0:CPegasusES:9:1:::1
@@ -607,7 +607,7 @@ TAGITEM:22::0:0:6:1:TopSky plugin:1:1:TopSky plugin::0
 TAGITEM:11::0:0:0:32::0:1:::0
 TAGITEM:9::1:0:16:11:CPegasusES:11:1::CPegasusES:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:12:12::1:1:TopSky plugin:TopSky plugin:1
+TAGITEM:21::0:0:12:12:CPegasusES:0:1:TopSky plugin:TopSky plugin:1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:22::0:0:12:12:CPegasusES:5:1:TopSky plugin:TopSky plugin:1
 TAGITEM:29::0:0:26:26::9:1:::1
@@ -1334,7 +1334,7 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:4::0:0:11:11::1:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:20::0:0:11:11::5:1:::1
-TAGITEM:29::0:0:26:26::9:1:::1
+TAGITEM:29::0:0:26:26::9:1:::0
 TAGITEM:0::0:1:0:0::0:1:::1
 TAGITEM:8::0:1:0:10:CPegasusES:1:1::CPegasusES:1
 TAGITEM:5::0:0:0:1001:CPegasusES:7:1::TopSky plugin:1
@@ -1467,7 +1467,7 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:4::0:0:11:11::1:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:20::0:0:11:11::5:1:::1
-TAGITEM:29::0:0:26:26::9:1:::1
+TAGITEM:29::0:0:26:26::9:1:::0
 TAGITEM:0::0:1:0:0::0:1:::1
 TAGITEM:8::0:1:0:10:CPegasusES:1:1::CPegasusES:1
 TAGITEM:5::0:0:0:1001:CPegasusES:7:1::TopSky plugin:1

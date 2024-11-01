@@ -6,7 +6,7 @@ m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
 m_TransitionAltitude:6500
-m_AllowConcernedACTagDown:1
+m_AllowConcernedACTagDown:0
 m_CenterlineDme:3.0
 m_CenterlineLength:17.0
 m_CenterlineTickDme:4.0
@@ -38,8 +38,8 @@ m_WhoIsOnlineURL:http://vatsim.metacraft.com/vatsim-data.txt
 m_AutoLoadMetarForActiveAirports:1
 m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:https://atis.plvacc.pl/atis.php?metar=$metar($atisairport)&arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&info=$atiscode&app=ILS&token=4ydcXHGTH1
-m_DoNotUseAcceptedColor:1
-m_DoNotUseRefusedColor:1
+m_DoNotUseAcceptedColor:0
+m_DoNotUseRefusedColor:0
 SET_TransparentAcListBackground:1
 m_PutIncomingCoordinationToFirst:1
 m_AutoProxyMode:0
@@ -70,9 +70,9 @@ m_CorrelationMode:2
 m_CorrelationDistance:30
 m_SimulateRadars:1
 m_AllowCorrelatedTAGDown:1
-m_ShowDetailedOverUntagged:1
+m_ShowDetailedOverUntagged:0
 m_ShowRectAroundFPTrack:1
-m_ShowRectAroundASEL:1
+m_ShowRectAroundASEL:0
 m_VatsimStatusURL:http://status.vatsim.net/
 m_OverrideWhoIsOnlineURL:0
 m_ShowVFRFlightPlanTrack:0
@@ -155,7 +155,7 @@ m_ShowTWRControllers:1
 m_ShowGNDControllers:1
 m_ShowATISControllers:0
 m_ShowOBSControllers:1
-m_ShowUnidentifiedControllers:1
+m_ShowUnidentifiedControllers:0
 m_ShowFreqUsers:1
 m_ShowAtisUsers:1
 m_ShowArrivalPlanes:1
@@ -173,8 +173,8 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
 m_PlanesListX:0
 m_PlanesListY:970
-m_MetarListX:1584
-m_MetarListY:47
+m_MetarListX:1597
+m_MetarListY:46
 m_VoiceListX:1457
 m_VoiceListY:24
 m_ControllerListX:1804
@@ -197,11 +197,11 @@ MessageLinesNumber:4
 BackgroundGrphicsInThread:1
 SIL
 m_Visible:1
-m_X:725
-m_Y:45
+m_X:731
+m_Y:46
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:11
+m_OrderingColumn:1
 m_HeaderOnly:0
 m_Column:C/S:7:0:9:8:1:1::::4:0.0
 m_Column:RT:2:1:11:32:32:1::::6:0.0
@@ -213,7 +213,7 @@ m_Column:ATYP:6:1:78:0:7:1::::3:0.0
 m_Column:R:2:1:63:7:7:1::::6:0.0
 m_Column:ADEP:4:1:61:7:7:1::::8:0.0
 m_Column:ADES:4:1:17:7:7:1::::8:0.0
-m_Column:ONT:5:1:50:0:0:1::::3:0.0
+m_Column:ONT:5:1:50:0:0:1::::0:0.0
 m_Column:ONP:5:1:48:21:21:1::::0:0.0
 m_Column:ONF:4:1:49:23:23:1::::0:0.0
 m_Column:SI:4:1:64:0:0:1::::6:0.0
@@ -222,7 +222,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:44
+m_Y:45
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:13
@@ -240,7 +240,7 @@ m_Column:ADES:4:1:17:7:7:1::::3:0.0
 m_Column:RWY:4:1:47:19:19:1::::8:0.0
 m_Column:SID:7:0:56:17:17:1::::8:0.0
 m_Column:STAR:12:0:55:18:18:1::::8:0.0
-m_Column:OXT:5:1:53:0:0:1::::3:0.0
+m_Column:OXT:5:1:53:0:0:1::::0:0.0
 m_Column:OXP:5:1:51:22:22:1::::0:0.0
 m_Column:OXF:4:1:52:24:24:1::::0:0.0
 m_Column:OXC:5:1:64:20:0:1::::6:0.0
@@ -249,7 +249,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:78
+m_Y:103
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -441,21 +441,6 @@ m_Column:ATYP:4:1:16:0:0:1::::1:0.0
 m_Column:STS:4:1:59:46:46:1::::1:0.0
 END
 PLUGINS
-UK Controller Plugin:prenoteNotify:0
-UK Controller Plugin:autoAssignSquawks:0
-UK Controller Plugin:autoAssignInitialAltitudes:0
-UK Controller Plugin:notifyPressureChanges:1
-UK Controller Plugin:useBlankForUnknownTimes:0
-UK Controller Plugin:timer1Duration:30
-UK Controller Plugin:timer1Enabled:1
-UK Controller Plugin:timer2Duration:60
-UK Controller Plugin:timer2Enabled:1
-UK Controller Plugin:timer3Duration:90
-UK Controller Plugin:timer3Enabled:1
-UK Controller Plugin:timer4Duration:120
-UK Controller Plugin:timer4Enabled:1
-UK Controller Plugin:timer5Duration:180
-UK Controller Plugin:timer5Enabled:1
 CCAMS:ACList/Mode S EHS/m_Visible:1
 CCAMS:ACList/Mode S EHS/m_X:0
 CCAMS:ACList/Mode S EHS/m_Y:839
@@ -568,7 +553,4 @@ TopSky plugin:ACList/Uncontrolled List 2/m_OrderingColumn:1
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_1: CFL:5:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
 CCAMS:ACList/Mode S EHS/m_Column_4:ALT:4:1:4:0:0:1:::
-UK Controller Plugin:sendPrenotesToChat:0
-UK Controller Plugin:sendReleasesToChat:0
-UK Controller Plugin:autoAssignInitialHeadings:0
 END

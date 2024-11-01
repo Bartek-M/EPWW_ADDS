@@ -110,8 +110,8 @@ Color_WM_Frame=88,95,99
 Equip_UseCodes=1
 Equip_ModeS=WZLCISG
 
-FlightLeg_AutoShow=1
-FlightLeg_LineWidth=1
+FlightLeg_AutoShow=0
+FlightLeg_LineWidth=0
 FlightLeg_AssumeTime=5
 FlightLeg_Label_RFL=1
 
@@ -156,7 +156,7 @@ MSAW_VFR=0
 
 MTCD_Filter_Dep=3
 
-RDF_Mode=2
+RDF_Mode=-1
 RDF_Accuracy=5
 RDF_Floor=2500
 
@@ -203,8 +203,8 @@ Track_PredictionLine=0
 Track_PredictionLine_Max=0
 Track_PSR_Filter_GS=50
 
-Vector_FplSep_Label_Time=1
-Vector_MinSep_Label_Time=1
+Vector_FplSep_Label_Time=0
+Vector_MinSep_Label_Time=0
 
 // Weather
 WXR_ImageSize=512
@@ -217,6 +217,7 @@ WXR_Longitude=19
 WXR_Brightness=25
 
 // Maps 
+Setup_LoadMap=HOLD
 Setup_LoadMap=VFR
 Setup_LoadMap=MVA
 Setup_LoadMap=LOA

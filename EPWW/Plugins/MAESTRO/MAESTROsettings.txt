@@ -54,7 +54,7 @@ Label_DelayItem_Unsel_Uncon=1
 Label_DelayItem_Uncon=1
 Label_HideZeroDelay=1
 
-Window_COTS_Pos=2200,50,1
+Window_COTS_Pos=2226,23,1
 Window_MAESTRO_Pos=1940,23,1
 Window_MAESTRO_Size=353,804,1
 
