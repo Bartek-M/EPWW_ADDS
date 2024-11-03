@@ -6,7 +6,7 @@ m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
 m_TransitionAltitude:6500
-m_AllowConcernedACTagDown:0
+m_AllowConcernedACTagDown:1
 m_CenterlineDme:3.0
 m_CenterlineLength:17.0
 m_CenterlineTickDme:4.0
@@ -70,7 +70,7 @@ m_CorrelationMode:2
 m_CorrelationDistance:30
 m_SimulateRadars:1
 m_AllowCorrelatedTAGDown:1
-m_ShowDetailedOverUntagged:0
+m_ShowDetailedOverUntagged:1
 m_ShowRectAroundFPTrack:1
 m_ShowRectAroundASEL:0
 m_VatsimStatusURL:http://status.vatsim.net/
@@ -144,7 +144,7 @@ m_ShowTitleController:0
 m_ShowTitlePrimaryFreq:1
 m_ShowTitleAtisFreq:0
 m_ShowTitleClock:1
-m_ShowTitleLeader:0
+m_ShowTitleLeader:1
 m_ShowTitleFilter:0
 m_ShowTitleTrans:0
 m_ShowVoiceRoomUsers:0
@@ -155,7 +155,7 @@ m_ShowTWRControllers:1
 m_ShowGNDControllers:1
 m_ShowATISControllers:0
 m_ShowOBSControllers:1
-m_ShowUnidentifiedControllers:1
+m_ShowUnidentifiedControllers:0
 m_ShowFreqUsers:1
 m_ShowAtisUsers:1
 m_ShowArrivalPlanes:1
@@ -197,8 +197,8 @@ MessageLinesNumber:4
 BackgroundGrphicsInThread:1
 SIL
 m_Visible:1
-m_X:731
-m_Y:46
+m_X:728
+m_Y:43
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -222,7 +222,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:45
+m_Y:44
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:13
@@ -249,7 +249,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:79
+m_Y:78
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1

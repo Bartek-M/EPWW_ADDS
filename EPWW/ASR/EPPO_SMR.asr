@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241008094624-241001-0001.sct
-SECTORTITLE:EPWW-Sector_20241008094624-241001-0001.sct
+SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241102141541-241101-0001.sct
+SECTORTITLE:EPWW-Sector_20241102141541-241101-0001.sct
 ARTCC high boundary:FIR border EPWW:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Free Text:EPPO Ladowiska\?rem H816:freetext
@@ -152,7 +152,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:342.00000
 TAGFAMILY:P21-TWR
-WINDOWAREA:52.404858:16.774642:52.440600:16.872304
+WINDOWAREA:52.404850:16.774642:52.440608:16.872304
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
@@ -163,6 +163,8 @@ PLUGIN:EuroScope History Trails:HistoryTrailLength:15
 PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:RDF Plugin for Euroscope:Radius:50
+PLUGIN:RDF Plugin for Euroscope:RGB:128:128:128
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1
@@ -191,5 +193,3 @@ PLUGIN:vSMR:SRW2Rotation:0
 PLUGIN:vSMR:SRW2Scale:15
 PLUGIN:vSMR:SRW2TopLeftX:200
 PLUGIN:vSMR:SRW2TopLeftY:200
-PLUGIN:RDF Plugin for Euroscope:RGB:128:128:128
-PLUGIN:RDF Plugin for Euroscope:Radius:50

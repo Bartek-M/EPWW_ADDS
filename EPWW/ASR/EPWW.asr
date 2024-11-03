@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241008094624-241001-0001.sct
-SECTORTITLE:EPWW-Sector_20241008094624-241001-0001.sct
+SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241102141541-241101-0001.sct
+SECTORTITLE:EPWW-Sector_20241102141541-241101-0001.sct
 ARTCC boundary:AoR CTR EPWW over TMA Warszawa:
 ARTCC boundary:TMA EPBY OUT:
 ARTCC boundary:TMA EPDE OUT:
@@ -387,14 +387,14 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:50.229699:16.244083:53.667231:25.632751
+WINDOWAREA:50.261115:16.314084:53.698647:25.702752
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
 PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
 PLUGIN:EuroScope History Trails:HistoryTrailDotSize:5
-PLUGIN:EuroScope History Trails:HistoryTrailFade:1
-PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailFade:0
+PLUGIN:EuroScope History Trails:HistoryTrailLength:10
 PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:2
