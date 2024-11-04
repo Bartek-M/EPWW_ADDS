@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241102141541-241101-0001.sct
-SECTORTITLE:EPWW-Sector_20241102141541-241101-0001.sct
+SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector.sct
+SECTORTITLE:EPWW-Sector.sct
 ARTCC high boundary:FIR border EPWW:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Free Text:EPGD LADOWISKA\Chojnice H005:freetext
@@ -128,7 +128,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:338.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:54.361048:18.436157:54.392796:18.522867
+WINDOWAREA:54.361048:18.414469:54.392796:18.544555
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

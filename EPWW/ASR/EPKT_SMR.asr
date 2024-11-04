@@ -1,8 +1,8 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20241102141541-241101-0001.sct
-SECTORTITLE:EPWW-Sector_20241102141541-241101-0001.sct
+SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector.sct
+SECTORTITLE:EPWW-Sector.sct
 ARTCC high boundary:FIR border EPWW:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Free Text:EPKK / EPKT VFR Points\B:freetext
@@ -178,7 +178,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-TWR
-WINDOWAREA:50.458810:19.046972:50.487117:19.124286
+WINDOWAREA:50.458810:19.027636:50.487117:19.143622
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

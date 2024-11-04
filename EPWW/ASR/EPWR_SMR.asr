@@ -1,8 +1,6 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector_20240614162825-240601-0002.sct
-SECTORTITLE:EPWW-Sector_20240614162825-240601-0002.sct
 ARTCC high boundary:FIR border EPWW:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Free Text:EPWR Ladowiska\?widnica H795:freetext
