@@ -49,7 +49,7 @@ Datablock:active item background:6317636:3.5:0:0:7
 Datablock:arrival background:3555595:3.5:0:0:7
 Datablock:departure background:3477261:3.5:0:0:7
 Datablock:AC list background:0:3.5:0:0:7
-Datablock:AC list selected background:5723991:3.5:0:0:7
+Datablock:AC list selected background:6317636:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7

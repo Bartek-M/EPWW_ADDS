@@ -14,19 +14,11 @@ Free Text:EPWA STAND + TWY [2021]\103:freetext
 Free Text:EPWA STAND + TWY [2021]\103A:freetext
 Free Text:EPWA STAND + TWY [2021]\104:freetext
 Free Text:EPWA STAND + TWY [2021]\105:freetext
-Free Text:EPWA STAND + TWY [2021]\10L:freetext
-Free Text:EPWA STAND + TWY [2021]\10R:freetext
 Free Text:EPWA STAND + TWY [2021]\11:freetext
 Free Text:EPWA STAND + TWY [2021]\12:freetext
 Free Text:EPWA STAND + TWY [2021]\13:freetext
-Free Text:EPWA STAND + TWY [2021]\13L:freetext
-Free Text:EPWA STAND + TWY [2021]\13R:freetext
 Free Text:EPWA STAND + TWY [2021]\14:freetext
-Free Text:EPWA STAND + TWY [2021]\14L:freetext
-Free Text:EPWA STAND + TWY [2021]\14R:freetext
 Free Text:EPWA STAND + TWY [2021]\15:freetext
-Free Text:EPWA STAND + TWY [2021]\15L:freetext
-Free Text:EPWA STAND + TWY [2021]\15R:freetext
 Free Text:EPWA STAND + TWY [2021]\16:freetext
 Free Text:EPWA STAND + TWY [2021]\17:freetext
 Free Text:EPWA STAND + TWY [2021]\18:freetext
@@ -38,8 +30,6 @@ Free Text:EPWA STAND + TWY [2021]\22:freetext
 Free Text:EPWA STAND + TWY [2021]\23:freetext
 Free Text:EPWA STAND + TWY [2021]\24:freetext
 Free Text:EPWA STAND + TWY [2021]\25:freetext
-Free Text:EPWA STAND + TWY [2021]\25L:freetext
-Free Text:EPWA STAND + TWY [2021]\25R:freetext
 Free Text:EPWA STAND + TWY [2021]\3:freetext
 Free Text:EPWA STAND + TWY [2021]\31:freetext
 Free Text:EPWA STAND + TWY [2021]\32:freetext
@@ -86,11 +76,6 @@ Free Text:EPWA STAND + TWY [2021]\7A:freetext
 Free Text:EPWA STAND + TWY [2021]\8:freetext
 Free Text:EPWA STAND + TWY [2021]\80:freetext
 Free Text:EPWA STAND + TWY [2021]\81:freetext
-Free Text:EPWA STAND + TWY [2021]\814:freetext
-Free Text:EPWA STAND + TWY [2021]\815:freetext
-Free Text:EPWA STAND + TWY [2021]\816:freetext
-Free Text:EPWA STAND + TWY [2021]\817:freetext
-Free Text:EPWA STAND + TWY [2021]\818:freetext
 Free Text:EPWA STAND + TWY [2021]\82:freetext
 Free Text:EPWA STAND + TWY [2021]\83:freetext
 Free Text:EPWA STAND + TWY [2021]\84:freetext
@@ -228,7 +213,7 @@ SHOWC:1
 SHOWSB:1
 BELOW:0
 ABOVE:0
-LEADER:5
+LEADER:-2
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -237,7 +222,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:298.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:52.148946:20.907235:52.178981:21.030302
+WINDOWAREA:52.147893:20.931340:52.176732:21.010104
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
