@@ -66,9 +66,9 @@ m_HiliteASELAircraft:1
 m_EnableVoiceRecognition:0
 m_VoiceRecognitionStyle:2
 m_SModeTransponders:HLEGWQS
-m_CorrelationMode:2
+m_CorrelationMode:0
 m_CorrelationDistance:30
-m_SimulateRadars:1
+m_SimulateRadars:0
 m_AllowCorrelatedTAGDown:1
 m_ShowDetailedOverUntagged:1
 m_ShowRectAroundFPTrack:1
@@ -168,8 +168,8 @@ m_ConnectSELtoSIL:1
 m_ConnectDEPtoSEL:1
 m_ConnectSILtoTOP:0
 m_ScreenNumber:0
-m_ScreenPosition:8
-m_ScreenMaximized:1
+m_ScreenPosition:9
+m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
 m_PlanesListX:0
 m_PlanesListY:970
@@ -194,7 +194,7 @@ ScenarioEditorX:0
 ScenarioEditorY:0
 m_ShowSTARControllers:0
 MessageLinesNumber:4
-BackgroundGrphicsInThread:1
+BackgroundGrphicsInThread:0
 SIL
 m_Visible:1
 m_X:0
@@ -222,7 +222,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:190
+m_Y:124
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:13
@@ -249,7 +249,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:268
+m_Y:158
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
