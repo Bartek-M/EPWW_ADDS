@@ -20,7 +20,7 @@ VORs:frequency:14520064:3.0:0:0:2
 NDBs:symbol:6579300:3.0:0:0:7
 NDBs:name:8355711:3.0:0:0:12
 NDBs:frequency:8421504:3.0:0:0:0
-Runways:centerline:8355711:4.0:0:1:7
+Runways:centerline:16777215:3.5:0:1:7
 Runways:extended centerline:8355711:4.0:0:0:7
 Runways:name:8355711:4.0:0:0:7
 Datablock:non concerned:13158600:3.2:0:1:7
@@ -48,7 +48,7 @@ Datablock:detailed background:2105376:3.5:0:0:7
 Datablock:active item background:6317636:3.5:0:0:7
 Datablock:arrival background:3555595:3.5:0:0:7
 Datablock:departure background:3477261:3.5:0:0:7
-Datablock:AC list background:0:3.5:0:0:7
+Datablock:AC list background:6974058:3.5:0:0:7
 Datablock:AC list selected background:6317636:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
@@ -85,7 +85,7 @@ Other:manual taxi line ends at predefined point:65535:3.0:0:3:2
 Other:predefined taxi line:65280:3.0:0:3:2
 Other:terminal taxi line:255:3.0:0:3:2
 Other:list title bar:16777215:0.1:0:0:7
-Other:list header:12632256:3.5:0:0:7
+Other:list header:15263976:3.5:0:0:7
 Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:12632256:3.5:0:0:7
 Transitions:transition grid:0:3.0:0:0:7

@@ -149,10 +149,11 @@ Free Text:EPWA STAND + TWY [2021]\ZB2:freetext
 Free Text:EPWA STAND + TWY [2021]\ZO1:freetext
 Free Text:EPWA STAND + TWY [2021]\ZO2:freetext
 Geo:EPBC Groundlayout SMR TWY:
-Geo:EPWA Groundlayout SMR TWY:
+Geo:EPWA Groundlayout SMR JK:
 Geo:GEO:
 Regions:EPBC SMR:polygon
 Regions:EPWA SMR JK:polygon
+Regions:EPWA SMR-v2:polygon
 Runways:EPBC 10L-28R:extended centerline 1
 Runways:EPBC 10L-28R:extended centerline 1 left base
 Runways:EPBC 10L-28R:extended centerline 1 left ticks

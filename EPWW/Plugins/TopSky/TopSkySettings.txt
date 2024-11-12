@@ -12,20 +12,12 @@ Airspace_P_Flag=EPBY,EPGD,EPKK,EPKT,EPLB,EPLL,EPMO,EPPO,EPRZ,EPSC,EPSY,EPWA,EPWR
 Airspace_RVSM_Max=41000
 Airspace_SIGMET_Areas=EPWW
 
-AIW=1
-AIW_Floor=1000
-AIW_PredictionTime=1
-AIW_Type=1
+AIW=0
+APW=0
+MSAW=0
+SAP=0
 
 Areas_Label_FontSize=8
-
-APW=1
-APW_AlertSound_Filter=2
-APW_AlertSound=0
-APW_Filter=1
-APW_Uncorrelated=0
-APW_UseCFL=1
-APW_VFR=0
 
 // Plane Colors
 Color_Unknown=239,224,42
@@ -108,11 +100,13 @@ FlightLeg_AssumeTime=5
 FlightLeg_Label_RFL=1
 
 Label_UseTransferInColor=1
-
 List_OptionsInGlobalMenu=0
 List_ETWR_ADEP=EP
 List_TfcMgmt1_ADES=EPWA,EPMO,EPRA,EPLL,EPBC
 List_TfcMgmt2_ADES=EPKK,EPKT
+
+List_Holding_MaxItems=15
+List_Holding_States=45
 
 Malrt_Misap=G/A
 
@@ -126,19 +120,10 @@ Menu_Level_MaxValue_5=60
 Menu_Level_MaxValue=660
 Menu_MaxListItems=10
 
-MSAW=1
-MSAW_Filter=1
-MSAW_VFR=0
-
 MTCD_Filter_Dep=3
 
 RDF_Mode=-1
-
 RwyAppLines_Auto=0
-
-SAP=1
-
-Shortcut_RadarMenu_Combo=0x00
 
 STCA=1
 STCA_AlertSound=1
@@ -190,4 +175,3 @@ WXR_Brightness=25
 Setup_LoadMap=HOLD
 Setup_LoadMap=VFR
 Setup_LoadMap=MVA
-Setup_LoadMap=LOA
