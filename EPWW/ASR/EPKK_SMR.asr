@@ -27,24 +27,15 @@ Free Text:EPKK / EPKT VFR Points\X:freetext
 Free Text:EPKK / EPKT VFR Points\Z:freetext
 Free Text:EPKK LADOWISKA\Bochnia H295:freetext
 Free Text:EPKK LADOWISKA\Brzesko H296:freetext
-Free Text:EPKK LADOWISKA\Chrzan�w H253:freetext
 Free Text:EPKK LADOWISKA\D?browa Tarnowska H299:freetext
 Free Text:EPKK LADOWISKA\Gorlice H300:freetext
-Free Text:EPKK LADOWISKA\Krak�w ?eromskiego H265:freetext
-Free Text:EPKK LADOWISKA\Krak�w CUMRiK-Jakubowskiego H324:freetext
-Free Text:EPKK LADOWISKA\Krak�w Jana Paw?a II H326:freetext
-Free Text:EPKK LADOWISKA\Krak�w Narutowicza H321:freetext
-Free Text:EPKK LADOWISKA\Krak�w Prokocim Dzieci?cy USD H329:freetext
-Free Text:EPKK LADOWISKA\Krak�w Rydygiera H264:freetext
 Free Text:EPKK LADOWISKA\Limanowa H268:freetext
-Free Text:EPKK LADOWISKA\Miech�w H269:freetext
 Free Text:EPKK LADOWISKA\My?lenice H270:freetext
 Free Text:EPKK LADOWISKA\Nowy S?cz H271:freetext
 Free Text:EPKK LADOWISKA\Nowy Targ H272:freetext
 Free Text:EPKK LADOWISKA\O?wi?cim H276:freetext
 Free Text:EPKK LADOWISKA\Olkusz H273:freetext
 Free Text:EPKK LADOWISKA\Sucha Beskidzka H289:freetext
-Free Text:EPKK LADOWISKA\Tarn�w H290:freetext
 Free Text:EPKK LADOWISKA\Wadowice H308:freetext
 Free Text:EPKK LADOWISKA\Zakopane H293:freetext
 Free Text:EPKK STAND + TWY [2024]\1:freetext
@@ -124,35 +115,7 @@ Free Text:EPKK STAND + TWY [2024]\Z3:freetext
 Free Text:EPKK STAND + TWY [2024]\Z4:freetext
 Free Text:EPKK STAND + TWY [2024]\Z5:freetext
 Free Text:EPKK STAND + TWY [2024]\Z6:freetext
-Free Text:SCT2\A007/GND:freetext
-Free Text:SCT2\A010/GND:freetext
-Free Text:SCT2\A013/GND:freetext
-Free Text:SCT2\A015/GND:freetext
-Free Text:SCT2\A020/GND:freetext
-Free Text:SCT2\A027/GND:freetext
-Free Text:SCT2\A030/GND:freetext
-Free Text:SCT2\A035/GND:freetext
-Free Text:SCT2\A037/GND:freetext
-Free Text:SCT2\A038/GND:freetext
-Free Text:SCT2\A040/GND:freetext
-Free Text:SCT2\A045/GND:freetext
-Free Text:SCT2\A050/GND:freetext
-Free Text:SCT2\A053/GND:freetext
-Free Text:SCT2\A061/GND:freetext
-Free Text:SCT2\A064/GND:freetext
-Free Text:SCT2\A065/GND:freetext
-Free Text:SCT2\A075/GND:freetext
-Free Text:SCT2\F085/GND:freetext
-Free Text:SCT2\F090/GND:freetext
-Free Text:SCT2\F095/GND:freetext
-Free Text:SCT2\F115/GND:freetext
-Free Text:SCT2\F165/GND:freetext
-Free Text:SCT2\F410/F165:freetext
-Free Text:SCT2\F660/F410:freetext
 Geo:EPKK Groundlayout SMR TWY:
-Geo:EPWW Prohibited area:
-Geo:EPWW Restricted area:
-Geo:GEO:
 Regions:EPKK SMR:polygon
 Runways:EPKK 07-25:extended centerline 1
 Runways:EPKK 07-25:extended centerline 1 left base
@@ -181,7 +144,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:13.00000
 TAGFAMILY:P21-TWR
-WINDOWAREA:50.055537:19.734430:50.102675:19.863172
+WINDOWAREA:50.062521:19.754084:50.092690:19.836517
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

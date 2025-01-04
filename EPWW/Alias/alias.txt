@@ -25,6 +25,12 @@
 ;=========================================================================================================================;
 ;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: Polish VACC - EPWW                      ;
 ;=========================================================================================================================;
+;*** ACC ***
+.nair Not in my airspace. Please check our map at https://plvacc.pl/
+..nair Nie w mojej przestrzeni. Proszę sprawdzić naszą mapę na https://plvacc.pl/
+.rpos Report your position
+..rpos Zgłoście swoją pozycję
+
 ;*** APP ***
 .rst Radar service terminated
 ..rst Sluzba radarowa zakonczona
@@ -36,8 +42,6 @@
 ..sqc Sprawdz transponder w modzie C
 .id Identified
 ..id Zidentyfikowany
-.rc Radar contact
-..rc W kontakcie radarowym
 .c Climb flight level $1
 ..c Wznos poziom lotu $1
 .ca Climb altitude $1 ft
@@ -52,12 +56,12 @@
 ..reach Osiagnij nad $1
 .star Cleared $star arrival, runway $arrrwy
 ..star Zezwalam na dolot $star, pas $arrrwy
-.exils Expect ILS approach, runway $arrrwy
-.exrnp Expect RNP approach, runway $arrrwy
-.exvecils Expect vectors to ILS approach, runway $arrrwy
-.exvecvor Expect vectors to VOR approach, runway $arrrwy
-.exvis Expect visual approach, runway $arrrwy
-.exvor Expect VOR approach, runway $arrrwy
+.eils Expect ILS approach, runway $arrrwy
+.ernp Expect RNP approach, runway $arrrwy
+.eveils Expect vectors to ILS approach, runway $arrrwy
+.evcvor Expect vectors to VOR approach, runway $arrrwy
+.evis Expect visual approach, runway $arrrwy
+.evor Expect VOR approach, runway $arrrwy
 .rh Turn right heading $1.
 .lh Turn left heading $1.
 .rby Turn right by $1 degrees.
@@ -149,6 +153,10 @@
 ..cls Do wszystkich stacji, do wszystkich stacji, $radioname zamyka.
 .clsuni All station, all station, $radioname is closing. Adivisory frequency 122.8. Goodbye.
 ..clsuni Do wszystkich stacji, do wszystkich stacji, $radioname zamyka. Czestotliwosc doradcza 122.8. Do milego, czesc.
+.y Affirmative
+..y Poprawnie
+.n Negative
+..n Niepopranie
 
 ;*** TWR ***
 .ba Backtrack approved
@@ -208,3 +216,7 @@
 .repfin Report final.
 ..repfin Zglos prosta.
 
+;*** WALLOP ***
+.noresp .wallop Hello, I'm getting any response from $1, could you please check him?
+.nocont .wallop Hello, I tried calling $1 several times and still don't have any contact with him, could you please check him?
+.nolist .wallop Hello, $1 is not listening to any of my instructions, could you please check him?

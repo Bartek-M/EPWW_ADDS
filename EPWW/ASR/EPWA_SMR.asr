@@ -153,7 +153,6 @@ Geo:EPWA Groundlayout SMR JK:
 Geo:GEO:
 Regions:EPBC SMR:polygon
 Regions:EPWA SMR JK:polygon
-Regions:EPWA SMR-v2:polygon
 Runways:EPBC 10L-28R:extended centerline 1
 Runways:EPBC 10L-28R:extended centerline 1 left base
 Runways:EPBC 10L-28R:extended centerline 1 left ticks
@@ -223,7 +222,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:298.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:52.148153:20.930360:52.178909:21.014398
+WINDOWAREA:52.146446:20.929379:52.177206:21.013426
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

@@ -1,0 +1,57 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector.sct
+SECTORTITLE:EPWW-Sector.sct
+ARTCC boundary:Poznan TMA OUT:
+ARTCC boundary:Radom TMA OUT:
+ARTCC boundary:TMA EPBY OUT:
+ARTCC boundary:TMA EPDE OUT:
+ARTCC boundary:TMA EPGD OUT:
+ARTCC boundary:TMA EPKK OUT:
+ARTCC boundary:TMA EPLB OUT:
+ARTCC boundary:TMA EPLL OUT:
+ARTCC boundary:TMA EPRZ OUT:
+ARTCC boundary:TMA EPSC OUT:
+ARTCC boundary:TMA EPSY OUT:
+ARTCC boundary:TMA EPWA OUT:
+ARTCC boundary:TMA EPZG OUT:
+ARTCC high boundary:FIR border 0 - EDMM:
+ARTCC high boundary:FIR border 0 - EDWW:
+ARTCC high boundary:FIR border 0 - ESAA:
+ARTCC high boundary:FIR border 0 - EYVL:
+ARTCC high boundary:FIR border 0 - LKAA:
+ARTCC high boundary:FIR border 0 - LOVV:
+ARTCC high boundary:FIR border 0 - LZBB:
+ARTCC high boundary:FIR border 0 - UKLV-E:
+ARTCC high boundary:FIR border 0 - UKLV-W:
+ARTCC high boundary:FIR border 0 - UMMV:
+ARTCC high boundary:FIR border EPWW:
+Geo:EPWW Coastlines:
+SHOWC:1
+SHOWSB:0
+BELOW:2000
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:P21-ACC
+WINDOWAREA:48.010409:10.201423:56.343743:32.971546
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:5
+PLUGIN:EuroScope History Trails:HistoryTrailFade:0
+PLUGIN:EuroScope History Trails:HistoryTrailLength:10
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:2000
+PLUGIN:EuroScope History Trails:HistoryTrailType:0
+PLUGIN:RDF Plugin for Euroscope:Radius:50
+PLUGIN:RDF Plugin for Euroscope:RGB:128:128:128
+PLUGIN:TopSky plugin:HideMapData:TMA,MVA,APP,HOLD,VFR,BrdFIX
