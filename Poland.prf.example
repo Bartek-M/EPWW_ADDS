@@ -34,25 +34,12 @@ Settings	FreqKey	3604480
 ASRFastKeys	1	\EPWW\ASR\EPWW.asr
 ASRFastKeys	2	\EPWW\ASR\AIRPORTS.asr
 ASRFastKeys	3	\EPWW\ASR\EPWA_SMR.asr
-ASRFastKeys	4	\EPWW\ASR\EPKK_SMR.asr
-ASRFastKeys	5	\EPWW\ASR\EPKT_SMR.asr
+ASRFastKeys	4	\EPWW\ASR\EPWW_2.asr
+ASRFastKeys	5	\EPWW\ASR\EPKK_SMR.asr
 ASRFastKeys	6	\EPWW\ASR\EPGD_SMR.asr
 ASRFastKeys	7	\EPWW\ASR\EPPO_SMR.asr
 ASRFastKeys	8	\EPWW\ASR\FIXES.asr
 ASRFastKeys	9	\EPWW\ASR\FR24.asr
-RecentFiles	Recent2	\EPWW\ASR\EPWA_SMR.asr
-RecentFiles	Recent3	\EPWW\ASR\FR24.asr
-RecentFiles	Recent4	\EPWW\ASR\AIRPORTS.asr
-RecentFiles	Recent5	\EPWW\ASR\FIXES.asr
-RecentFiles	Recent6	\EPWW\ASR\EPGD_SMR.asr
-RecentFiles	Recent7	\EPWW\ASR\EPPO_SMR.asr
-RecentFiles	Recent8	\EPWW\ASR\EPKK_SMR.asr
-RecentFiles	Recent9	\EPWW\ASR\EPKT_SMR.asr
-RecentFiles	Recent10	\EPWW\ASR\EPPO_SMR.asr
-RecentFiles	Recent11	\EPWW\ASR\EPPO_SMR.asr
-LastSession	callsign	EPWA_APP
-Plugins	Plugin5Display0	Ground Radar display
-RecentFiles	Recent1	\EPWW\ASR\EPWW.asr
 Sounds	Sound0	\..\Sounds\handoff_request.wav
 Sounds	Sound1	\..\Sounds\handoff_accept.wav
 Sounds	Sound2	\..\Sounds\conflict_alert.wav
@@ -73,6 +60,7 @@ Sounds	Sound16	\..\Sounds\handoff_refused.wav
 Sounds	Sound17	\..\Sounds\pointout.wav
 Sounds	Sound17	\..\Sounds\pointout.wav
 Sounds	Sound18	\..\Sounds\supervisor_message.wav
+Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin4Display0	Standard ES radar screen
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin9Display0	SMR radar display
