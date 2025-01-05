@@ -130,7 +130,12 @@ List_Holding_States=45
 
 Malrt_Misap=G/A
 
-CPDLC_MinLevel=285
+CPDLC_MinLevel=95
+CPDLC_Transfer=1
+CPDLC_CFL=1
+CPDLC_DCT=1
+CPDLC_AHDG=1
+CPDLC_ASP=1
 
 Divergence_Inhibit_ActiveAreas=1
 

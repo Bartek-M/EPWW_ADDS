@@ -1376,7 +1376,7 @@ TAGITEM:0::0:1:0:0::0:1:::1
 TAGITEM:8::0:1:1:10:CPegasusES:1:1::CPegasusES:1
 TAGITEM:5::0:0:0:7:CPegasusES:7:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:25::0:0:45:10::1:1:TopSky plugin::1
+TAGITEM:25::0:0:14:10::1:1:TopSky plugin::1
 TAGITEM:2::0:1:12:15:CPegasusES:5:1::TopSky plugin:1
 TAGITEM:3::0:1:13:16:CPegasusES:7:1::TopSky plugin:1
 TAGITEM:4::0:1:30:7:CPegasusES:9:1:::1
@@ -1507,7 +1507,7 @@ TAGITEM:0::0:1:0:0::0:1:::1
 TAGITEM:8::0:1:1:10:CPegasusES:1:1::CPegasusES:1
 TAGITEM:5::0:0:0:7:CPegasusES:7:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:25::0:0:45:10::1:1:TopSky plugin::1
+TAGITEM:25::0:0:14:10::1:1:TopSky plugin::1
 TAGITEM:2::0:1:12:15:CPegasusES:5:1::TopSky plugin:1
 TAGITEM:3::0:1:13:16:CPegasusES:7:1::TopSky plugin:1
 TAGITEM:4::0:1:30:7:CPegasusES:9:1:::1
