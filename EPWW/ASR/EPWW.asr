@@ -28,13 +28,7 @@ ARTCC low boundary:MRVA EPKK:
 ARTCC low boundary:MRVA EPPO NORTH:
 ARTCC low boundary:MRVA EPPO SOUTH:
 ARTCC low boundary:MRVA EPWA:
-ARTCC low boundary:TMA EPBY IN:
-ARTCC low boundary:TMA EPLB IN:
-ARTCC low boundary:TMA EPLL IN:
 ARTCC low boundary:TMA EPRA OUT:
-ARTCC low boundary:TMA EPRZ IN:
-ARTCC low boundary:TMA EPSC IN:
-ARTCC low boundary:TMA EPSY IN:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Geo:EPWW Coastlines:
 Runways:EDDB 06L-24R:centerline
@@ -259,7 +253,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:48.248443:9.944374:56.581778:32.714500
+WINDOWAREA:47.874736:10.677575:56.208071:33.447702
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
