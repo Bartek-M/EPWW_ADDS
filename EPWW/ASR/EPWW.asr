@@ -3,8 +3,11 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector.sct
 SECTORTITLE:EPWW-Sector.sct
+ARTCC boundary:Poznan TMA OUT:
 ARTCC boundary:TMA EPBY OUT:
 ARTCC boundary:TMA EPDE OUT:
+ARTCC boundary:TMA EPGD OUT:
+ARTCC boundary:TMA EPKK OUT:
 ARTCC boundary:TMA EPLB OUT:
 ARTCC boundary:TMA EPLL OUT:
 ARTCC boundary:TMA EPRZ OUT:
@@ -23,11 +26,6 @@ ARTCC high boundary:FIR border 0 - UKLV-E:
 ARTCC high boundary:FIR border 0 - UKLV-W:
 ARTCC high boundary:FIR border 0 - UMMV:
 ARTCC high boundary:FIR border EPWW:
-ARTCC low boundary:MRVA EPGD:
-ARTCC low boundary:MRVA EPKK:
-ARTCC low boundary:MRVA EPPO NORTH:
-ARTCC low boundary:MRVA EPPO SOUTH:
-ARTCC low boundary:MRVA EPWA:
 ARTCC low boundary:TMA EPRA OUT:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Geo:EPWW Coastlines:
@@ -67,21 +65,6 @@ Runways:EPBC 10R-28L:extended centerline 2 right ticks
 Runways:EPBC 10R-28L:extended centerline 2 right vectoring
 Runways:EPBY 08-26:centerline
 Runways:EPBY 08-26:name
-Runways:EPDE 12-30:centerline
-Runways:EPDE 12-30:extended centerline 1
-Runways:EPDE 12-30:extended centerline 1 left base
-Runways:EPDE 12-30:extended centerline 1 left ticks
-Runways:EPDE 12-30:extended centerline 1 left vectoring
-Runways:EPDE 12-30:extended centerline 1 right base
-Runways:EPDE 12-30:extended centerline 1 right ticks
-Runways:EPDE 12-30:extended centerline 1 right vectoring
-Runways:EPDE 12-30:extended centerline 2
-Runways:EPDE 12-30:extended centerline 2 left base
-Runways:EPDE 12-30:extended centerline 2 left ticks
-Runways:EPDE 12-30:extended centerline 2 left vectoring
-Runways:EPDE 12-30:extended centerline 2 right base
-Runways:EPDE 12-30:extended centerline 2 right ticks
-Runways:EPDE 12-30:extended centerline 2 right vectoring
 Runways:EPGD 11-29:centerline
 Runways:EPGD 11-29:extended centerline 1
 Runways:EPGD 11-29:extended centerline 1 left base
@@ -114,21 +97,6 @@ Runways:EPKK 07-25:extended centerline 2 right base
 Runways:EPKK 07-25:extended centerline 2 right ticks
 Runways:EPKK 07-25:extended centerline 2 right vectoring
 Runways:EPKK 07-25:name
-Runways:EPKS 11-29:centerline
-Runways:EPKS 11-29:extended centerline 1
-Runways:EPKS 11-29:extended centerline 1 left base
-Runways:EPKS 11-29:extended centerline 1 left ticks
-Runways:EPKS 11-29:extended centerline 1 left vectoring
-Runways:EPKS 11-29:extended centerline 1 right base
-Runways:EPKS 11-29:extended centerline 1 right ticks
-Runways:EPKS 11-29:extended centerline 1 right vectoring
-Runways:EPKS 11-29:extended centerline 2
-Runways:EPKS 11-29:extended centerline 2 left base
-Runways:EPKS 11-29:extended centerline 2 left ticks
-Runways:EPKS 11-29:extended centerline 2 left vectoring
-Runways:EPKS 11-29:extended centerline 2 right base
-Runways:EPKS 11-29:extended centerline 2 right ticks
-Runways:EPKS 11-29:extended centerline 2 right vectoring
 Runways:EPKT 08-26:centerline
 Runways:EPKT 08-26:extended centerline 1
 Runways:EPKT 08-26:extended centerline 1 left base
@@ -253,7 +221,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:48.758057:12.437485:55.424726:30.653587
+WINDOWAREA:48.034722:10.169661:56.368056:32.939783
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
