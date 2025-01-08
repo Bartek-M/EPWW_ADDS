@@ -103,7 +103,7 @@ m_ShowVFRInFpList:1
 m_ShowIFRInFpList:1
 m_ShowConcernedInFpList:1
 m_ShowUnconcernedInFpList:0
-m_ZoomCenterUnderMouse:1
+m_ZoomCenterUnderMouse:0
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
 m_STCA_LowPreWarnTime:60
 m_STCA_LowWarnTime:40
@@ -222,7 +222,7 @@ END
 SEL
 m_Visible:1
 m_X:1413
-m_Y:147
+m_Y:136
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:14
@@ -249,7 +249,7 @@ END
 DEP
 m_Visible:1
 m_X:1413
-m_Y:181
+m_Y:170
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:3

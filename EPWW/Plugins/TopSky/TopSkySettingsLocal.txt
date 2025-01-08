@@ -4,5 +4,5 @@ System_GUI_Scale_GlobalMenu=1.0
 System_GUI_Scale_Menus=1.0
 System_GUI_Scale_Screen=1.0
 
-Window_CARD=1,1865,1175,355,195
+Window_CARD=1,1865,1115,355,195
 // Window_CPDLC_Current=1,1850,890

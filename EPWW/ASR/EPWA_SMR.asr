@@ -148,6 +148,22 @@ Free Text:EPWA STAND + TWY [2021]\ZB1:freetext
 Free Text:EPWA STAND + TWY [2021]\ZB2:freetext
 Free Text:EPWA STAND + TWY [2021]\ZO1:freetext
 Free Text:EPWA STAND + TWY [2021]\ZO2:freetext
+Free Text:EPWA VFR Points\A:freetext
+Free Text:EPWA VFR Points\B:freetext
+Free Text:EPWA VFR Points\D:freetext
+Free Text:EPWA VFR Points\E:freetext
+Free Text:EPWA VFR Points\F:freetext
+Free Text:EPWA VFR Points\G:freetext
+Free Text:EPWA VFR Points\K:freetext
+Free Text:EPWA VFR Points\M:freetext
+Free Text:EPWA VFR Points\N:freetext
+Free Text:EPWA VFR Points\O:freetext
+Free Text:EPWA VFR Points\P:freetext
+Free Text:EPWA VFR Points\R:freetext
+Free Text:EPWA VFR Points\T:freetext
+Free Text:EPWA VFR Points\W:freetext
+Free Text:EPWA VFR Points\X:freetext
+Free Text:EPWA VFR Points\Z:freetext
 Geo:EPBC Groundlayout SMR TWY:
 Geo:EPWA Groundlayout SMR JK:
 Geo:GEO:
@@ -222,7 +238,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:298.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:52.147927:20.931085:52.178687:21.015135
+WINDOWAREA:52.147012:20.930606:52.177772:21.014656
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
