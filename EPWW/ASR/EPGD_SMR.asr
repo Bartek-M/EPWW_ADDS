@@ -128,7 +128,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:338.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:54.361780:18.436075:54.392263:18.519369
+WINDOWAREA:54.364828:18.444404:54.389215:18.511040
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
@@ -140,7 +140,7 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:128:128:128
+PLUGIN:RDF Plugin for Euroscope:RGB:200:200:200
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Radar
 PLUGIN:vSMR:Afterglow:1

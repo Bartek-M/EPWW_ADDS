@@ -4,6 +4,7 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector.sct
 SECTORTITLE:EPWW-Sector.sct
 ARTCC boundary:Poznan TMA OUT:
+ARTCC boundary:Radom TMA OUT:
 ARTCC boundary:TMA EPBY OUT:
 ARTCC boundary:TMA EPDE OUT:
 ARTCC boundary:TMA EPGD OUT:
@@ -14,6 +15,7 @@ ARTCC boundary:TMA EPRZ OUT:
 ARTCC boundary:TMA EPSC OUT:
 ARTCC boundary:TMA EPSY OUT:
 ARTCC boundary:TMA EPWA OUT:
+ARTCC boundary:TMA EPZG OUT:
 ARTCC high boundary:AoR CTR EPWW - EDUU AOR:
 ARTCC high boundary:FIR border 0 - EDMM:
 ARTCC high boundary:FIR border 0 - EDWW:
@@ -26,12 +28,6 @@ ARTCC high boundary:FIR border 0 - UKLV-E:
 ARTCC high boundary:FIR border 0 - UKLV-W:
 ARTCC high boundary:FIR border 0 - UMMV:
 ARTCC high boundary:FIR border EPWW:
-ARTCC low boundary:MRVA EPGD:
-ARTCC low boundary:MRVA EPKK:
-ARTCC low boundary:MRVA EPPO NORTH:
-ARTCC low boundary:MRVA EPPO SOUTH:
-ARTCC low boundary:MRVA EPWA:
-ARTCC low boundary:TMA EPRA OUT:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Geo:EPWW Coastlines:
 Runways:EDDB 06L-24R:centerline
@@ -226,7 +222,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:48.171005:9.393152:56.504340:32.163278
+WINDOWAREA:47.117020:11.447610:53.220536:28.124946
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
@@ -238,5 +234,5 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:128:128:128
+PLUGIN:RDF Plugin for Euroscope:RGB:200:200:200
 PLUGIN:TopSky plugin:HideMapData:TMA,BrdFIX

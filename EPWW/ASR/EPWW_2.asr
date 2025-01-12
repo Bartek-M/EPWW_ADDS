@@ -53,5 +53,5 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:2000
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:128:128:128
+PLUGIN:RDF Plugin for Euroscope:RGB:200:200:200
 PLUGIN:TopSky plugin:HideMapData:TMA,MVA,APP,HOLD,VFR,BrdFIX

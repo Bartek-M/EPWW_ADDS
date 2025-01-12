@@ -9,7 +9,7 @@ High airways:name:4605510:3.2:1:0:8
 Fixes:symbol:6579300:1.0:0:1:7
 Fixes:name:6579300:3.2:0:0:2
 Sids:line:8421504:3.0:2:1:7
-Stars:line:6579300:3.0:0:1:7
+Stars:line:4934475:3.0:0:1:7
 ARTCC high boundary:line:9868950:3.0:0:0:7
 ARTCC boundary:line:8355711:3.0:0:0:7
 ARTCC low boundary:line:8421504:3.0:0:0:7
@@ -1309,7 +1309,7 @@ TAGITEM:17::0:1:7:7::0:1:::3
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:66::0:1:29:29::0:1:::3
 TAGFAMILY:P21-ACC
-TAGTYPE:0:12:1
+TAGTYPE:0:14:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:49::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:90::0:0:0:41::0:1:::1
@@ -1322,8 +1322,9 @@ TAGITEM:13::0:1:0:0:CPegasusES:7:1:::8
 TAGITEM:14::0:1:0:0:CPegasusES:7:1:::8
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:15::0:0:0:0:CPegasusES:0:1:::3
-TAGITEM:22::1:0:8:1:TopSky plugin:1:1:::0
+TAGITEM:22::0:0:8:1:TopSky plugin:1:1:::0
 TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:9::1:1:16:11:CPegasusES:11:1::CPegasusES:1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
@@ -1384,7 +1385,7 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:66::0:1:29:29::1:1:::1
 TAGTYPE:3:0:0
 TAGITEM:1::1:0:0:0::0:1:::1
-TAGTYPE:4:12:1
+TAGTYPE:4:14:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:49::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:90::0:0:0:41::0:1:::1
@@ -1397,22 +1398,23 @@ TAGITEM:13::0:1:0:0:CPegasusES:7:1:::8
 TAGITEM:14::0:1:0:0:CPegasusES:7:1:::8
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:15::0:0:0:0:CPegasusES:0:1:::3
-TAGITEM:22::1:0:8:1:TopSky plugin:1:1:::0
+TAGITEM:22::0:0:8:1:TopSky plugin:1:1:::0
 TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:9::1:1:16:11:CPegasusES:11:1::CPegasusES:1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGTYPE:5:0:0
 TAGITEM:18::1:0:0:0::0:1:::3
 TAGTYPE:6:0:0
-TAGITEM:9::1:0:8:6::0:1::TopSky plugin:6
+TAGITEM:9::1:0:8:1::0:1:::6
 TAGITEM:40::0:1:0:0::0:1:::3
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:4::0:0:0:0::0:1:::3
 TAGITEM:3::0:0:0:0::0:1:::3
 TAGITEM:17::0:1:0:7::5:1:::3
 TAGTYPE:7:0:0
-TAGITEM:9::1:0:8:6::0:1::TopSky plugin:6
+TAGITEM:9::1:0:8:1::0:1:::6
 TAGITEM:40::0:1:0:0::0:1:::3
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:4::0:0:0:0::0:1:::3
