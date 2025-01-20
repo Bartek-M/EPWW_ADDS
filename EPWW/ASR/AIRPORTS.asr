@@ -1065,13 +1065,13 @@ ABOVE:0
 LEADER:-2
 SHOWLEADER:1
 TURNLEADER:0
-HISTORY_DOTS:0
+HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Blank
-WINDOWAREA:50.061111:19.739182:50.094444:19.830262
+WINDOWAREA:50.457500:19.034459:50.490834:19.125540
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
@@ -1083,7 +1083,7 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:200:200:200
+PLUGIN:RDF Plugin for Euroscope:RGB:150:150:150
 PLUGIN:TopSky plugin:HideMapData:TMA,MVA,APP,HOLD,BrdFIX
 PLUGIN:vSMR:ActiveProfile:Airports
 PLUGIN:vSMR:Afterglow:1

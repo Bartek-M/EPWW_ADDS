@@ -1,5 +1,5 @@
 DisplayTypeName:SMR radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector.sct
 SECTORTITLE:EPWW-Sector.sct
@@ -16,9 +16,7 @@ Free Text:EPPO Ladowiska\Kalisz H755:freetext
 Free Text:EPPO Ladowiska\Konin H758:freetext
 Free Text:EPPO Ladowiska\Krotoszyn H815:freetext
 Free Text:EPPO Ladowiska\Leszno H759:freetext
-Free Text:EPPO Ladowiska\Mi?dzych�d H788:freetext
 Free Text:EPPO Ladowiska\Nowy Tomy?l H761:freetext
-Free Text:EPPO Ladowiska\Ostr�w Wielkopolski H809:freetext
 Free Text:EPPO Ladowiska\Pi?a H762:freetext
 Free Text:EPPO Ladowiska\Pleszew H818:freetext
 Free Text:EPPO Ladowiska\Pozna? - CM HCP H827:freetext
@@ -27,7 +25,6 @@ Free Text:EPPO Ladowiska\Pozna? Szwajcarska H811:freetext
 Free Text:EPPO Ladowiska\Puszczykowo H764:freetext
 Free Text:EPPO Ladowiska\Szamotu?y H820:freetext
 Free Text:EPPO Ladowiska\Trzcianka H768:freetext
-Free Text:EPPO Ladowiska\Z?ot�w H808:freetext
 Free Text:EPPO STAND + TWY [2021]\1:freetext
 Free Text:EPPO STAND + TWY [2021]\10:freetext
 Free Text:EPPO STAND + TWY [2021]\11:freetext
@@ -147,12 +144,12 @@ LEADER:-1
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:0
-SIMULATION_MODE:5
+SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:342.00000
-TAGFAMILY:P21-TWR
-WINDOWAREA:52.405563:16.776568:52.439895:16.870378
+TAGFAMILY:Blank
+WINDOWAREA:52.401088:16.784884:52.435421:16.878695
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
@@ -164,7 +161,7 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:200:200:200
+PLUGIN:RDF Plugin for Euroscope:RGB:150:150:150
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1

@@ -35,7 +35,7 @@ PROFILE:EPWW_J_CTR:200:6
 ATIS2:Warszawa Radar (South sector) | CPDLC ^FL95 logon: EPWJ
 ATIS3:Transition Altitude 6500ft | Transition Level 80
 ATIS4:Charts, feedback and airport coverage on plvacc.pl
-PROFILE:EPWW_N_CTR:200:6 
+PROFILE:EPWW_N_CTR:200:6
 ATIS2:Warszawa Radar (North sector) | CPDLC ^FL95 logon: EPWN
 ATIS3:Transition Altitude 6500ft | Transition Level 80
 ATIS4:Charts, feedback and airport coverage on plvacc.pl
@@ -47,8 +47,8 @@ PROFILE:EPWW_T_CTR:200:6
 ATIS2:Warszawa Radar (ALLFIR sector) | Training in progress - Trainee
 ATIS3:Transition Altitude 6500ft | Transition Level 80
 ATIS4:Charts, feedback and airport coverage on plvacc.pl
-PROFILE:EPWW_U_CTR:200:6 | CPDLC ^FL95 logon: EPWU
-ATIS2:Warszawa Radar (Upper sector)
+PROFILE:EPWW_U_CTR:200:6
+ATIS2:Warszawa Radar (Upper sector) | CPDLC ^FL95 logon: EPWU
 ATIS3:Transition Altitude 6500ft | Transition Level 80
 ATIS4:Charts, feedback and airport coverage on plvacc.pl
 PROFILE:EPWW_X_CTR:200:6
@@ -254,5 +254,9 @@ ATIS4:Charts, feedback and airport coverage on plvacc.pl
 PROFILE:EPRZ_GND:20:2
 ATIS2:Rzeszow Ground.
 ATIS3:Procedural control | For EPRZ ATIS check frequency 124.955
+ATIS4:Charts, feedback and airport coverage on plvacc.pl
+PROFILE:EPKK_X_TWR:30:4
+ATIS2:Krakow Tower. | Training in progress - Mentor
+ATIS3:For EPKK ATIS check frequency 126.130
 ATIS4:Charts, feedback and airport coverage on plvacc.pl
 END

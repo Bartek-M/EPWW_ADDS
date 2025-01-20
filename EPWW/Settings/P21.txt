@@ -23,7 +23,7 @@ NDBs:frequency:8421504:3.0:0:0:0
 Runways:centerline:16777215:3.5:0:1:7
 Runways:extended centerline:8355711:4.0:0:0:7
 Runways:name:8355711:4.0:0:0:7
-Datablock:non concerned:13158600:3.2:0:1:7
+Datablock:non concerned:9868950:3.2:0:1:7
 Datablock:notified:16777215:3.2:0:1:7
 Datablock:assumed:53760:3.2:0:1:7
 Datablock:transfer to me initiated:33023:3.2:0:1:7
@@ -44,7 +44,7 @@ Datablock:ongoing requested by me:13158400:3.2:0:0:7
 Datablock:ongoing requested by other:33023:3.2:0:0:7
 Datablock:ongoing accepted:8454016:3.2:0:0:7
 Datablock:ongoing refused:8421631:3.2:0:0:7
-Datablock:detailed background:2105376:3.5:0:0:7
+Datablock:detailed background:2302755:3.5:0:0:7
 Datablock:active item background:6317636:3.5:0:0:7
 Datablock:arrival background:3555595:3.5:0:0:7
 Datablock:departure background:3477261:3.5:0:0:7
@@ -62,12 +62,12 @@ Metar:normal:9884370:3.5:0:0:7
 Metar:modified:16776960:3.5:0:0:7
 Metar:timeout:10132122:3.5:0:0:7
 Other:wait:16777215:3.0:0:0:7
-Other:distance line:10855845:3.5:2:0:7
+Other:distance line:12615680:3.5:0:0:7
 Other:distance values:16777215:4.0:0:0:7
 Other:distance annotation:65535:5.0:0:0:7
-Other:separation leader:8421504:5.0:0:2:7
-Other:separation leader2:16777215:5.0:0:1:7
-Other:find:16777215:3.0:0:5:7
+Other:separation leader:12615680:5.0:0:2:7
+Other:separation leader2:12615680:5.0:0:1:7
+Other:find:12615680:3.0:0:1:7
 Other:valid airway:4236352:3.0:0:0:7
 Other:bad direction airway:255:3.0:0:1:7
 Other:unconnected airway:16711680:3.0:0:1:7
@@ -1405,21 +1405,21 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGTYPE:5:0:0
-TAGITEM:18::1:0:0:0::0:1:::3
+TAGITEM:18::1:0:0:0::0:1:::1
 TAGTYPE:6:0:0
-TAGITEM:9::1:0:8:1::0:1:::6
-TAGITEM:40::0:1:0:0::0:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::3
-TAGITEM:3::0:0:0:0::0:1:::3
-TAGITEM:17::0:1:0:7::5:1:::3
+TAGITEM:9::1:0:6:1::1:1:TopSky plugin::3
+TAGITEM:80::0:0:32:32::2:1:::0
+TAGITEM:0::0:0:0:0::0:1:::0
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::0
+TAGITEM:3::0:0:0:0::0:1:::0
+TAGITEM:9::0:0:0:0:CPegasusES:5:1:::0
 TAGTYPE:7:0:0
-TAGITEM:9::1:0:8:1::0:1:::6
-TAGITEM:40::0:1:0:0::0:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::3
-TAGITEM:3::0:0:0:0::0:1:::3
-TAGITEM:17::0:1:0:7::5:1:::3
+TAGITEM:9::1:0:6:1::1:1:TopSky plugin::3
+TAGITEM:80::0:0:32:32::2:1:::0
+TAGITEM:0::0:0:0:0::0:1:::0
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::0
+TAGITEM:3::0:0:0:0::0:1:::0
+TAGITEM:9::0:0:0:0:CPegasusES:5:1:::0
 TAGTYPE:8:0:0
 TAGITEM:1:--:1:0:0:0::0:1:::1
 TAGTYPE:9:1:0
@@ -1524,51 +1524,47 @@ TAGITEM:18::1:0:34:0::0:1:::4
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:9::0:0:0:0::0:1:::1
 TAGTYPE:20:0:0
-TAGITEM:9::1:0:0:0::0:1:::6
-TAGITEM:59::0:1:0:0::0:1:::3
+TAGITEM:9::1:0:0:0::1:1:::3
+TAGITEM:80::0:0:0:0::2:1:::0
+TAGITEM:8::0:0:0:0:CPegasusES:10:1:::0
+TAGITEM:0::0:0:0:0::0:1:::0
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::0
+TAGITEM:3::0:0:0:0::0:1:::0
+TAGITEM:9::0:0:0:0:CPegasusES:5:1:::0
+TAGITEM:17::0:1:0:0::10:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::3
-TAGITEM:3::0:0:0:0::0:1:::3
-TAGITEM:40::0:0:0:0::4:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:8::0:0:0:0:CPegasusES:0:1:::3
-TAGITEM:17::0:1:0:0::0:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:19::0:1:0:0::0:1:::3
+TAGITEM:19::0:0:0:0::1:1:::1
 TAGTYPE:21:0:0
-TAGITEM:9::1:0:8:6::0:1::TopSky plugin:6
-TAGITEM:59::0:1:46:13::0:1::Ground Radar plugin:0
+TAGITEM:9::1:0:6:1::0:1:TopSky plugin::3
+TAGITEM:80::0:0:32:32::1:1:::0
+TAGITEM:8::0:0:10:7:CPegasusES:9:1:CPegasusES::0
+TAGITEM:0::0:0:0:0::0:1:::0
+TAGITEM:4::0:0:0:0::0:1:::0
+TAGITEM:3::0:0:0:0::0:1:::0
+TAGITEM:9::0:0:16:11:CPegasusES:4:1::CPegasusES:0
+TAGITEM:17::0:1:0:7::9:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::3
-TAGITEM:3::0:0:0:0::0:1:::3
-TAGITEM:40::0:0:0:0::4:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:8::0:0:1:10:CPegasusES:0:1::CPegasusES:3
-TAGITEM:17::0:1:7:7::0:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:66::0:1:29:29::0:1:::3
+TAGITEM:66::0:0:29:29::0:1:::0
 TAGTYPE:22:0:0
-TAGITEM:9::1:0:0:0::0:1:::6
-TAGITEM:59::0:1:0:0::0:1:::3
+TAGITEM:9::1:0:0:0::1:1:::3
+TAGITEM:80::0:0:0:0::2:1:::0
+TAGITEM:8::0:0:0:0:CPegasusES:10:1:::0
+TAGITEM:0::0:0:0:0::0:1:::0
+TAGITEM:21::0:0:0:0:CPegasusES:0:1:::0
+TAGITEM:3::0:0:0:0::0:1:::0
+TAGITEM:9::0:0:0:0:CPegasusES:5:1:::0
+TAGITEM:17::0:1:0:0::10:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::3
-TAGITEM:3::0:0:0:0::0:1:::3
-TAGITEM:40::0:0:0:0::4:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:8::0:0:0:0:CPegasusES:0:1:::3
-TAGITEM:17::0:1:0:0::0:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:19::0:1:0:0::0:1:::3
+TAGITEM:19::0:0:0:0::1:1:::1
 TAGTYPE:23:0:0
-TAGITEM:9::1:0:8:6::0:1::TopSky plugin:6
-TAGITEM:59::0:1:46:13::0:1::Ground Radar plugin:0
+TAGITEM:9::1:0:6:1::0:1:TopSky plugin::3
+TAGITEM:80::0:0:32:32::1:1:::0
+TAGITEM:8::0:0:10:7:CPegasusES:9:1:CPegasusES::0
+TAGITEM:0::0:0:0:0::0:1:::0
+TAGITEM:4::0:0:0:0::0:1:::0
+TAGITEM:3::0:0:0:0::0:1:::0
+TAGITEM:9::0:0:16:11:CPegasusES:4:1::CPegasusES:0
+TAGITEM:17::0:1:0:7::9:1:::0
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::3
-TAGITEM:3::0:0:0:0::0:1:::3
-TAGITEM:40::0:0:0:0::4:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:8::0:0:1:10:CPegasusES:0:1::CPegasusES:3
-TAGITEM:17::0:1:7:7::0:1:::3
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:66::0:1:29:29::0:1:::3
+TAGITEM:66::0:0:29:29::0:1:::0
 END

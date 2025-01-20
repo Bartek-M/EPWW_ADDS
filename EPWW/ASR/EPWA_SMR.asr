@@ -1,5 +1,5 @@
 DisplayTypeName:SMR radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector.sct
 SECTORTITLE:EPWW-Sector.sct
@@ -271,8 +271,8 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:298.00000
-TAGFAMILY:P21-ACC
-WINDOWAREA:52.142138:20.919446:52.180589:21.024509
+TAGFAMILY:Blank
+WINDOWAREA:52.142138:20.919445:52.180589:21.024510
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
@@ -284,7 +284,7 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:200:200:200
+PLUGIN:RDF Plugin for Euroscope:RGB:150:150:150
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Radar
 PLUGIN:vSMR:Afterglow:1
