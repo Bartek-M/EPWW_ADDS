@@ -1,5 +1,5 @@
 DisplayTypeName:SMR radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Games\Aviation\ATC\EuroScope\EPWW_ADDS\EPWW-Sector.sct
 SECTORTITLE:EPWW-Sector.sct
