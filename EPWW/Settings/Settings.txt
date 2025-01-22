@@ -7,9 +7,9 @@ m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
 m_TransitionAltitude:8000
 m_AllowConcernedACTagDown:1
-m_CenterlineDme:3.0
-m_CenterlineLength:17.0
-m_CenterlineTickDme:4.0
+m_CenterlineDme:1.0
+m_CenterlineLength:19.0
+m_CenterlineTickDme:2.0
 m_CenterlineTickInterval:1.0
 m_CenterlineTickLength:0.5
 m_CenterlineMarkerLength:1.0
@@ -84,13 +84,13 @@ m_MessageWarningLevel:2
 m_MessageErrorLevel:2
 m_PointOutLevel:4
 m_HandoffRequestLevel:0
-m_CoordinationRequestLevel:3
+m_CoordinationRequestLevel:2
 m_HandoffAcceptLevel:0
 m_HandoffRefuseLevel:2
 m_CoordinationAcceptLevel:0
-m_CoordinationRefuseLevel:2
+m_CoordinationRefuseLevel:0
 m_ServerMessageLevel:2
-m_AtcMessageLevel:2
+m_AtcMessageLevel:4
 m_BroadcastMessageLevel:2
 m_SupMessageLevel:4
 m_AtisMessageLevel:0
@@ -163,7 +163,7 @@ m_ShowDeparturePlanes:1
 m_ShowOverflightPlanes:1
 SET_ShowTrackingPlanes:1
 m_METARList:1
-m_ShowTitleMetar:0
+m_ShowTitleMetar:1
 m_ConnectSELtoSIL:1
 m_ConnectDEPtoSEL:1
 m_ConnectSILtoTOP:0
@@ -178,7 +178,7 @@ m_MetarListY:43
 m_VoiceListX:1457
 m_VoiceListY:24
 m_ControllerListX:2162
-m_ControllerListY:340
+m_ControllerListY:344
 m_ShowPlaneRangeRingsTracked:0
 m_ShowPlaneRangeRingsUntracked:0
 m_PlaneRangeRingsDistance1:1.5
@@ -222,7 +222,7 @@ END
 SEL
 m_Visible:1
 m_X:1413
-m_Y:81
+m_Y:158
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -249,7 +249,7 @@ END
 DEP
 m_Visible:1
 m_X:1413
-m_Y:115
+m_Y:192
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -258,7 +258,7 @@ m_Column:ADEP:4:1:61:0:7:1::::3:0.0
 m_Column:R:2:1:63:7:7:1::::6:0.0
 m_Column:C/S:7:0:9:8:1:1::::4:0.0
 m_Column:RT:2:1:11:32:0:1::::6:0.0
-m_Column:ATYP:6:1:78:0:7:1::::3:0.0
+m_Column:ATYP:6:1:78:1001:7:1::TopSky plugin::3:0.0
 m_Column:EOBT:5:1:1:120:0:1:CDM Plugin:CDM Plugin::0:0.0
 m_Column:ADES:4:1:17:7:7:1::::3:0.0
 m_Column:RWY:4:1:47:19:19:1::::8:0.0
@@ -288,9 +288,8 @@ m_Column:ATYP:6:1:78:0:0:1::::3:0.0
 m_Column:R:2:1:63:7:7:1::::6:0.0
 m_Column:ADEP:4:1:61:0:0:1::::3:0.0
 m_Column:ADES:5:1:17:0:0:0::::3:0.0
-m_Column:TXT:6:1:19:29:29:0::::3:0.0
 m_Column:STD:4:1:2:1:0:1:Ground Radar plugin:Ground Radar plugin::3:0.0
-m_Column:SSR:4:1:2:0:0:0::::0:0.0
+m_Column:FREETEXT:10:0:19:29:29:0::::0:0.0
 END
 FP
 m_Visible:0
@@ -300,13 +299,13 @@ m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:1
 m_HeaderOnly:0
-m_Column:C/S:7:0:9:8:1:1::::4:0.0
-m_Column:ATYP:7:1:78:7:7:1::::3:0.0
+m_Column:C/S:7:0:9:6:1:1::TopSky plugin::0:0.0
+m_Column:R:1:1:63:0:0:1::::3:0.0
+m_Column:ATYP:7:1:78:1001:7:1::TopSky plugin::3:0.0
+m_Column:ASSR:4:1:60:871:869:1::CCAMS:CCAMS:0:0.0
 m_Column:ADEP:4:1:61:0:0:1::::3:0.0
 m_Column:ADES:4:1:17:0:0:1::::3:0.0
-m_Column:RWY:3:1:47:19:19:1::::8:0.0
-m_Column:SID:7:0:56:17:17:1::::8:0.0
-m_Column:ASSR:4:1:60:871:869:1::CCAMS:CCAMS:0:0.0
+m_Column:FREETEXT:10:1:19:29:29:1::::0:0.0
 END
 CONFLICT
 m_Visible:0
@@ -555,5 +554,5 @@ TopSky plugin:ACList/Uncontrolled List 2/m_OrderingColumn:1
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_1: CFL:5:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
 CCAMS:ACList/Mode S EHS/m_Column_4:ALT:4:1:4:0:0:1:::
-CCAMS:ACList/Mode S EHS/m_Column_5:C/S:7:0:505:0:0:0:CCAMS::
+CCAMS:ACList/Mode S EHS/m_Column_5:FREETEXT:10:0:19:29:29:0:::
 END

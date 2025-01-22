@@ -167,11 +167,10 @@ Runways:EDDB 06L-24R:centerline
 Runways:EDDB 06L-24R:name
 Runways:EDDB 06R-24L:centerline
 Runways:EDDB 06R-24L:name
-Runways:EPBC 10L-28R:centerline
-Runways:EPBC 10R-28L:centerline
-Runways:EPBY 08-26:centerline
+Runways:EPBC 10L-28R:name
+Runways:EPBC 10R-28L:name
 Runways:EPBY 08-26:name
-Runways:EPGD 11-29:centerline
+Runways:EPDE 12-30:name
 Runways:EPGD 11-29:extended centerline 1
 Runways:EPGD 11-29:extended centerline 1 left base
 Runways:EPGD 11-29:extended centerline 1 left ticks
@@ -187,7 +186,6 @@ Runways:EPGD 11-29:extended centerline 2 right base
 Runways:EPGD 11-29:extended centerline 2 right ticks
 Runways:EPGD 11-29:extended centerline 2 right vectoring
 Runways:EPGD 11-29:name
-Runways:EPKK 07-25:centerline
 Runways:EPKK 07-25:extended centerline 1
 Runways:EPKK 07-25:extended centerline 1 left base
 Runways:EPKK 07-25:extended centerline 1 left ticks
@@ -203,7 +201,6 @@ Runways:EPKK 07-25:extended centerline 2 right base
 Runways:EPKK 07-25:extended centerline 2 right ticks
 Runways:EPKK 07-25:extended centerline 2 right vectoring
 Runways:EPKK 07-25:name
-Runways:EPKT 08-26:centerline
 Runways:EPKT 08-26:extended centerline 1
 Runways:EPKT 08-26:extended centerline 1 left base
 Runways:EPKT 08-26:extended centerline 1 left ticks
@@ -219,11 +216,8 @@ Runways:EPKT 08-26:extended centerline 2 right base
 Runways:EPKT 08-26:extended centerline 2 right ticks
 Runways:EPKT 08-26:extended centerline 2 right vectoring
 Runways:EPKT 08-26:name
-Runways:EPLB 07-25:centerline
 Runways:EPLB 07-25:name
-Runways:EPLL 07-25:centerline
 Runways:EPLL 07-25:name
-Runways:EPMO 08-26:centerline
 Runways:EPMO 08-26:extended centerline 1
 Runways:EPMO 08-26:extended centerline 1 left base
 Runways:EPMO 08-26:extended centerline 1 left ticks
@@ -239,7 +233,6 @@ Runways:EPMO 08-26:extended centerline 2 right base
 Runways:EPMO 08-26:extended centerline 2 right ticks
 Runways:EPMO 08-26:extended centerline 2 right vectoring
 Runways:EPMO 08-26:name
-Runways:EPPO 10-28:centerline
 Runways:EPPO 10-28:extended centerline 1
 Runways:EPPO 10-28:extended centerline 1 left base
 Runways:EPPO 10-28:extended centerline 1 left ticks
@@ -255,15 +248,10 @@ Runways:EPPO 10-28:extended centerline 2 right base
 Runways:EPPO 10-28:extended centerline 2 right ticks
 Runways:EPPO 10-28:extended centerline 2 right vectoring
 Runways:EPPO 10-28:name
-Runways:EPRA 07-25:centerline
 Runways:EPRA 07-25:name
-Runways:EPRZ 09-27:centerline
 Runways:EPRZ 09-27:name
-Runways:EPSC 13-31:centerline
 Runways:EPSC 13-31:name
-Runways:EPSY 01-19:centerline
 Runways:EPSY 01-19:name
-Runways:EPWA 11-29:centerline
 Runways:EPWA 11-29:extended centerline 1
 Runways:EPWA 11-29:extended centerline 1 left base
 Runways:EPWA 11-29:extended centerline 1 left ticks
@@ -279,7 +267,6 @@ Runways:EPWA 11-29:extended centerline 2 right base
 Runways:EPWA 11-29:extended centerline 2 right ticks
 Runways:EPWA 11-29:extended centerline 2 right vectoring
 Runways:EPWA 11-29:name
-Runways:EPWA 15-33:centerline
 Runways:EPWA 15-33:extended centerline 1
 Runways:EPWA 15-33:extended centerline 1 left base
 Runways:EPWA 15-33:extended centerline 1 left ticks
@@ -295,7 +282,6 @@ Runways:EPWA 15-33:extended centerline 2 right base
 Runways:EPWA 15-33:extended centerline 2 right ticks
 Runways:EPWA 15-33:extended centerline 2 right vectoring
 Runways:EPWA 15-33:name
-Runways:EPWR 11-29:centerline
 Runways:EPWR 11-29:extended centerline 1
 Runways:EPWR 11-29:extended centerline 1 left base
 Runways:EPWR 11-29:extended centerline 1 left ticks
@@ -311,7 +297,6 @@ Runways:EPWR 11-29:extended centerline 2 right base
 Runways:EPWR 11-29:extended centerline 2 right ticks
 Runways:EPWR 11-29:extended centerline 2 right vectoring
 Runways:EPWR 11-29:name
-Runways:EPZG 06-24:centerline
 Runways:EPZG 06-24:name
 SHOWC:1
 SHOWSB:1
@@ -326,7 +311,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:50.148803:18.201292:50.804163:19.992007
+WINDOWAREA:49.297995:14.395125:54.631328:28.968002
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
