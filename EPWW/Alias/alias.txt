@@ -111,7 +111,7 @@
 ..rceobt Zezwolenie zapisane poprawnie. Jaki jest wasz przewidywany EOBT?
 
 ;*** DELIVERY ***
-.ifr You are cleared for flight to $arr via flight planned route, $sid departure runway $deprwy, climb initially 6000 ft, squawk $asquawk.
+.ifr You are cleared for flight to $arr via flight planned route, $sid departure runway $deprwy, climb initially $temp, squawk $asquawk.
 ..ifr Masz zezwolenie na lot do $arr trasa zaplanowana dla lotu, odlot $sid z pasa $deprwy, kod transpondera $asquawk.
 .vfr You are cleared for VFR flight in $1 CTR, not higher than altitude $2 ft, departure runway $deprwy, squawk $asquawk.
 ..vfr Zezwalam na lot VFR w CTR $1, nie wyzej niz $2 ft, odlot z pasa $deprwy, transponder $asquawk.
@@ -217,6 +217,6 @@
 ..repfin Zglos prosta.
 
 ;*** WALLOP ***
-.noresp .wallop Hello, I'm getting any response from $1, could you please check him?
-.nocont .wallop Hello, I tried calling $1 several times and still don't have any contact with him, could you please check him?
-.nolist .wallop Hello, $1 is not listening to any of my instructions, could you please check him?
+.noresp .wallop Hello, I'm getting any response from $aircraft, could you please check him?
+.nocont .wallop Hello, I tried calling $aircraft several times and still don't have any contact with him, could you please check him?
+.nolist .wallop Hello, $aircraft is not listening to any of my instructions, could you please check him?

@@ -27,6 +27,40 @@ ARTCC high boundary:FIR border 0 - UKLV-E:
 ARTCC high boundary:FIR border 0 - UKLV-W:
 ARTCC high boundary:FIR border 0 - UMMV:
 ARTCC high boundary:FIR border EPWW:
+Airports:EDDB:name
+Airports:EDDB:symbol
+Airports:EPBY:name
+Airports:EPBY:symbol
+Airports:EPDE:name
+Airports:EPDE:symbol
+Airports:EPGD:name
+Airports:EPGD:symbol
+Airports:EPKK:name
+Airports:EPKK:symbol
+Airports:EPKT:name
+Airports:EPKT:symbol
+Airports:EPLB:name
+Airports:EPLB:symbol
+Airports:EPLL:name
+Airports:EPLL:symbol
+Airports:EPMO:name
+Airports:EPMO:symbol
+Airports:EPPO:name
+Airports:EPPO:symbol
+Airports:EPRA:name
+Airports:EPRA:symbol
+Airports:EPRZ:name
+Airports:EPRZ:symbol
+Airports:EPSC:name
+Airports:EPSC:symbol
+Airports:EPSY:name
+Airports:EPSY:symbol
+Airports:EPWA:name
+Airports:EPWA:symbol
+Airports:EPWR:name
+Airports:EPWR:symbol
+Airports:EPZG:name
+Airports:EPZG:symbol
 Geo:EPWW Coastlines:
 SHOWC:1
 SHOWSB:0
@@ -35,13 +69,13 @@ ABOVE:0
 LEADER:-2
 SHOWLEADER:1
 TURNLEADER:0
-HISTORY_DOTS:5
+HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:48.183639:9.593458:56.516973:32.363581
+WINDOWAREA:47.883091:10.514873:56.216425:33.284996
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

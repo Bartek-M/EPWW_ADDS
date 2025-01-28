@@ -40,7 +40,7 @@ m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:https://atis.plvacc.pl/atis.php?metar=$metar($atisairport)&arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&info=$atiscode&app=ILS&token=4ydcXHGTH1
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
-SET_TransparentAcListBackground:1
+SET_TransparentAcListBackground:0
 m_PutIncomingCoordinationToFirst:1
 m_AutoProxyMode:0
 m_TransparentAcListSelectedBackground:0
@@ -155,7 +155,7 @@ m_ShowTWRControllers:1
 m_ShowGNDControllers:1
 m_ShowATISControllers:0
 m_ShowOBSControllers:1
-m_ShowUnidentifiedControllers:1
+m_ShowUnidentifiedControllers:0
 m_ShowFreqUsers:1
 m_ShowAtisUsers:1
 m_ShowArrivalPlanes:1
@@ -173,12 +173,12 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
 m_PlanesListX:0
 m_PlanesListY:970
-m_MetarListX:2105
-m_MetarListY:43
+m_MetarListX:2100
+m_MetarListY:41
 m_VoiceListX:1457
 m_VoiceListY:24
 m_ControllerListX:2162
-m_ControllerListY:344
+m_ControllerListY:325
 m_ShowPlaneRangeRingsTracked:0
 m_ShowPlaneRangeRingsUntracked:0
 m_PlaneRangeRingsDistance1:1.5
@@ -259,7 +259,7 @@ m_Column:R:2:1:63:7:7:1::::6:0.0
 m_Column:C/S:7:0:9:8:1:1::::4:0.0
 m_Column:RT:2:1:11:32:0:1::::6:0.0
 m_Column:ATYP:6:1:78:1001:7:1::TopSky plugin::3:0.0
-m_Column:EOBT:5:1:1:120:0:1:CDM Plugin:CDM Plugin::0:0.0
+m_Column:EOBT:5:1:97:120:0:1::CDM Plugin::0:0.0
 m_Column:ADES:4:1:17:7:7:1::::3:0.0
 m_Column:RWY:4:1:47:19:19:1::::8:0.0
 m_Column:SID:7:0:56:17:17:1::::8:0.0

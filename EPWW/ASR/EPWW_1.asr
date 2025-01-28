@@ -28,7 +28,50 @@ ARTCC high boundary:FIR border 0 - UKLV-E:
 ARTCC high boundary:FIR border 0 - UKLV-W:
 ARTCC high boundary:FIR border 0 - UMMV:
 ARTCC high boundary:FIR border EPWW:
+ARTCC low boundary:MRVA EPGD:
+ARTCC low boundary:MRVA EPKK:
+ARTCC low boundary:MRVA EPPO NORTH:
+ARTCC low boundary:MRVA EPPO SOUTH:
+ARTCC low boundary:MRVA EPWA:
 ARTCC low boundary:Tower CTR EPWW ALL:
+Airports:EDDB:name
+Airports:EDDB:symbol
+Airports:EPBC:name
+Airports:EPBC:symbol
+Airports:EPBY:name
+Airports:EPBY:symbol
+Airports:EPDE:name
+Airports:EPDE:symbol
+Airports:EPGD:name
+Airports:EPGD:symbol
+Airports:EPKK:name
+Airports:EPKK:symbol
+Airports:EPKS:name
+Airports:EPKS:symbol
+Airports:EPKT:name
+Airports:EPKT:symbol
+Airports:EPLB:name
+Airports:EPLB:symbol
+Airports:EPLL:name
+Airports:EPLL:symbol
+Airports:EPMO:name
+Airports:EPMO:symbol
+Airports:EPPO:name
+Airports:EPPO:symbol
+Airports:EPRA:name
+Airports:EPRA:symbol
+Airports:EPRZ:name
+Airports:EPRZ:symbol
+Airports:EPSC:name
+Airports:EPSC:symbol
+Airports:EPSY:name
+Airports:EPSY:symbol
+Airports:EPWA:name
+Airports:EPWA:symbol
+Airports:EPWR:name
+Airports:EPWR:symbol
+Airports:EPZG:name
+Airports:EPZG:symbol
 Geo:EPWW Coastlines:
 Runways:EDDB 06L-24R:centerline
 Runways:EDDB 06L-24R:extended centerline 1
@@ -212,7 +255,7 @@ Runways:EPWR 11-29:extended centerline 2 right vectoring
 Runways:EPWR 11-29:name
 Runways:EPZG 06-24:centerline
 Runways:EPZG 06-24:name
-Stars:EPWA STAR 33:
+Stars:EPWA STAR 11:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -226,7 +269,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:47.992500:10.614133:56.325834:33.384255
+WINDOWAREA:47.761306:10.466212:56.094640:33.236336
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
