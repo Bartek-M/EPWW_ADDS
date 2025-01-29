@@ -255,7 +255,7 @@ Runways:EPWR 11-29:extended centerline 2 right vectoring
 Runways:EPWR 11-29:name
 Runways:EPZG 06-24:centerline
 Runways:EPZG 06-24:name
-Stars:EPWA STAR 11:
+Stars:EPWA STAR 33:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -269,7 +269,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:47.761306:10.466212:56.094640:33.236336
+WINDOWAREA:49.800897:19.036483:50.373560:20.601233
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

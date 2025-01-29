@@ -53,7 +53,7 @@ m_ShowRAMWarning:1
 m_MagneticNorthUp:1
 m_ShowAForAltitudes:1
 m_Show500ForNonVisual:0
-SET_SetActiveAptBySectors:1
+SET_SetActiveAptBySectors:0
 SET_CapitalizeFPAndScratch:1
 m_SET_WTC_Light:L
 SET_WTC_Medium:M
@@ -114,7 +114,7 @@ m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
 m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
 m_DontAutoCorrelateDuplicated:1
-m_AcceptPilotSquawkForCorrelation:1
+m_AcceptPilotSquawkForCorrelation:0
 m_MTCA_Floor:0
 m_MTCA_AltitudeDifference:1000
 m_MTCA_Distance:6.0
@@ -173,8 +173,8 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
 m_PlanesListX:0
 m_PlanesListY:970
-m_MetarListX:2100
-m_MetarListY:41
+m_MetarListX:2105
+m_MetarListY:46
 m_VoiceListX:1457
 m_VoiceListY:24
 m_ControllerListX:2162
