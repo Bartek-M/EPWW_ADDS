@@ -272,7 +272,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:298.00000
 TAGFAMILY:Blank
-WINDOWAREA:52.137187:20.908617:52.185253:21.039952
+WINDOWAREA:52.144916:20.929204:52.175678:21.013259
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
@@ -284,7 +284,7 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:150:150:150
+PLUGIN:RDF Plugin for Euroscope:RGB:9:183:100
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Radar
 PLUGIN:vSMR:Afterglow:1

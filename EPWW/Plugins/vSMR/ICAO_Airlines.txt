@@ -12,7 +12,7 @@
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;                                                                                                                         ;
-;  ALL RIGHTS RESERVED © AeroNav Association. NAV-DATA © AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
+;  ALL RIGHTS RESERVED   AeroNav Association. NAV-DATA   AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;  The Global Nav Generator (GNG) and all it sub-modules where created by the AeroNav Association.                        ;
@@ -526,7 +526,7 @@ AYR	FLIGHT TRAINING EUROPE S.L.	CYGNET	SPAIN
 AYT	AYIT AVIATION & TOURISM	AYIT	ISRAEL
 AYV	AIRWAYS SERVICES & SUPPORT AS&S, C.A.	CARGWAY	VENEZUELA
 AYY	AIR ALLIANCE EXPRESS AG & CO. KG, BURBACH	LUPUS	GERMANY
-AZA	ALITALIA SOCIETÀ AEREA ITALIANA S.P.A.	ALITALIA	ITALY
+AZA	ALITALIA SOCIET  AEREA ITALIANA S.P.A.	ALITALIA	ITALY
 AZB	ZAMBIA AIRWAYS (2014) LIMITED	AIR ZAMBIA	ZAMBIA
 AZD	ZIMEX AVIATION AUSTRIA	MAILMAN	AUSTRIA
 AZE	ARCUS AIR GMBH & CO. KG, ZWEIBRUECKEN	ARCUS AIR	GERMANY
@@ -5632,7 +5632,7 @@ SXM	ST.MAARTEN AIRWAYS	SAINT MAARTEN	NETHERLANDS
 SXN	SAXON AIR	SAXONAIR	UNITED KINGDOM
 SXP	SOUTH PACIFIC EXPRESS HOLDINGS LIMITED	SOUTHPAC EXPRESS	SAMOA
 SXR	SKY EXPRESS	SKYSTORM	RUSSIAN FEDERATION
-SXS	SUNEXPRESS (GüNE? EKSPRES HAVAC?L?K A.?.)	SUNEXPRESS	TURKEY
+SXS	SUNEXPRESS (G NE? EKSPRES HAVAC?L?K A.?.)	SUNEXPRESS	TURKEY
 SXT	SERVICIOS DE TAXI AEREOS, S.A. DE.C.V.	SERTAXI	MEXICO
 SXY	SAFARI EXPRESS CARGO LIMITED	SAFARI EXPRESS	KENYA
 SXZ	GREAT CIRCLE AVIATION, LLC (SAN MARCOS, CA)	SOCALAIR	UNITED STATES

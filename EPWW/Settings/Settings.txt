@@ -5,7 +5,7 @@ m_ShowRouteFixName:1
 m_ShowRouteETA:1
 m_ShowCalculatedHeading:1
 m_ShowSimulatedData:0
-m_TransitionAltitude:8000
+m_TransitionAltitude:6500
 m_AllowConcernedACTagDown:1
 m_CenterlineDme:1.0
 m_CenterlineLength:19.0
@@ -53,7 +53,7 @@ m_ShowRAMWarning:1
 m_MagneticNorthUp:1
 m_ShowAForAltitudes:1
 m_Show500ForNonVisual:0
-SET_SetActiveAptBySectors:0
+SET_SetActiveAptBySectors:1
 SET_CapitalizeFPAndScratch:1
 m_SET_WTC_Light:L
 SET_WTC_Medium:M
@@ -168,7 +168,7 @@ m_ConnectSELtoSIL:1
 m_ConnectDEPtoSEL:1
 m_ConnectSILtoTOP:0
 m_ScreenNumber:0
-m_ScreenPosition:9
+m_ScreenPosition:0
 m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
 m_PlanesListX:0
@@ -178,7 +178,7 @@ m_MetarListY:46
 m_VoiceListX:1457
 m_VoiceListY:24
 m_ControllerListX:2162
-m_ControllerListY:325
+m_ControllerListY:360
 m_ShowPlaneRangeRingsTracked:0
 m_ShowPlaneRangeRingsUntracked:0
 m_PlaneRangeRingsDistance1:1.5
@@ -222,7 +222,7 @@ END
 SEL
 m_Visible:1
 m_X:1413
-m_Y:169
+m_Y:81
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -249,10 +249,10 @@ END
 DEP
 m_Visible:1
 m_X:1413
-m_Y:203
+m_Y:115
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:1
+m_OrderingColumn:3
 m_HeaderOnly:0
 m_Column:ADEP:4:1:61:0:7:1::::3:0.0
 m_Column:R:2:1:63:7:7:1::::6:0.0

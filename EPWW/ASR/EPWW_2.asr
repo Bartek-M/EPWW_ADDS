@@ -66,26 +66,26 @@ SHOWC:1
 SHOWSB:0
 BELOW:2000
 ABOVE:0
-LEADER:-2
+LEADER:-1
 SHOWLEADER:1
 TURNLEADER:0
-HISTORY_DOTS:0
+HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:48.724022:12.816700:55.390690:31.032799
+WINDOWAREA:48.022892:11.040949:56.356225:33.811070
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
 PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
 PLUGIN:EuroScope History Trails:HistoryTrailDotSize:5
-PLUGIN:EuroScope History Trails:HistoryTrailFade:0
-PLUGIN:EuroScope History Trails:HistoryTrailLength:10
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
 PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:2000
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:150:150:150
-PLUGIN:TopSky plugin:HideMapData:TMA,MVA,APP,HOLD,VFR,BrdFIX
+PLUGIN:RDF Plugin for Euroscope:RGB:9:183:100
+PLUGIN:TopSky plugin:HideMapData:MVA,APP,BORDER,VFR,TMA,HOLD,PROC

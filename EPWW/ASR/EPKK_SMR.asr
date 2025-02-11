@@ -27,24 +27,24 @@ Free Text:EPKK / EPKT VFR Points\X:freetext
 Free Text:EPKK / EPKT VFR Points\Z:freetext
 Free Text:EPKK LADOWISKA\Bochnia H295:freetext
 Free Text:EPKK LADOWISKA\Brzesko H296:freetext
-Free Text:EPKK LADOWISKA\Chrzanów H253:freetext
+Free Text:EPKK LADOWISKA\Chrzanï¿½w H253:freetext
 Free Text:EPKK LADOWISKA\D?browa Tarnowska H299:freetext
 Free Text:EPKK LADOWISKA\Gorlice H300:freetext
-Free Text:EPKK LADOWISKA\Kraków ?eromskiego H265:freetext
-Free Text:EPKK LADOWISKA\Kraków CUMRiK-Jakubowskiego H324:freetext
-Free Text:EPKK LADOWISKA\Kraków Jana Paw?a II H326:freetext
-Free Text:EPKK LADOWISKA\Kraków Narutowicza H321:freetext
-Free Text:EPKK LADOWISKA\Kraków Prokocim Dzieci?cy USD H329:freetext
-Free Text:EPKK LADOWISKA\Kraków Rydygiera H264:freetext
+Free Text:EPKK LADOWISKA\Krakï¿½w ?eromskiego H265:freetext
+Free Text:EPKK LADOWISKA\Krakï¿½w CUMRiK-Jakubowskiego H324:freetext
+Free Text:EPKK LADOWISKA\Krakï¿½w Jana Paw?a II H326:freetext
+Free Text:EPKK LADOWISKA\Krakï¿½w Narutowicza H321:freetext
+Free Text:EPKK LADOWISKA\Krakï¿½w Prokocim Dzieci?cy USD H329:freetext
+Free Text:EPKK LADOWISKA\Krakï¿½w Rydygiera H264:freetext
 Free Text:EPKK LADOWISKA\Limanowa H268:freetext
-Free Text:EPKK LADOWISKA\Miechów H269:freetext
+Free Text:EPKK LADOWISKA\Miechï¿½w H269:freetext
 Free Text:EPKK LADOWISKA\My?lenice H270:freetext
 Free Text:EPKK LADOWISKA\Nowy S?cz H271:freetext
 Free Text:EPKK LADOWISKA\Nowy Targ H272:freetext
 Free Text:EPKK LADOWISKA\O?wi?cim H276:freetext
 Free Text:EPKK LADOWISKA\Olkusz H273:freetext
 Free Text:EPKK LADOWISKA\Sucha Beskidzka H289:freetext
-Free Text:EPKK LADOWISKA\Tarnów H290:freetext
+Free Text:EPKK LADOWISKA\Tarnï¿½w H290:freetext
 Free Text:EPKK LADOWISKA\Wadowice H308:freetext
 Free Text:EPKK LADOWISKA\Zakopane H293:freetext
 Free Text:EPKK STAND + TWY [2024]\1:freetext
@@ -165,7 +165,7 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:150:150:150
+PLUGIN:RDF Plugin for Euroscope:RGB:9:183:100
 PLUGIN:TopSky plugin:NoDraw:1
 PLUGIN:vSMR:ActiveProfile:Default
 PLUGIN:vSMR:Afterglow:1

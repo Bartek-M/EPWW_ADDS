@@ -1,8 +1,4 @@
 PROFILE
-PROFILE:BM_OBS:200:0
-ATIS2:
-ATIS3:
-ATIS4:
 PROFILE:EPWW_CTR:200:6
 ATIS2:Warszawa Radar (ALLFIR sector) | CPDLC ^FL95 logon EPWW
 ATIS3:Transition Altitude 6500ft | Transition Level 80

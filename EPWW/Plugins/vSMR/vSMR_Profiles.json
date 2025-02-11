@@ -463,7 +463,7 @@
         "filters": {
             "hide_above_alt": 10000,
             "hide_above_spd": 400,
-            "radar_range_nm": 250,
+            "radar_range_nm": 240,
             "night_alpha_setting": 110,
             "pro_mode": false
         },

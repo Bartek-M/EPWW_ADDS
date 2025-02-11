@@ -21,209 +21,125 @@ ARTCC low boundary:Tower CTR EPWW ALL:
 Airports:EDDB:name
 Airports:EDDB:symbol
 Airports:EPAR:name
-Airports:EPAR:symbol
 Airports:EPBA:name
-Airports:EPBA:symbol
 Airports:EPBC:name
 Airports:EPBC:symbol
 Airports:EPBK:name
-Airports:EPBK:symbol
 Airports:EPBO:name
-Airports:EPBO:symbol
 Airports:EPBY:name
 Airports:EPBY:symbol
 Airports:EPCD:name
-Airports:EPCD:symbol
 Airports:EPCE:name
-Airports:EPCE:symbol
 Airports:EPDA:name
-Airports:EPDA:symbol
 Airports:EPDE:name
 Airports:EPDE:symbol
 Airports:EPEL:name
-Airports:EPEL:symbol
 Airports:EPGD:name
 Airports:EPGD:symbol
 Airports:EPGE:name
-Airports:EPGE:symbol
 Airports:EPGI:name
-Airports:EPGI:symbol
 Airports:EPGL:name
-Airports:EPGL:symbol
 Airports:EPGY:name
-Airports:EPGY:symbol
 Airports:EPIN:name
-Airports:EPIN:symbol
 Airports:EPIR:name
-Airports:EPIR:symbol
 Airports:EPIW:name
-Airports:EPIW:symbol
 Airports:EPJA:name
-Airports:EPJA:symbol
 Airports:EPJG:name
-Airports:EPJG:symbol
 Airports:EPJS:name
-Airports:EPJS:symbol
 Airports:EPKA:name
-Airports:EPKA:symbol
 Airports:EPKC:name
-Airports:EPKC:symbol
 Airports:EPKE:name
-Airports:EPKE:symbol
 Airports:EPKG:name
-Airports:EPKG:symbol
 Airports:EPKI:name
-Airports:EPKI:symbol
 Airports:EPKK:name
 Airports:EPKK:symbol
 Airports:EPKM:name
-Airports:EPKM:symbol
 Airports:EPKN:name
-Airports:EPKN:symbol
 Airports:EPKO:name
-Airports:EPKO:symbol
 Airports:EPKP:name
-Airports:EPKP:symbol
 Airports:EPKR:name
-Airports:EPKR:symbol
 Airports:EPKS:name
 Airports:EPKS:symbol
 Airports:EPKT:name
 Airports:EPKT:symbol
 Airports:EPKW:name
-Airports:EPKW:symbol
 Airports:EPKX:name
-Airports:EPKX:symbol
 Airports:EPLB:name
 Airports:EPLB:symbol
 Airports:EPLI:name
-Airports:EPLI:symbol
 Airports:EPLK:name
-Airports:EPLK:symbol
 Airports:EPLL:name
 Airports:EPLL:symbol
 Airports:EPLR:name
-Airports:EPLR:symbol
 Airports:EPLS:name
-Airports:EPLS:symbol
 Airports:EPLU:name
-Airports:EPLU:symbol
 Airports:EPLY:name
-Airports:EPLY:symbol
 Airports:EPMB:name
-Airports:EPMB:symbol
 Airports:EPMI:name
-Airports:EPMI:symbol
 Airports:EPML:name
-Airports:EPML:symbol
 Airports:EPMM:name
-Airports:EPMM:symbol
 Airports:EPMO:name
 Airports:EPMO:symbol
 Airports:EPMR:name
-Airports:EPMR:symbol
 Airports:EPMX:name
-Airports:EPMX:symbol
 Airports:EPNC:name
-Airports:EPNC:symbol
 Airports:EPNL:name
-Airports:EPNL:symbol
 Airports:EPNM:name
-Airports:EPNM:symbol
 Airports:EPNT:name
-Airports:EPNT:symbol
 Airports:EPOD:name
-Airports:EPOD:symbol
 Airports:EPOK:name
-Airports:EPOK:symbol
 Airports:EPOM:name
-Airports:EPOM:symbol
 Airports:EPOP:name
-Airports:EPOP:symbol
 Airports:EPPB:name
-Airports:EPPB:symbol
 Airports:EPPG:name
-Airports:EPPG:symbol
 Airports:EPPI:name
-Airports:EPPI:symbol
 Airports:EPPK:name
-Airports:EPPK:symbol
 Airports:EPPL:name
-Airports:EPPL:symbol
 Airports:EPPO:name
 Airports:EPPO:symbol
 Airports:EPPR:name
-Airports:EPPR:symbol
 Airports:EPPT:name
-Airports:EPPT:symbol
 Airports:EPPW:name
-Airports:EPPW:symbol
 Airports:EPPZ:name
-Airports:EPPZ:symbol
 Airports:EPRA:name
 Airports:EPRA:symbol
 Airports:EPRD:name
-Airports:EPRD:symbol
 Airports:EPRG:name
-Airports:EPRG:symbol
 Airports:EPRJ:name
-Airports:EPRJ:symbol
 Airports:EPRP:name
-Airports:EPRP:symbol
 Airports:EPRU:name
-Airports:EPRU:symbol
 Airports:EPRZ:name
 Airports:EPRZ:symbol
 Airports:EPSC:name
 Airports:EPSC:symbol
 Airports:EPSD:name
-Airports:EPSD:symbol
 Airports:EPSI:name
-Airports:EPSI:symbol
 Airports:EPSJ:name
-Airports:EPSJ:symbol
 Airports:EPSK:name
-Airports:EPSK:symbol
 Airports:EPSL:name
-Airports:EPSL:symbol
 Airports:EPSN:name
-Airports:EPSN:symbol
 Airports:EPSO:name
-Airports:EPSO:symbol
 Airports:EPSS:name
-Airports:EPSS:symbol
 Airports:EPST:name
-Airports:EPST:symbol
 Airports:EPSU:name
-Airports:EPSU:symbol
 Airports:EPSW:name
-Airports:EPSW:symbol
 Airports:EPSY:name
 Airports:EPSY:symbol
 Airports:EPTM:name
-Airports:EPTM:symbol
 Airports:EPTO:name
-Airports:EPTO:symbol
 Airports:EPWA:name
 Airports:EPWA:symbol
 Airports:EPWK:name
-Airports:EPWK:symbol
 Airports:EPWR:name
 Airports:EPWR:symbol
 Airports:EPWS:name
-Airports:EPWS:symbol
 Airports:EPWT:name
-Airports:EPWT:symbol
 Airports:EPZA:name
-Airports:EPZA:symbol
 Airports:EPZE:name
-Airports:EPZE:symbol
 Airports:EPZG:name
 Airports:EPZG:symbol
 Airports:EPZP:name
-Airports:EPZP:symbol
 Airports:EPZR:name
-Airports:EPZR:symbol
 Free Text:EPBC STAND + TWY [2021]\A1:freetext
 Free Text:EPBC STAND + TWY [2021]\A2:freetext
 Free Text:EPBC STAND + TWY [2021]\B1:freetext
@@ -231,6 +147,19 @@ Free Text:EPBC STAND + TWY [2021]\B2:freetext
 Free Text:EPBC STAND + TWY [2021]\C:freetext
 Free Text:EPBC STAND + TWY [2021]\D1:freetext
 Free Text:EPBC STAND + TWY [2021]\D2:freetext
+Free Text:EPBY Ladowiska\?nin H029:freetext
+Free Text:EPBY Ladowiska\?wiecie H097:freetext
+Free Text:EPBY Ladowiska\Brodnica H108:freetext
+Free Text:EPBY Ladowiska\Bydgoszcz Biziela H001:freetext
+Free Text:EPBY Ladowiska\Bydgoszcz Jurasza H105:freetext
+Free Text:EPBY Ladowiska\Bydgoszcz Wojskowy H003:freetext
+Free Text:EPBY Ladowiska\Grudzi?dz H044:freetext
+Free Text:EPBY Ladowiska\Inowroc?aw H016:freetext
+Free Text:EPBY Ladowiska\Lipno H063:freetext
+Free Text:EPBY Ladowiska\Radziej�w H085:freetext
+Free Text:EPBY Ladowiska\Toru? H027:freetext
+Free Text:EPBY Ladowiska\Toru? Rydygiera H115:freetext
+Free Text:EPBY Ladowiska\W?oc?awek H606:freetext
 Free Text:EPBY STD + TWY [2022]\02:freetext
 Free Text:EPBY STD + TWY [2022]\1:freetext
 Free Text:EPBY STD + TWY [2022]\10:freetext
@@ -276,6 +205,24 @@ Free Text:EPBY STD + TWY [2022]\E1:freetext
 Free Text:EPBY STD + TWY [2022]\E2:freetext
 Free Text:EPBY STD + TWY [2022]\E3:freetext
 Free Text:EPBY STD + TWY [2022]\F:freetext
+Free Text:EPGD LADOWISKA\Chojnice H005:freetext
+Free Text:EPGD LADOWISKA\Gda?sk Kopernika H110:freetext
+Free Text:EPGD LADOWISKA\Gda?sk MW H011:freetext
+Free Text:EPGD LADOWISKA\Gda?sk UCK H010:freetext
+Free Text:EPGD LADOWISKA\Gda?sk Zaspa H012:freetext
+Free Text:EPGD LADOWISKA\Gdynia H116:freetext
+Free Text:EPGD LADOWISKA\Hel H015:freetext
+Free Text:EPGD LADOWISKA\Jurata-Mewa (KPRP) H114:freetext
+Free Text:EPGD LADOWISKA\Kartuzy H017:freetext
+Free Text:EPGD LADOWISKA\Ko?cierzyna H018:freetext
+Free Text:EPGD LADOWISKA\Kwidzyn H019:freetext
+Free Text:EPGD LADOWISKA\L?bork H060:freetext
+Free Text:EPGD LADOWISKA\Malbork - Ko?cieleczki H109:freetext
+Free Text:EPGD LADOWISKA\Miastko H111:freetext
+Free Text:EPGD LADOWISKA\S?upsk H107:freetext
+Free Text:EPGD LADOWISKA\Starogard Gda?ski H023:freetext
+Free Text:EPGD LADOWISKA\Sztum H095:freetext
+Free Text:EPGD LADOWISKA\Wejherowo H028:freetext
 Free Text:EPGD STAND + TWY [2021]\1:freetext
 Free Text:EPGD STAND + TWY [2021]\10:freetext
 Free Text:EPGD STAND + TWY [2021]\11:freetext
@@ -339,6 +286,28 @@ Free Text:EPGD STAND + TWY [2021]\M:freetext
 Free Text:EPGD STAND + TWY [2021]\N:freetext
 Free Text:EPGD STAND + TWY [2021]\R:freetext
 Free Text:EPGD STAND + TWY [2021]\W:freetext
+Free Text:EPKK LADOWISKA\Bochnia H295:freetext
+Free Text:EPKK LADOWISKA\Brzesko H296:freetext
+Free Text:EPKK LADOWISKA\Chrzan�w H253:freetext
+Free Text:EPKK LADOWISKA\D?browa Tarnowska H299:freetext
+Free Text:EPKK LADOWISKA\Gorlice H300:freetext
+Free Text:EPKK LADOWISKA\Krak�w ?eromskiego H265:freetext
+Free Text:EPKK LADOWISKA\Krak�w CUMRiK-Jakubowskiego H324:freetext
+Free Text:EPKK LADOWISKA\Krak�w Jana Paw?a II H326:freetext
+Free Text:EPKK LADOWISKA\Krak�w Narutowicza H321:freetext
+Free Text:EPKK LADOWISKA\Krak�w Prokocim Dzieci?cy USD H329:freetext
+Free Text:EPKK LADOWISKA\Krak�w Rydygiera H264:freetext
+Free Text:EPKK LADOWISKA\Limanowa H268:freetext
+Free Text:EPKK LADOWISKA\Miech�w H269:freetext
+Free Text:EPKK LADOWISKA\My?lenice H270:freetext
+Free Text:EPKK LADOWISKA\Nowy S?cz H271:freetext
+Free Text:EPKK LADOWISKA\Nowy Targ H272:freetext
+Free Text:EPKK LADOWISKA\O?wi?cim H276:freetext
+Free Text:EPKK LADOWISKA\Olkusz H273:freetext
+Free Text:EPKK LADOWISKA\Sucha Beskidzka H289:freetext
+Free Text:EPKK LADOWISKA\Tarn�w H290:freetext
+Free Text:EPKK LADOWISKA\Wadowice H308:freetext
+Free Text:EPKK LADOWISKA\Zakopane H293:freetext
 Free Text:EPKK STAND + TWY [2024]\1:freetext
 Free Text:EPKK STAND + TWY [2024]\10:freetext
 Free Text:EPKK STAND + TWY [2024]\11:freetext
@@ -403,6 +372,26 @@ Free Text:EPKK STAND + TWY [2024]\Z3:freetext
 Free Text:EPKK STAND + TWY [2024]\Z4:freetext
 Free Text:EPKK STAND + TWY [2024]\Z5:freetext
 Free Text:EPKK STAND + TWY [2024]\Z6:freetext
+Free Text:EPKT Ladowiska\?ywiec H311:freetext
+Free Text:EPKT Ladowiska\Bielsko Bia?a H251:freetext
+Free Text:EPKT Ladowiska\Chorz�w - szpital H332:freetext
+Free Text:EPKT Ladowiska\Cieszyn H338:freetext
+Free Text:EPKT Ladowiska\Cz?stochowa H298:freetext
+Free Text:EPKT Ladowiska\D?browa G�rnicza H319:freetext
+Free Text:EPKT Ladowiska\Jastrz?bie Zdr�j H255:freetext
+Free Text:EPKT Ladowiska\Jaworzno H327:freetext
+Free Text:EPKT Ladowiska\Katowice Ligota H257:freetext
+Free Text:EPKT Ladowiska\Katowice Ochojec H258:freetext
+Free Text:EPKT Ladowiska\Piekary ?l?skie H277:freetext
+Free Text:EPKT Ladowiska\Pszczyna H322:freetext
+Free Text:EPKT Ladowiska\Racib�rz H306:freetext
+Free Text:EPKT Ladowiska\Rybnik H307:freetext
+Free Text:EPKT Ladowiska\Siemianowice ?l?skie H284:freetext
+Free Text:EPKT Ladowiska\Sosnowiec H286:freetext
+Free Text:EPKT Ladowiska\Tarnowskie G�ry H337:freetext
+Free Text:EPKT Ladowiska\Wis?a (KPRP) H339:freetext
+Free Text:EPKT Ladowiska\Zabrze H310:freetext
+Free Text:EPKT Ladowiska\Zawiercie H294:freetext
 Free Text:EPKT STAND + TWY [2021]\1:freetext
 Free Text:EPKT STAND + TWY [2021]\10:freetext
 Free Text:EPKT STAND + TWY [2021]\11:freetext
@@ -476,6 +465,24 @@ Free Text:EPKT STAND + TWY [2021]\N:freetext
 Free Text:EPKT STAND + TWY [2021]\S:freetext
 Free Text:EPKT STAND + TWY [2021]\T:freetext
 Free Text:EPKT STAND + TWY [2021]\U:freetext
+Free Text:EPLB Ladowiska\??czna H597:freetext
+Free Text:EPLB Ladowiska\?uk�w H522:freetext
+Free Text:EPLB Ladowiska\Bia?a Podlaska H583:freetext
+Free Text:EPLB Ladowiska\Che?m H505:freetext
+Free Text:EPLB Ladowiska\Jan�w Lubelski H511:freetext
+Free Text:EPLB Ladowiska\Kra?nik H623:freetext
+Free Text:EPLB Ladowiska\Krasnystaw H513:freetext
+Free Text:EPLB Ladowiska\Lublin MSW H516:freetext
+Free Text:EPLB Ladowiska\Lublin Staszica H635:freetext
+Free Text:EPLB Ladowiska\Lublin USD (DSK) H515:freetext
+Free Text:EPLB Ladowiska\Lublin Wojew�dzki - Kra?nicka H517:freetext
+Free Text:EPLB Ladowiska\Lublin Wojskowy H629:freetext
+Free Text:EPLB Ladowiska\Parczew H613:freetext
+Free Text:EPLB Ladowiska\Radzy? Podlaski H537:freetext
+Free Text:EPLB Ladowiska\Ryki H538:freetext
+Free Text:EPLB Ladowiska\Tomasz�w Lubelski H544:freetext
+Free Text:EPLB Ladowiska\W?odawa H549:freetext
+Free Text:EPLB Ladowiska\Zamo?? H552:freetext
 Free Text:EPLB STAND + TWY\1:freetext
 Free Text:EPLB STAND + TWY\10:freetext
 Free Text:EPLB STAND + TWY\2:freetext
@@ -484,6 +491,27 @@ Free Text:EPLB STAND + TWY\5:freetext
 Free Text:EPLB STAND + TWY\7:freetext
 Free Text:EPLB STAND + TWY\9:freetext
 Free Text:EPLB STAND + TWY\A:freetext
+Free Text:EPLL Ladowiska\??czyca H598:freetext
+Free Text:EPLL Ladowiska\?owicz H519:freetext
+Free Text:EPLL Ladowiska\Belchatow H500:freetext
+Free Text:EPLL Ladowiska\Brzeziny H591:freetext
+Free Text:EPLL Ladowiska\Kutno H562:freetext
+Free Text:EPLL Ladowiska\Lodz ICZMP H520:freetext
+Free Text:EPLL Ladowiska\Lodz Kopernika H521:freetext
+Free Text:EPLL Ladowiska\Lodz USK-WAM H627:freetext
+Free Text:EPLL Ladowiska\Opoczno H615:freetext
+Free Text:EPLL Ladowiska\Pabianice H630:freetext
+Free Text:EPLL Ladowiska\Piotrkow Trybunalski H530:freetext
+Free Text:EPLL Ladowiska\Podd?bice H600:freetext
+Free Text:EPLL Ladowiska\Radomsko H607:freetext
+Free Text:EPLL Ladowiska\Rawa Mazowiecka H587:freetext
+Free Text:EPLL Ladowiska\Sieradz H574:freetext
+Free Text:EPLL Ladowiska\Skierniewice H575:freetext
+Free Text:EPLL Ladowiska\Tomaszow Mazowiecki H601:freetext
+Free Text:EPLL Ladowiska\Wielun - mleczarnia H602:freetext
+Free Text:EPLL Ladowiska\Wielun - szpital H625:freetext
+Free Text:EPLL Ladowiska\Wieruszow H603:freetext
+Free Text:EPLL Ladowiska\Zgierz H589:freetext
 Free Text:EPLL STAND + TWY [2022]\07:freetext
 Free Text:EPLL STAND + TWY [2022]\1:freetext
 Free Text:EPLL STAND + TWY [2022]\10:freetext
@@ -527,6 +555,29 @@ Free Text:EPMO STAND + TWY [2021]\D:freetext
 Free Text:EPMO STAND + TWY [2021]\E:freetext
 Free Text:EPMO STAND + TWY [2021]\S:freetext
 Free Text:EPMO STAND + TWY [2021]\W:freetext
+Free Text:EPPO Ladowiska\?rem H816:freetext
+Free Text:EPPO Ladowiska\?roda Wielkopolska H812:freetext
+Free Text:EPPO Ladowiska\Gniezno H826:freetext
+Free Text:EPPO Ladowiska\Grodzisk Wielkopolski H752:freetext
+Free Text:EPPO Ladowiska\Jarocin H781:freetext
+Free Text:EPPO Ladowiska\K?pno - Kliny H810:freetext
+Free Text:EPPO Ladowiska\K?pno - szpital H824:freetext
+Free Text:EPPO Ladowiska\Kalisz H755:freetext
+Free Text:EPPO Ladowiska\Konin H758:freetext
+Free Text:EPPO Ladowiska\Krotoszyn H815:freetext
+Free Text:EPPO Ladowiska\Leszno H759:freetext
+Free Text:EPPO Ladowiska\Mi?dzych�d H788:freetext
+Free Text:EPPO Ladowiska\Nowy Tomy?l H761:freetext
+Free Text:EPPO Ladowiska\Ostr�w Wielkopolski H809:freetext
+Free Text:EPPO Ladowiska\Pi?a H762:freetext
+Free Text:EPPO Ladowiska\Pleszew H818:freetext
+Free Text:EPPO Ladowiska\Pozna? - CM HCP H827:freetext
+Free Text:EPPO Ladowiska\Pozna? Lutycka H814:freetext
+Free Text:EPPO Ladowiska\Pozna? Szwajcarska H811:freetext
+Free Text:EPPO Ladowiska\Puszczykowo H764:freetext
+Free Text:EPPO Ladowiska\Szamotu?y H820:freetext
+Free Text:EPPO Ladowiska\Trzcianka H768:freetext
+Free Text:EPPO Ladowiska\Z?ot�w H808:freetext
 Free Text:EPPO STAND + TWY [2021]\1:freetext
 Free Text:EPPO STAND + TWY [2021]\10:freetext
 Free Text:EPPO STAND + TWY [2021]\11:freetext
@@ -636,6 +687,15 @@ Free Text:EPRZ STAND + TWY [2022]\R1:freetext
 Free Text:EPRZ STAND + TWY [2022]\R2:freetext
 Free Text:EPRZ STAND + TWY [2022]\R3:freetext
 Free Text:EPRZ STAND + TWY [2022]\Z:freetext
+Free Text:EPSC Ladowiska\?winouj?cie H804:freetext
+Free Text:EPSC Ladowiska\Gryfice H753:freetext
+Free Text:EPSC Ladowiska\Koszalin H807:freetext
+Free Text:EPSC Ladowiska\Szczecin Arko?ska H829:freetext
+Free Text:EPSC Ladowiska\Szczecin Unia Lubelska H767:freetext
+Free Text:EPSC Ladowiska\Szczecin Zdroje H823:freetext
+Free Text:EPSC Ladowiska\Szczecin Zdunowo H819:freetext
+Free Text:EPSC Ladowiska\Szczecinek H813:freetext
+Free Text:EPSC Ladowiska\Wa?cz H805:freetext
 Free Text:EPSC STAND + TWY [2022]\1:freetext
 Free Text:EPSC STAND + TWY [2022]\2:freetext
 Free Text:EPSC STAND + TWY [2022]\3:freetext
@@ -653,6 +713,25 @@ Free Text:EPSC STAND + TWY [2022]\F:freetext
 Free Text:EPSC STAND + TWY [2022]\G:freetext
 Free Text:EPSC STAND + TWY [2022]\H:freetext
 Free Text:EPSC STAND + TWY [2022]\R:freetext
+Free Text:EPSY Ladowiska\Bartoszyce H031:freetext
+Free Text:EPSY Ladowiska\Braniewo H106:freetext
+Free Text:EPSY Ladowiska\Dzia?dowo H037:freetext
+Free Text:EPSY Ladowiska\E?k Promedica H008:freetext
+Free Text:EPSY Ladowiska\E?k Wojskowy H009:freetext
+Free Text:EPSY Ladowiska\Elbl?g H007:freetext
+Free Text:EPSY Ladowiska\Gi?ycko H013:freetext
+Free Text:EPSY Ladowiska\Go?dap H014:freetext
+Free Text:EPSY Ladowiska\I?awa H046:freetext
+Free Text:EPSY Ladowiska\K?trzyn H054:freetext
+Free Text:EPSY Ladowiska\Lidzbark Warmi?ski H061:freetext
+Free Text:EPSY Ladowiska\Mor?g H070:freetext
+Free Text:EPSY Ladowiska\Mr?gowo - szpital H113:freetext
+Free Text:EPSY Ladowiska\Olecko H020:freetext
+Free Text:EPSY Ladowiska\Olsztyn MSW H076:freetext
+Free Text:EPSY Ladowiska\Olsztyn Wojew�dzki H021:freetext
+Free Text:EPSY Ladowiska\Pisz H082:freetext
+Free Text:EPSY Ladowiska\Szczytno H094:freetext
+Free Text:EPSY Ladowiska\W?gorzewo H099:freetext
 Free Text:EPSY STAND + TWY [2022]\1:freetext
 Free Text:EPSY STAND + TWY [2022]\2:freetext
 Free Text:EPSY STAND + TWY [2022]\3:freetext
@@ -665,6 +744,41 @@ Free Text:EPSY STAND + TWY [2022]\R:freetext
 Free Text:EPSY STAND + TWY [2022]\S:freetext
 Free Text:EPSY STAND + TWY [2022]\T1:freetext
 Free Text:EPSY STAND + TWY [2022]\T2:freetext
+Free Text:EPWA LADOWISKA\Ciechanow H507:freetext
+Free Text:EPWA LADOWISKA\Garwolin H557:freetext
+Free Text:EPWA LADOWISKA\Grodzisk Mazowiecki H509:freetext
+Free Text:EPWA LADOWISKA\Grojec H559:freetext
+Free Text:EPWA LADOWISKA\Konstancin H561:freetext
+Free Text:EPWA LADOWISKA\Kozienice H512:freetext
+Free Text:EPWA LADOWISKA\Makow Mazowiecki H523:freetext
+Free Text:EPWA LADOWISKA\Minsk Mazowiecki H585:freetext
+Free Text:EPWA LADOWISKA\Mlawa H525:freetext
+Free Text:EPWA LADOWISKA\Ostroleka H527:freetext
+Free Text:EPWA LADOWISKA\Ostrow Mazowiecka H528:freetext
+Free Text:EPWA LADOWISKA\Plock H531:freetext
+Free Text:EPWA LADOWISKA\Plonsk H532:freetext
+Free Text:EPWA LADOWISKA\Przasnysz H608:freetext
+Free Text:EPWA LADOWISKA\Pultusk - szpital H628:freetext
+Free Text:EPWA LADOWISKA\Radom H535:freetext
+Free Text:EPWA LADOWISKA\Ruda Tarnowska-Promnik (KPRP) H631:freetext
+Free Text:EPWA LADOWISKA\Siedlce H539:freetext
+Free Text:EPWA LADOWISKA\Sierpc H540:freetext
+Free Text:EPWA LADOWISKA\Sochaczew H541:freetext
+Free Text:EPWA LADOWISKA\Warszawa BBN Karowa H610:freetext
+Free Text:EPWA LADOWISKA\Warszawa Banacha - Pediatryczny H621:freetext
+Free Text:EPWA LADOWISKA\Warszawa Banacha H545:freetext
+Free Text:EPWA LADOWISKA\Warszawa Brodnowski H619:freetext
+Free Text:EPWA LADOWISKA\Warszawa CZD - Blawatki H622:freetext
+Free Text:EPWA LADOWISKA\Warszawa Lindleya H626:freetext
+Free Text:EPWA LADOWISKA\Warszawa MSW Woloska H616:freetext
+Free Text:EPWA LADOWISKA\Warszawa Poludniowy H633:freetext
+Free Text:EPWA LADOWISKA\Warszawa Stadion (COVID) HT500:freetext
+Free Text:EPWA LADOWISKA\Warszawa Szaserow H548:freetext
+Free Text:EPWA LADOWISKA\Wolomin H579:freetext
+Free Text:EPWA LADOWISKA\Wyszkow H580:freetext
+Free Text:EPWA LADOWISKA\Zegrze Poludniowe H617:freetext
+Free Text:EPWA LADOWISKA\Zuromin H553:freetext
+Free Text:EPWA LADOWISKA\Zyrardow H554:freetext
 Free Text:EPWA STAND + TWY [2021]\1:freetext
 Free Text:EPWA STAND + TWY [2021]\10:freetext
 Free Text:EPWA STAND + TWY [2021]\101:freetext
@@ -805,6 +919,25 @@ Free Text:EPWA STAND + TWY [2021]\ZB1:freetext
 Free Text:EPWA STAND + TWY [2021]\ZB2:freetext
 Free Text:EPWA STAND + TWY [2021]\ZO1:freetext
 Free Text:EPWA STAND + TWY [2021]\ZO2:freetext
+Free Text:EPWR Ladowiska\Boleslawiec H777:freetext
+Free Text:EPWR Ladowiska\Glogow H779:freetext
+Free Text:EPWR Ladowiska\Jelenia Gora H754:freetext
+Free Text:EPWR Ladowiska\Klodzko H756:freetext
+Free Text:EPWR Ladowiska\Legnica H784:freetext
+Free Text:EPWR Ladowiska\Lubin H330:freetext
+Free Text:EPWR Ladowiska\Milicz H789:freetext
+Free Text:EPWR Ladowiska\Olawa H803:freetext
+Free Text:EPWR Ladowiska\Polanica-Zdroj H790:freetext
+Free Text:EPWR Ladowiska\Swidnica H795:freetext
+Free Text:EPWR Ladowiska\Trzebnica H769:freetext
+Free Text:EPWR Ladowiska\Walbrzych H770:freetext
+Free Text:EPWR Ladowiska\Wolow H797:freetext
+Free Text:EPWR Ladowiska\Wroclaw Nowy Wojewodzki H821:freetext
+Free Text:EPWR Ladowiska\Wroclaw USK H806:freetext
+Free Text:EPWR Ladowiska\Wroclaw Wojewodzki H772:freetext
+Free Text:EPWR Ladowiska\Wroclaw Wojskowy H773:freetext
+Free Text:EPWR Ladowiska\Zabkowice Slaskie H799:freetext
+Free Text:EPWR Ladowiska\Zgorzelec H800:freetext
 Free Text:EPWR STAND + TWY [2022]\1:freetext
 Free Text:EPWR STAND + TWY [2022]\10:freetext
 Free Text:EPWR STAND + TWY [2022]\11:freetext
@@ -848,6 +981,13 @@ Free Text:EPWR STAND + TWY [2022]\E1:freetext
 Free Text:EPWR STAND + TWY [2022]\E2:freetext
 Free Text:EPWR STAND + TWY [2022]\E3:freetext
 Free Text:EPWR STAND + TWY [2022]\E4:freetext
+Free Text:EPZG Ladowiska\?ary H802:freetext
+Free Text:EPZG Ladowiska\?wiebodzin H796:freetext
+Free Text:EPZG Ladowiska\Gorz�w Wielkopolski H751:freetext
+Free Text:EPZG Ladowiska\Nowa S�l H760:freetext
+Free Text:EPZG Ladowiska\S?ubice H791:freetext
+Free Text:EPZG Ladowiska\Sul?cin H817:freetext
+Free Text:EPZG Ladowiska\Zielona G�ra H776:freetext
 Free Text:EPZG STAND + TWY\1:freetext
 Free Text:EPZG STAND + TWY\2:freetext
 Free Text:EPZG STAND + TWY\3:freetext
@@ -875,29 +1015,16 @@ Geo:EPSY Groundlayout SMR TWY:
 Geo:EPWA Groundlayout SMR JK:
 Geo:EPWR Groundlayout SMR TWY:
 Geo:EPZG Groundlayout SMR TWY:
-Regions:EPAR SMR:polygon
 Regions:EPBC SMR:polygon
-Regions:EPBK SMR:polygon
 Regions:EPBY SMR:polygon
 Regions:EPDE SMR:polygon
 Regions:EPGD SMR:polygon
-Regions:EPGL SMR:polygon
-Regions:EPGY SMR:polygon
-Regions:EPKA SMR:polygon
-Regions:EPKI SMR:polygon
 Regions:EPKK SMR:polygon
-Regions:EPKR SMR:polygon
 Regions:EPKT SMR:polygon
 Regions:EPLB SMR:polygon
 Regions:EPLL SMR:polygon
-Regions:EPLR SMR:polygon
-Regions:EPML SMR:polygon
 Regions:EPMO SMR:polygon
-Regions:EPNC SMR:polygon
-Regions:EPNT SMR:polygon
-Regions:EPOD SMR:polygon
 Regions:EPPO SMR:polygon
-Regions:EPPZ SMR:polygon
 Regions:EPRA SMR:polygon
 Regions:EPRZ SMR:polygon
 Regions:EPSC SMR:polygon
@@ -905,7 +1032,6 @@ Regions:EPSY SMR:polygon
 Regions:EPWA SMR JK:polygon
 Regions:EPWR SMR:polygon
 Regions:EPZG SMR:polygon
-Regions:EPZR SMR:polygon
 Runways:EPBY 08-26:extended centerline 1
 Runways:EPBY 08-26:extended centerline 1 left base
 Runways:EPBY 08-26:extended centerline 1 left ticks
@@ -1164,8 +1290,8 @@ Runways:EPZG 06-24:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
-ABOVE:0
-LEADER:-2
+ABOVE:1
+LEADER:-1
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -1174,7 +1300,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Blank
-WINDOWAREA:49.922557:19.360595:50.232998:20.208849
+WINDOWAREA:52.149166:20.921682:52.182499:21.012762
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
@@ -1186,11 +1312,11 @@ PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
 PLUGIN:RDF Plugin for Euroscope:Radius:50
-PLUGIN:RDF Plugin for Euroscope:RGB:150:150:150
-PLUGIN:TopSky plugin:HideMapData:TMA,MVA,APP,HOLD,BrdFIX
+PLUGIN:RDF Plugin for Euroscope:RGB:9:183:100
+PLUGIN:TopSky plugin:HideMapData:MVA,APP,BORDER,TMA,HOLD,LOA,PROC
 PLUGIN:vSMR:ActiveProfile:Airports
 PLUGIN:vSMR:Afterglow:1
-PLUGIN:vSMR:Airport:EPLL
+PLUGIN:vSMR:Airport:EPMO
 PLUGIN:vSMR:AppTrailsDots:4
 PLUGIN:vSMR:FontSize:1
 PLUGIN:vSMR:GndTrailsDots:4

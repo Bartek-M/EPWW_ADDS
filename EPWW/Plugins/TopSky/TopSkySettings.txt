@@ -12,25 +12,9 @@ Airspace_P_Flag=EPBY,EPGD,EPKK,EPKT,EPLB,EPLL,EPMO,EPPO,EPRZ,EPSC,EPSY,EPWA,EPWR
 Airspace_RVSM_Max=41000
 Airspace_SIGMET_Areas=EPWW
 
-AIW=1
-AIW_Floor=1000
-AIW_PredictionTime=1
-AIW_Type=1
-
-APW=1
-APW_AlertSound_Filter=2
-APW_AlertSound=0
-APW_Filter=1
-APW_Uncontrolled=1
-APW_Uncorrelated=0
-APW_UseCFL=1
-APW_VFR=0
-
-MSAW=1
-MSAW_AppInhibit=1
-MSAW_Filter=1
-MSAW_VFR=0
-
+AIW=0
+APW=0
+MSAW=0
 SAP=1
 
 Areas_Label_FontSize=8
@@ -46,8 +30,8 @@ Color_Urgency=225,25,26
 
 // General Colors
 Color_AIW_Intrusion=192,192,192
-Color_Active_Map_Type_4=150,60,30
-Color_Active_Map_Type_5=200,140,10
+Color_Active_Map_Type_4=120,30,0
+Color_Active_Map_Type_5=180,110,0
 Color_Arm=97,97,97
 Color_Background=106,106,106
 Color_Border=128,128,128
@@ -110,6 +94,8 @@ Color_VAW_Track_Position=219,219,219
 Color_Warning_FL=240,225,41
 Color_Weather_Map=255,0,0
 
+Divergence_CLAM=0
+Divergence_RAM=0
 
 Equip_UseCodes=1
 Equip_ModeS=WZLCISG
@@ -202,4 +188,4 @@ Setup_LoadMap=VFR
 Setup_LoadMap=MVA
 Setup_LoadMap=LOA
 Setup_LoadMap=TMA
-Setup_LoadMap=BrdFIX
+Setup_LoadMap=BORDER

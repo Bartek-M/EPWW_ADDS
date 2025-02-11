@@ -168,5 +168,5 @@ PLUGIN:vSMR:SRW2Rotation:0
 PLUGIN:vSMR:SRW2Scale:15
 PLUGIN:vSMR:SRW2TopLeftX:200
 PLUGIN:vSMR:SRW2TopLeftY:200
-PLUGIN:RDF Plugin for Euroscope:RGB:150:150:150
+PLUGIN:RDF Plugin for Euroscope:RGB:9:183:100
 PLUGIN:RDF Plugin for Euroscope:Radius:50
