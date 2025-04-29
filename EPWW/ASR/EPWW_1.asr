@@ -36,8 +36,6 @@ ARTCC low boundary:MRVA EPWA:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Airports:EDDB:name
 Airports:EDDB:symbol
-Airports:EPBC:name
-Airports:EPBC:symbol
 Airports:EPBY:name
 Airports:EPBY:symbol
 Airports:EPDE:name
@@ -46,8 +44,6 @@ Airports:EPGD:name
 Airports:EPGD:symbol
 Airports:EPKK:name
 Airports:EPKK:symbol
-Airports:EPKS:name
-Airports:EPKS:symbol
 Airports:EPKT:name
 Airports:EPKT:symbol
 Airports:EPLB:name
@@ -252,8 +248,8 @@ Runways:EPWR 11-29:name
 Runways:EPZG 06-24:centerline
 Runways:EPZG 06-24:name
 SHOWC:1
-SHOWSB:0
-BELOW:0
+SHOWSB:1
+BELOW:1500
 ABOVE:0
 LEADER:-2
 SHOWLEADER:1
@@ -264,7 +260,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:47.992500:4.926566:56.325834:39.071822
+WINDOWAREA:48.992213:16.483618:51.613653:23.646479
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1

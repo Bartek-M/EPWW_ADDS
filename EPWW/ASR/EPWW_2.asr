@@ -75,14 +75,14 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:48.022892:11.040949:56.356225:33.811070
+WINDOWAREA:47.425833:8.633760:57.425833:35.957906
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
 PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
 PLUGIN:EuroScope History Trails:HistoryTrailDotSize:5
 PLUGIN:EuroScope History Trails:HistoryTrailFade:1
-PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailLength:10
 PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:2000
 PLUGIN:EuroScope History Trails:HistoryTrailType:0

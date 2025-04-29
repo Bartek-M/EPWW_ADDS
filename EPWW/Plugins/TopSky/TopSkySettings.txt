@@ -100,7 +100,7 @@ Divergence_RAM=0
 Equip_UseCodes=1
 Equip_ModeS=WZLCISG
 
-FlightLeg_AutoShow=0
+FlightLeg_AutoShow=1
 FlightLeg_LineWidth=0
 FlightLeg_AssumeTime=5
 FlightLeg_Label_RFL=1
@@ -171,6 +171,10 @@ FlightLeg_FontSize=10
 Track_HistoryDots=0
 Track_PredictionLine=0
 Track_PredictionLine_Max=0
+
+// Window
+Window_CARD_Slider_Time=25
+Window_CARD_Slider_Distance=10
 
 // Weather
 WXR_ImageSize=256

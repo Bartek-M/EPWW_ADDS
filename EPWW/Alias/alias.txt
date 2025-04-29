@@ -141,8 +141,8 @@
 ..sby Standby
 .dct Proceed direct 
 ..dct Wykonuj bezposrednio na
-.uni No further ATC available, ATC service terminated. Advisory frequency 122.8.
-..uni Brak dalszej kontroli, sluzba kontroli ruchu lotniczego zakonczona. Czestotliwosc doradcza 122.8.
+.uni No further ATC available, ATC service terminated. Advisory frequency 122.8. Goodbye.
+..uni Brak dalszej kontroli, sluzba kontroli ruchu lotniczego zakonczona. Czestotliwosc doradcza 122.8. Do milego, czesc.
 .met Present weather at $1: $metar($1)
 ..met Aktualna pogoda w $1: $metar($1)
 .cont Contact $radioname($1), frequency $freq($1). Goodbye.
@@ -220,3 +220,7 @@
 .noresp .wallop Hello, I'm getting any response from $aircraft, could you please check him?
 .nocont .wallop Hello, I tried calling $aircraft several times and still don't have any contact with him, could you please check him?
 .nolist .wallop Hello, $aircraft is not listening to any of my instructions, could you please check him?
+
+;*** OTHER ***
+.ch .chat $aircraft
+.with Are you with me, on the frequency?

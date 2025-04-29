@@ -29,7 +29,7 @@ m_STCA_HighBottom:10000
 m_ExtendedCenterlinActiveArr:1
 m_UseHoveringTagForKeys:0
 m_AutoMessageForTextAircraft:1
-m_ShowRouteWhenAccepting:1
+m_ShowRouteWhenAccepting:0
 m_AllowAssumedACTagDown:0
 m_InhibitAutoPushOnHandoff:0
 m_RandomSquawks:0
@@ -53,7 +53,7 @@ m_ShowRAMWarning:1
 m_MagneticNorthUp:1
 m_ShowAForAltitudes:1
 m_Show500ForNonVisual:0
-SET_SetActiveAptBySectors:1
+SET_SetActiveAptBySectors:0
 SET_CapitalizeFPAndScratch:1
 m_SET_WTC_Light:L
 SET_WTC_Medium:M
@@ -72,7 +72,7 @@ m_SimulateRadars:0
 m_AllowCorrelatedTAGDown:1
 m_ShowDetailedOverUntagged:0
 m_ShowRectAroundFPTrack:1
-m_ShowRectAroundASEL:0
+m_ShowRectAroundASEL:1
 m_VatsimStatusURL:http://status.vatsim.net/
 m_OverrideWhoIsOnlineURL:0
 m_ShowVFRFlightPlanTrack:0
@@ -84,9 +84,9 @@ m_MessageWarningLevel:2
 m_MessageErrorLevel:2
 m_PointOutLevel:4
 m_HandoffRequestLevel:0
-m_CoordinationRequestLevel:2
+m_CoordinationRequestLevel:1
 m_HandoffAcceptLevel:0
-m_HandoffRefuseLevel:2
+m_HandoffRefuseLevel:1
 m_CoordinationAcceptLevel:0
 m_CoordinationRefuseLevel:0
 m_ServerMessageLevel:2
@@ -94,15 +94,15 @@ m_AtcMessageLevel:4
 m_BroadcastMessageLevel:2
 m_SupMessageLevel:4
 m_AtisMessageLevel:0
-m_PrivateMessageLevel:4
-m_FreqMessageLevel:4
+m_PrivateMessageLevel:3
+m_FreqMessageLevel:3
 m_MericUnits:0
 m_ShowCorrelatedInFpList:1
 m_ShowUncorrelatedInFpList:1
 m_ShowVFRInFpList:1
 m_ShowIFRInFpList:1
 m_ShowConcernedInFpList:1
-m_ShowUnconcernedInFpList:0
+m_ShowUnconcernedInFpList:1
 m_ZoomCenterUnderMouse:0
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
 m_STCA_LowPreWarnTime:60
@@ -112,8 +112,8 @@ m_STCA_HighWarnTime:60
 m_STCA_ShowCFL:0
 m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
-m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
-m_DontAutoCorrelateDuplicated:1
+m_AutoCorrelateDisabledSQs:
+m_DontAutoCorrelateDuplicated:0
 m_AcceptPilotSquawkForCorrelation:0
 m_MTCA_Floor:0
 m_MTCA_AltitudeDifference:1000
@@ -168,17 +168,17 @@ m_ConnectSELtoSIL:1
 m_ConnectDEPtoSEL:1
 m_ConnectSILtoTOP:0
 m_ScreenNumber:0
-m_ScreenPosition:0
+m_ScreenPosition:9
 m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
 m_PlanesListX:0
 m_PlanesListY:970
 m_MetarListX:2105
-m_MetarListY:46
+m_MetarListY:44
 m_VoiceListX:1457
 m_VoiceListY:24
 m_ControllerListX:2162
-m_ControllerListY:360
+m_ControllerListY:281
 m_ShowPlaneRangeRingsTracked:0
 m_ShowPlaneRangeRingsUntracked:0
 m_PlaneRangeRingsDistance1:1.5
@@ -197,13 +197,14 @@ MessageLinesNumber:4
 BackgroundGrphicsInThread:0
 SIL
 m_Visible:1
-m_X:1413
-m_Y:47
+m_X:1400
+m_Y:44
 m_LineNumber:8
 m_Resizable:1
-m_OrderingColumn:11
+m_OrderingColumn:12
 m_HeaderOnly:0
 m_Column:C/S:7:0:9:8:1:1::::0:0.0
+m_Column::1:1:1001:0:0:1:RDF Plugin for Euroscope:::0:0.0
 m_Column:RT:2:1:11:32:32:1::::0:0.0
 m_Column:CFL:4:1:20:11:0:1::::0:0.0
 m_Column:RFL:4:1:22:30:0:1::::2:0.0
@@ -221,13 +222,14 @@ m_Column:FREETEXT:10:0:19:29:29:1::::0:0.0
 END
 SEL
 m_Visible:1
-m_X:1413
-m_Y:81
+m_X:1400
+m_Y:166
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
 m_HeaderOnly:0
 m_Column:C/S:7:0:9:8:1:1::::0:0.0
+m_Column::1:1:1001:0:0:1:RDF Plugin for Euroscope:::0:0.0
 m_Column:RT:2:1:11:32:32:1::::0:0.0
 m_Column:CFL:4:1:20:11:11:1::::0:0.0
 m_Column:RFL:4:1:22:30:30:1::::2:0.0
@@ -248,15 +250,16 @@ m_Column:FREETEXT:10:0:19:29:29:1::::0:0.0
 END
 DEP
 m_Visible:1
-m_X:1413
-m_Y:115
+m_X:1400
+m_Y:200
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:3
+m_OrderingColumn:1
 m_HeaderOnly:0
 m_Column:ADEP:4:1:61:0:7:1::::3:0.0
 m_Column:R:2:1:63:7:7:1::::6:0.0
 m_Column:C/S:7:0:9:8:1:1::::4:0.0
+m_Column::1:1:1001:0:0:1:RDF Plugin for Euroscope:::0:0.0
 m_Column:RT:2:1:11:32:0:1::::6:0.0
 m_Column:ATYP:6:1:78:1001:7:1::TopSky plugin::3:0.0
 m_Column:EOBT:5:1:97:120:0:1::CDM Plugin::0:0.0
@@ -281,9 +284,10 @@ m_X:0
 m_Y:978
 m_LineNumber:0
 m_Resizable:1
-m_OrderingColumn:-1
+m_OrderingColumn:1
 m_HeaderOnly:0
-m_Column:C/S:7:0:9:0:1:1::::4:0.0
+m_Column:C/S:7:0:9:6:1:1::TopSky plugin::4:0.0
+m_Column::1:1:1001:0:0:1:RDF Plugin for Euroscope:::0:0.0
 m_Column:RT:2:1:11:32:32:0::::6:0.0
 m_Column:ATYP:6:1:78:0:0:1::::3:0.0
 m_Column:R:2:1:63:7:7:1::::6:0.0
@@ -295,7 +299,7 @@ END
 FP
 m_Visible:0
 m_X:0
-m_Y:45
+m_Y:44
 m_LineNumber:20
 m_Resizable:1
 m_OrderingColumn:1
@@ -449,10 +453,10 @@ CCAMS:ACList/Mode S EHS/m_Y:934
 CCAMS:ACList/Mode S EHS/m_LineNumber:0
 CCAMS:ACList/Mode S EHS/m_Resizable:1
 CCAMS:ACList/Mode S EHS/m_OrderingColumn:2
-CCAMS:ACList/Mode S EHS/m_Column_0:C/S:7:0:22:6:1:1:TopSky plugin:TopSky plugin:
-CCAMS:ACList/Mode S EHS/m_Column_1:HDG:4:0:502:0:0:1:CCAMS::
-CCAMS:ACList/Mode S EHS/m_Column_2:Roll:4:1:503:0:0:1:CCAMS::
-CCAMS:ACList/Mode S EHS/m_Column_3:GS:4:1:504:0:0:1:CCAMS::
+CCAMS:ACList/Mode S EHS/m_Column_0:C/S:7:0:22:6:99:1:TopSky plugin:TopSky plugin:TopSky plugin
+CCAMS:ACList/Mode S EHS/m_Column_1::1:1:1001:0:0:1:RDF Plugin for Euroscope::
+CCAMS:ACList/Mode S EHS/m_Column_2:HDG:4:0:502:0:0:1:CCAMS::
+CCAMS:ACList/Mode S EHS/m_Column_3:Roll:4:1:503:0:0:1:CCAMS::
 TopSky plugin:ACList/HOLDING LIST/m_Visible:0
 TopSky plugin:ACList/HOLDING LIST/m_X:20
 TopSky plugin:ACList/HOLDING LIST/m_Y:20
@@ -554,6 +558,7 @@ TopSky plugin:ACList/Uncontrolled List 2/m_Resizable:1
 TopSky plugin:ACList/Uncontrolled List 2/m_OrderingColumn:1
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Uncontrolled List 2/m_Column_1: CFL:5:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
-CCAMS:ACList/Mode S EHS/m_Column_4:ALT:4:1:4:0:0:1:::
-CCAMS:ACList/Mode S EHS/m_Column_5:FREETEXT:10:0:19:29:29:0:::
+CCAMS:ACList/Mode S EHS/m_Column_4:GS:4:1:504:0:15:1:CCAMS::
+CCAMS:ACList/Mode S EHS/m_Column_5:ALT:4:1:4:0:0:1:::
+CCAMS:ACList/Mode S EHS/m_Column_6:FREETEXT:10:0:19:29:29:0:::
 END
