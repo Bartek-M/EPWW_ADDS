@@ -1,10 +1,10 @@
 SYMBOLOGY
 SYMBOLSIZE
-Airports:symbol:12298141:1.0:0:0:7
-Airports:name:12632256:3.0:0:0:2
+Airports:symbol:15652040:1.0:0:0:7
+Airports:name:15652040:3.0:0:0:2
 Low airways:line:3289650:3.0:2:0:7
 Low airways:name:4605510:3.2:0:0:8
-High airways:line:3289650:3.0:1:0:7
+High airways:line:2631720:3.0:2:0:7
 High airways:name:4605510:3.2:1:0:8
 Fixes:symbol:6579300:1.0:0:1:7
 Fixes:name:6579300:3.2:0:0:2
@@ -22,12 +22,12 @@ NDBs:name:8355711:3.0:0:0:12
 NDBs:frequency:8421504:3.0:0:0:0
 Runways:centerline:33023:3.5:0:1:7
 Runways:extended centerline:6579300:4.0:0:0:7
-Runways:name:8355711:4.0:0:0:7
+Runways:name:8355711:3.5:0:0:7
 Datablock:non concerned:9868950:3.2:0:1:7
 Datablock:notified:16777215:3.2:0:1:7
 Datablock:assumed:53760:3.2:0:1:7
 Datablock:transfer to me initiated:33023:3.2:0:1:7
-Datablock:redundant:16777215:3.2:0:1:7
+Datablock:redundant:5938156:3.2:0:1:7
 Datablock:information:8099060:3.2:0:1:7
 Datablock:even flight level:7003043:3.2:0:0:7
 Datablock:odd flight level:7388905:3.2:0:0:7
@@ -62,8 +62,8 @@ Metar:normal:9884370:3.5:0:0:7
 Metar:modified:16762880:3.5:0:0:7
 Metar:timeout:10132122:3.5:0:0:7
 Other:wait:16777215:3.0:0:0:7
-Other:distance line:12615680:3.5:0:0:7
-Other:distance values:16777215:4.0:0:0:7
+Other:distance line:12615680:3.9:0:0:7
+Other:distance values:16777215:3.8:0:0:7
 Other:distance annotation:65535:5.0:0:0:7
 Other:separation leader:12615680:5.0:0:2:7
 Other:separation leader2:12615680:5.0:0:1:7
@@ -412,7 +412,7 @@ m_ClipArea:1
 END
 TAGS
 TAGFAMILY:P21-ACC
-TAGTYPE:0:12:1
+TAGTYPE:0:14:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:49::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:90::0:0:0:41::0:1:::1
@@ -425,8 +425,9 @@ TAGITEM:13::0:1:0:0:CPegasusES:7:1:::8
 TAGITEM:14::0:1:0:0:CPegasusES:7:1:::8
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:15::0:0:0:0:CPegasusES:0:1:::3
-TAGITEM:22::1:0:8:1:TopSky plugin:1:1:::0
+TAGITEM:22::0:0:8:1:TopSky plugin:1:1:::0
 TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:9::1:1:0:0:CPegasusES:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
@@ -487,7 +488,7 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:66::0:1:29:29::1:1:::1
 TAGTYPE:3:0:0
 TAGITEM:1::1:0:0:0::0:1:::1
-TAGTYPE:4:12:1
+TAGTYPE:4:14:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:49::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:90::0:0:0:41::0:1:::1
@@ -500,8 +501,9 @@ TAGITEM:13::0:1:0:0:CPegasusES:7:1:::8
 TAGITEM:14::0:1:0:0:CPegasusES:7:1:::8
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:15::0:0:0:0:CPegasusES:0:1:::3
-TAGITEM:22::1:0:8:1:TopSky plugin:1:1:::0
+TAGITEM:22::0:0:8:1:TopSky plugin:1:1:::0
 TAGITEM:80::0:0:0:0::0:1:::1
+TAGITEM:9::1:1:0:0:CPegasusES:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
@@ -1563,7 +1565,7 @@ TAGTYPE:22:0:0
 TAGITEM:1::1:0:0:0::0:1:::1
 TAGTYPE:23:0:0
 TAGITEM:1::1:0:0:0::0:1:::1
-TAGFAMILY:P21-APP-copy
+TAGFAMILY:P21-ACC-copy
 TAGTYPE:0:12:1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:90::0:0:0:41::0:1:::1
@@ -1605,9 +1607,6 @@ TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:18::0:0:0:0:CPegasusES:5:1:::1
 TAGITEM:19::0:1:0:0:CPegasusES:9:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:8::0:1:0:0:CPegasusES:1:1:::1
-TAGITEM:5::0:0:0:0:CPegasusES:7:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:19::0:1:0:0::1:1:::1
 TAGTYPE:2:14:1
@@ -1740,9 +1739,6 @@ TAGITEM:21::0:0:0:0:CPegasusES:0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGITEM:18::0:0:0:0:CPegasusES:5:1:::1
 TAGITEM:19::0:1:0:0:CPegasusES:9:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:8::0:1:0:0:CPegasusES:1:1:::1
-TAGITEM:5::0:0:0:0:CPegasusES:7:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:19::0:1:0:0::1:1:::1
 TAGTYPE:17:14:1

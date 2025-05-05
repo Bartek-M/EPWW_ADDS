@@ -1,0 +1,78 @@
+Plugins	Plugin0	\EPWW\Plugins\AMAN\Aman.dll
+Plugins	Plugin1	\EPWW\Plugins\CCAMS.dll
+Plugins	Plugin2	\EPWW\Plugins\CDM\CDM.dll
+Plugins	Plugin3	\EPWW\Plugins\P21Euroscope.dll
+Plugins	Plugin4	\EPWW\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin5	\EPWW\Plugins\InitialClimb\InitialClimbPlugin.dll
+Plugins	Plugin6	\EPWW\Plugins\RDFPlugin.dll
+Plugins	Plugin7	\EPWW\Plugins\TopSky\TopSky.dll
+Plugins	Plugin8	\EPWW\Plugins\VCH.dll
+Plugins	Plugin9	\EPWW\Plugins\vSMR\vSMR.dll
+Settings	aircraft	\EPWW\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\EPWW\ICAO\ICAO_Airlines.txt
+Settings	airports	\EPWW\ICAO\ICAO_Airports.txt
+Settings	airways	\EPWW\NavData\AIRWAY.txt
+Settings	sector	\EPWW-Sector.sct
+Settings	Settingsfile	\EPWW\Settings\ACC.txt
+Settings	SettingsfileARR	\EPWW\Settings\ACC.txt
+Settings	SettingsfileCONFLICT	\EPWW\Settings\ACC.txt
+Settings	SettingsfileDEP	\EPWW\Settings\ACC.txt
+Settings	SettingsfileFP	\EPWW\Settings\ACC.txt
+Settings	SettingsfilePLUGINS	\EPWW\Settings\ACC.txt
+Settings	SettingsfilePROFILE	\EPWW\Settings\Positions.txt
+Settings	SettingsfileSCREEN	\EPWW\Settings\ACC.txt
+Settings	SettingsfileSEL	\EPWW\Settings\ACC.txt
+Settings	SettingsfileSIL	\EPWW\Settings\ACC.txt
+Settings	SettingsfileSYMBOLOGY	\EPWW\Settings\P21.txt
+Settings	SettingsfileTAGS	\EPWW\Settings\P21.txt
+Settings	SettingsfileVCCS	\EPWW\Settings\G2G_comms.txt
+Settings	SettingsfilePILOTING	\EPWW\Settings\ACC.txt
+Settings	SettingsfileVOICE	\EPWW\Settings\EPWW_freq.txt
+Settings	alias	\EPWW\Alias\alias.txt
+Settings	AselKey	5111808
+Settings	FreqKey	22216704
+ASRFastKeys	1	\EPWW\ASR\EPWW_1.asr
+ASRFastKeys	2	\EPWW\ASR\AIRPORTS.asr
+ASRFastKeys	3	\EPWW\ASR\EPWA_SMR.asr
+ASRFastKeys	4	\EPWW\ASR\EPWW_2.asr
+ASRFastKeys	5	\EPWW\ASR\EPWW_3.asr
+ASRFastKeys	6	\EPWW\ASR\EPKK_SMR.asr
+ASRFastKeys	7	\EPWW\ASR\EPGD_SMR.asr
+ASRFastKeys	8	\EPWW\ASR\EPPO_SMR.asr
+ASRFastKeys	9	\EPWW\ASR\EPWW_4.asr
+LastSession	connecttype	0
+LastSession	server	AUTOMATIC
+LastSession	tovatsim	1
+LastSession	proxyserver	AUTOMATIC
+RecentFiles	Recent1	\EPWW\ASR\EPWW_1.asr
+Sounds	Sound0	\..\Sounds\handoff_request.wav
+Sounds	Sound1	\..\Sounds\handoff_accept.wav
+Sounds	Sound2	\..\Sounds\conflict_alert.wav
+Sounds	Sound3	\..\Sounds\radio_message.wav
+Sounds	Sound4	\..\Sounds\private_message.wav
+Sounds	Sound5	\..\Sounds\atc_message.wav
+Sounds	Sound6	\..\Sounds\broadcast_message.wav
+Sounds	Sound7	\..\Sounds\landline_request.wav
+Sounds	Sound8	\..\Sounds\supervisor_message.wav
+Sounds	Sound9	\..\Sounds\connected.wav
+Sounds	Sound10	\..\Sounds\disconnected.wav
+Sounds	Sound11	\..\Sounds\ongoing_request.wav
+Sounds	Sound12	\..\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\..\Sounds\ongoing_refused.wav
+Sounds	Sound14	\..\Sounds\ongoing_manual.wav
+Sounds	Sound15	\..\Sounds\new_atis.wav
+Sounds	Sound16	\..\Sounds\handoff_refused.wav
+Sounds	Sound17	\..\Sounds\pointout.wav
+Sounds	Sound17	\..\Sounds\pointout.wav
+Sounds	Sound18	\..\Sounds\supervisor_message.wav
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	SMR radar display
+Plugins	Plugin7Display2	Ground Radar display
+Plugins	Plugin3Display1	ModeS Function Relay (no display)
+Plugins	Plugin3Display2	SMR radar display
+Plugins	Plugin6Display0	Ground Radar display
+Plugins	Plugin6Display1	SMR radar display
+Plugins	Plugin6Display2	Standard ES radar screen
+Plugins	Plugin9Display0	SMR radar display

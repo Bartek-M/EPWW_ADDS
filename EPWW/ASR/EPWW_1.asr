@@ -35,39 +35,22 @@ ARTCC low boundary:MRVA EPPO SOUTH:
 ARTCC low boundary:MRVA EPWA:
 ARTCC low boundary:Tower CTR EPWW ALL:
 Airports:EDDB:name
-Airports:EDDB:symbol
 Airports:EPBY:name
-Airports:EPBY:symbol
 Airports:EPDE:name
-Airports:EPDE:symbol
 Airports:EPGD:name
-Airports:EPGD:symbol
 Airports:EPKK:name
-Airports:EPKK:symbol
 Airports:EPKT:name
-Airports:EPKT:symbol
 Airports:EPLB:name
-Airports:EPLB:symbol
 Airports:EPLL:name
-Airports:EPLL:symbol
 Airports:EPMO:name
-Airports:EPMO:symbol
 Airports:EPPO:name
-Airports:EPPO:symbol
 Airports:EPRA:name
-Airports:EPRA:symbol
 Airports:EPRZ:name
-Airports:EPRZ:symbol
 Airports:EPSC:name
-Airports:EPSC:symbol
 Airports:EPSY:name
-Airports:EPSY:symbol
 Airports:EPWA:name
-Airports:EPWA:symbol
 Airports:EPWR:name
-Airports:EPWR:symbol
 Airports:EPZG:name
-Airports:EPZG:symbol
 Geo:EPWW Coastlines:
 Runways:EDDB 06L-24R:centerline
 Runways:EDDB 06L-24R:extended centerline 1
@@ -248,10 +231,10 @@ Runways:EPWR 11-29:name
 Runways:EPZG 06-24:centerline
 Runways:EPZG 06-24:name
 SHOWC:1
-SHOWSB:1
+SHOWSB:0
 BELOW:1500
 ABOVE:0
-LEADER:-2
+LEADER:-1
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -260,14 +243,14 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:48.992213:16.483618:51.613653:23.646479
+WINDOWAREA:48.023078:5.878025:55.652473:37.138942
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
-PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:0
 PLUGIN:EuroScope History Trails:HistoryTrailDotSize:5
 PLUGIN:EuroScope History Trails:HistoryTrailFade:1
-PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailLength:10
 PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
 PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
 PLUGIN:EuroScope History Trails:HistoryTrailType:0
