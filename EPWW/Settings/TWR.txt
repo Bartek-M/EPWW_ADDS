@@ -223,7 +223,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:79
+m_Y:90
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -251,7 +251,7 @@ END
 DEP
 m_Visible:1
 m_X:0
-m_Y:113
+m_Y:124
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -262,7 +262,7 @@ m_Column:C/S:7:0:9:8:1:1::::4:0.0
 m_Column::1:1:1001:0:0:1:RDF Plugin for Euroscope:::0:0.0
 m_Column:RT:2:1:11:32:0:1::::6:0.0
 m_Column:ATYP:6:1:78:1001:7:1::TopSky plugin::3:0.0
-m_Column:EOBT:5:1:97:120:0:0::CDM Plugin::0:0.0
+m_Column:EOBT:5:1:97:120:0:1::CDM Plugin::0:0.0
 m_Column:ADES:4:1:17:7:7:1::::3:0.0
 m_Column:RWY:4:1:47:19:19:1::::8:0.0
 m_Column:SID:7:0:56:17:17:1::::8:0.0
@@ -276,7 +276,7 @@ m_Column:IFL:4:1:1:100:100:1:Initial Climb:Initial Climb:Initial Climb:0:0.0
 m_Column:CFL:4:1:20:11:11:1::::3:0.0
 m_Column:RFL:4:1:22:59:59:1::TopSky plugin:TopSky plugin:2:0.0
 m_Column:FREETEXT:10:0:19:29:29:1::::0:0.0
-m_Column:STD:3:1:1:0:0:0:Ground Radar plugin:::0:0.0
+m_Column:STD:3:1:1:0:0:1:Ground Radar plugin:::0:0.0
 END
 ARR
 m_Visible:1

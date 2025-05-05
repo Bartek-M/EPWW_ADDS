@@ -104,6 +104,13 @@ Runways:EPKK 07-25:extended centerline 2 left ticks
 Runways:EPKK 07-25:extended centerline 2 right ticks
 Runways:EPKK 07-25:name
 Runways:EPKT 08-26:centerline
+Runways:EPKT 08-26:extended centerline 1
+Runways:EPKT 08-26:extended centerline 1 left ticks
+Runways:EPKT 08-26:extended centerline 1 right base
+Runways:EPKT 08-26:extended centerline 1 right ticks
+Runways:EPKT 08-26:extended centerline 2
+Runways:EPKT 08-26:extended centerline 2 left ticks
+Runways:EPKT 08-26:extended centerline 2 right ticks
 Runways:EPKT 08-26:name
 Runways:EPLB 07-25:centerline
 Runways:EPLB 07-25:extended centerline 1
@@ -258,7 +265,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:P21-ACC
-WINDOWAREA:48.455450:15.324060:51.732252:24.277643
+WINDOWAREA:48.877338:14.655731:52.973341:25.847710
 PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
 PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
 PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
